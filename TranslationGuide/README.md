@@ -18,6 +18,7 @@ Total number of words in the book: 43,243.
   <tr>
      <td>Summary</td>
      <td></td>
+     <td></td>
      <td>86</td>
      <td></td>
      <td></td>
@@ -26,13 +27,15 @@ Total number of words in the book: 43,243.
      <td>Readme</td>
      <td></td>
      <td>709</td>
-     <td>03/09</td>
+     <td></td>
+     <td></td>
      <td></td>
    </tr>
    <tr>
      <td>Introduction</td>
      <td></td>
      <td>1.330</td>
+     <td></td>
      <td></td>
      <td></td>
    </tr>
@@ -42,11 +45,13 @@ Total number of words in the book: 43,243.
      <td>141</td>
      <td></td>
      <td></td>
+     <td></td>
    </tr>
    <tr>
      <td>Open Concepts and principles</td>
      <td></td>
      <td>1.292</td>
+     <td></td>
      <td></td>
      <td></td>
    </tr>
@@ -56,11 +61,13 @@ Total number of words in the book: 43,243.
      <td>3.207</td>
      <td></td>
      <td></td>
+     <td></td>
    </tr>
    <tr>
      <td>Open Research Software and Open Source</td>
-     <td>Ricardo Hartley</td>
+     <td></td>
      <td>2.087</td>
+     <td></td>
      <td></td>
      <td></td>
    </tr>
@@ -70,11 +77,13 @@ Total number of words in the book: 43,243.
      <td>1.671</td>
      <td></td>
      <td></td>
+     <td></td>
    </tr>
    <tr>
      <td>Open Access to Published Research Results</td>
      <td></td>
      <td>2.681</td>
+     <td></td>
      <td></td>
      <td></td>
    </tr>
@@ -84,11 +93,13 @@ Total number of words in the book: 43,243.
      <td>1.828</td>
      <td></td>
      <td></td>
+     <td></td>
    </tr>
    <tr>
      <td>Collaborative Platforms</td>
      <td></td>
      <td>1.005</td>
+     <td></td>
      <td></td>
      <td></td>
    </tr>
@@ -98,11 +109,13 @@ Total number of words in the book: 43,243.
      <td>1.137</td>
      <td></td>
      <td></td>
+     <td></td>
    </tr>
    <tr>
      <td>Open Science Policies</td>
      <td></td>
      <td>917</td>
+     <td></td>
      <td></td>
      <td></td>
    </tr>
@@ -112,11 +125,13 @@ Total number of words in the book: 43,243.
      <td>922</td>
      <td></td>
      <td></td>
+     <td></td>
    </tr>
    <tr>
      <td>Open Educational Resources</td>
      <td></td>
      <td>693</td>
+     <td></td>
      <td></td>
      <td></td>
    </tr>
@@ -126,11 +141,13 @@ Total number of words in the book: 43,243.
      <td>1.015</td>
      <td></td>
      <td></td>
+     <td></td>
    </tr>
    <tr>
      <td>On Learning and Training</td>
      <td></td>
      <td>6.319</td>
+     <td></td>
      <td></td>
      <td></td>
    </tr>
@@ -140,11 +157,13 @@ Total number of words in the book: 43,243.
      <td>4.095</td>
      <td></td>
      <td></td>
+     <td></td>
    </tr>
    <tr>
      <td>Examples and Practical Guidance</td>
      <td></td>
      <td>10.355</td>
+     <td></td>
      <td></td>
      <td></td>
    </tr>
@@ -154,6 +173,7 @@ Total number of words in the book: 43,243.
      <td>1.753</td>
      <td></td>
      <td></td>
+     <td></td>
    </tr>
    <tr>
      <td>References</td>
@@ -161,11 +181,13 @@ Total number of words in the book: 43,243.
      <td>Zotero</td>
      <td></td>
      <td></td>
+     <td></td>
    </tr>
    <tr>
      <td>About the Authors & Facilitators</td>
      <td></td>
      <td>2.539</td>
+     <td></td>
      <td></td>
      <td></td>
    </tr>
