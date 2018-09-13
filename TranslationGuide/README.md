@@ -1,5 +1,6 @@
 ## Translation guide for the Open Science training handbook
-The translation into Greek is coordinated by: Name + contact;
+The translation into Greek is coordinated by: [Vasso Kalaitzi](mailto:Vasso.Kalaitzi@kb.nl), [Giannis Tsakonas](mailto:john@lis.upatras.gr), [Elli Papadopoulou](mailto:elli.p@imis.athena-innovation.gr) and [Fotis Psomopoulos](mailto:fpsom@certh.gr).
+
 If you would like to contribute to the translation, you need to fork the repository to your own. There you can overwrite the content and send us a change/pull request with a short description of the change (e.g. translation of chapter...xx). The coordinator will check your suggestion and commit the change to the main version.
 
 Total number of words in the book: 43,243.
