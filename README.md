@@ -1,5 +1,5 @@
 ![](/Images/Icons/balloon_thought.png) <img src="/Images/Icons/planning_design.png" width="200" height="200" />
-## The Open Science Training Handbook - This will be the Greek version. Please go to the translation guide for more information.
+## Το Εκπαιδευτικό Βιβλίο Ανοιχτής Επιστήμης - This will be the Greek version. Please go to the translation guide for more information.
 
 [![Join the chat at https://gitter.im/The-Greek-Open-Science-Training-Handbook/Lobby](https://badges.gitter.im/The-Greek-Open-Science-Training-Handbook/Lobby.svg)](https://gitter.im/The-Greek-Open-Science-Training-Handbook/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
