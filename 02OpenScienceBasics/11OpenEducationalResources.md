@@ -1,54 +1,54 @@
 ## <img src="/Images/Icons/open_education.png" width="200" height="200" />
-## 11. Open Educational Resources
+## 11. Ανοικτοί Εκπαιδευτικοί Πόροι
 
-### What is it?
+### Τι είναι;
 
-Open Educational Resources (OER) are defined as "teaching, learning and research materials in any medium – digital or otherwise – that reside in the public domain or have been released under an open license that permits no-cost access, use, adaptation and redistribution by others with no or limited restrictions" ([William and Flora Hewlett Foundation definition](https://www.hewlett.org/strategy/open-educational-resources/)). Open educational resources include full courses, course materials, modules, textbooks, streaming videos, tests,  images, software, and any other tools, materials, or techniques used to support access to knowledge.
+Οι Ανοικτοί Εκπαιδευτικοί Πόροι (ΑΕΠ) ορίζονται ως "διδακτικό, μαθησιακό και ερευνητικό υλικό που τηρείται σε κάθε είδους μέσο – ψηφιακό ή άλλο – αποτελεί κοινό κτήμα ή διατίθεται με ανοικτή άδεια χρήσης και επιτρέπει πρόσβαση σε αυτό χωρίς κόστος καθώς και τη χρήση, την προσαρμογή και την αναδιανομή του από τρίτους χωρίς ή με ελάχιστους περιορισμούς" ([ορισμός από το Ίδρυμα William και Flora Hewlett](https://www.hewlett.org/strategy/open-educational-resources/)). Οι ανοικτοί εκπαιδευτικοί πόροι περιλαμβάνουν πλήρεις σειρές μαθημάτων, υλικό μαθημάτων, ενότητες, διδακτικά βιβλία, μετάδοση βίντεο, δοκιμασίες,  εικόνες, λογισμικό ή οποιαδήποτε άλλα εργαλεία, υλικά ή τεχνικές που χρησιμοποιούνται για να υποστηρίξουν την πρόσβαση στη γνώση.
 
-### Rationale
+### Σκεπτικό
 
-In many cases open educational resources are build upon research findings. If you are an Open Science practitioner it makes sense that your educational resources maintain the level of openness of your research. Moreover other instructors could use your material to elaborate new resources or adapt existing ones. In fact the creation of educational resources can be seen as a cycle similar to the research cycle: find, compose, adapt, use, and share ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)).
+Σε πολλές περιπτώσεις οι ανοικτοί εκπαιδευτικοί πόροι δομούνται στη βάση ερευνητικών ευρημάτων. Εάν εφαρμόζετε την Ανοικτή Επιστήμη, είναι λογικό να χρησιμοποιείτε εκπαιδευτικούς πόρους με το ίδιο επίπεδο ανοικτής πρόσβασης όπως και η έρευνά σας. Επιπλέον, άλλοι εκπαιδευτικοί θα μπορούσαν να χρησιμοποιήσουν το υλικό σας για να αναπτύξουν νέους πόρους ή να προσαρμόσουν άλλους που είναι ήδη διαθέσιμοι. Στην πραγματικότητα, η δημιουργία εκπαιδευτικών πόρων μπορεί να ιδωθεί ως ένας κύκλος που προσομοιάζει στον ερευνητικό κύκλο: εύρεση, σύνθεση, προσαρμογή, χρήση και διαμοιρασμός ([wikieducator.org/OER_Handbook/educator/OER_Lifecycle](http://wikieducator.org/OER_Handbook/educator/OER_Lifecycle)).
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Μαθησιακοί στόχοι
 
-1. Participants should learn the difference between open and non-open educational resources.
-2. Licensing is an essential part and indicates how to easily use and combine OER.
-3. Participants should know where to find and place created OER resources.
+1. Οι συμμετέχοντες θα πρέπει να μάθουν τη διαφορά μεταξύ ανοικτών και μη ανοικτών εκπαιδευτικών πόρων.
+2. Η αδειοδότηση παίζει βασικό ρόλο και δείχνει πόσο εύκολα μπορεί κανείς να χρησιμοποιήσει και να συνδυάσει ΑΕΠ.
+3. Οι συμμετέχοντες θα πρέπει να γνωρίζουν πού να βρουν και πού να τοποθετήσουν τους ΑΕΠ που έχουν δημιουργήσει.
 
-### Key components
+### Κύρια δομικά στοιχεία
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge and Skills
+#### Γνώσεις και Δεξιότητες
 
-Open Educational Resources are only OER, if they have an open license. However, there is no clear guideline for the choice of license for your resource. So what kind of license is appropriate? In practice, Creative Commons (CC) licenses are most often used for OER. 
-Open Creative Commons licenses are [CC0 (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY (Attribution)](https://creativecommons.org/licenses/by/4.0/) and [CC BY-SA (Attribution-ShareAlike)](https://creativecommons.org/licenses/by-sa/4.0/), which can be used for most educational resources. For the distribution of databases under a free license, Creative Commons is not ideal. Rather, choose a specially suitable open license such as ODbl, ODC-BY or PDDL to be legally compliant.
+Οι Ανοικτοί Εκπαιδευτικοί Πόροι αποτελούν ΑΕΠ μόνο αν διατίθενται υπό τους όρους ανοικτής άδειας χρήσης. Ωστόσο, δεν υπάρχουν ξεκάθαρες οδηγίες σχετικά με την επιλογή άδειας για τους πόρους σας. Επομένως, τι είδους άδεια είναι κατάλληλη; Στην πράξη, οι άδειες Creative Commons (CC) είναι οι πιο συχνά χρησιμοποιούμενες για ΑΕΠ.
+Ανοικτές άδειες Creative Commons είναι οι [CC0 (Εκχώρηση ως Κοινό Κτήμα)](https://creativecommons.org/publicdomain/zero/1.0/deed.el), [CC BY (Αναφορά Δημιουργού)](https://creativecommons.org/licenses/by/4.0/deed.el) και [CC BY-SA (Αναφορά Δημιουργού - Παρόμοια Διανομή)](https://creativecommons.org/licenses/by-sa/4.0/deed.el), οι οποίες μπορούν να χρησιμοποιηθούν για τους περισσότερους εκπαιδευτικούς πόρους. Οι άδειες Creative Commons δεν είναι ιδανικές για τη διανομή βάσεων δεδομένων υπό τους όρους ελεύθερης άδειας χρήσης. Είναι προτιμότερο να χρησιμοποιήσει κανείς μια καταλληλότερη ανοικτή άδεια όπως η ODbl, η ODC-BY ή η PDDL για να είναι νομικά καλυμμένος.
 
-It is important to stress the need to define who holds copyright or any other related rights of the research output. The copyright holder is the one who can decide to lift restrictions if they are not lifted by default through the licenses. Licenses should therefore be explained in detail to properly attribute authors and to create true OER. This also includes the combination of different license types and its consequences.
+Είναι σημαντικό να τονιστεί πως είναι αναγκαίο να αναφερθεί ο κάτοχος των πνευματικών δικαιωμάτων ή οποιωνδήποτε άλλων σχετικών δικαιωμάτων των ερευνητικών αποτελεσμάτων. Ο κάτοχος των πνευματικών δικαιωμάτων είναι αυτός που μπορεί να αποφασίσει να άρει περιορισμούς εφόσον αυτοί δεν αίρονται εξ ορισμού από την άδεια χρήσης. Συνεπώς, οι άδειες θα πρέπει να είναι αρκετά αναλυτικές ώστε να αναφέρονται οι συγγραφείς και να δημιουργούν πραγματικούς ΑΕΠ, συμπεριλαμβανομένων των συνδυασμών διαφορετικών ειδών αδειών χρήσης και τα επακόλουθά τους.
 
-Training should provide an overview of OER platforms and their intended use. OpenCourseWare (OCW) is one of the first open educational resource platforms and one of the key initiators of the open educational resources movement. Initiated at the Massachusetts Institute of Technology (MIT) in 2002, the [Open Education Consortium](http://www.oeconsortium.org) now provides materials from all over the world in form of courses under free licenses. Other pioneers were UNESCO and the William and Flora Hewlett Foundation which are still committed to open educational resources.
+Η κατάρτιση θα πρέπει να παρέχει μια επισκόπηση των πλατφορμών ΑΕΠ και της προτεινόμενης χρήσης τους. Η OpenCourseWare (OCW) είναι μία από τις πρώτες πλατφόρμες ανοικτών εκπαιδευτικών πόρων και από τους πρωτοπόρους του κινήματος των ανοικτών εκπαιδευτικών πόρων. Αφού δημιουργήθηκε στο Tεχνολογικό Iνστιτούτο Μασαχουσέτης (MIT) το 2002, η [Κοινοπραξία Ανοικτής Εκπαίδευσης](http://www.oeconsortium.org) παρέχει πλέον υλικό από όλο τον κόσμο με τη μορφή μαθημάτων με ελεύθερη άδεια χρήσης. Άλλοι πρωτοπόροι ήταν η UNESCO και το Ίδρυμα William και Flora Hewlett, οι οποίοι είναι ακόμη αφοσιωμένοι στους ανοικτούς εκπαιδευτικούς πόρους.
 
-Examples for OER platforms are:
+Παρακάτω αναφέρονται ενδεικτικές πλατφόρμες ΑΕΠ:
 
-- [Creative Commons Search](https://search.creativecommons.org/) for image, audio, and video files
-- [Open Education Consortium](http://www.oeconsortium.org) for open course material
-- [OERCommons](https://www.oercommons.org/) for educational resources
+- [Αναζήτηση Creative Commons](https://search.creativecommons.org/) για εικόνες, ηχητικά αρχεία και βίντεο
+- [Κοινοπραξία Ανοικτής Εκπαίδευσης](http://www.oeconsortium.org) για υλικό ανοικτών μαθημάτων
+- [OERCommons](https://www.oercommons.org/) για εκπαιδευτικούς πόρους
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Ερωτήσεις, προσκόμματα και συχνές παρανοήσεις
 
-Q: How can you ensure quality of the materials?
+Ε: Πώς μπορεί να διασφαλιστεί η ποιότητα του υλικού;
 
-A: This is not always a given. So far there is no quality seal for OER materials. Open user comments, peer review, and the publication of materials on platforms of established institutions like e.g. universities can provide a first indication of quality. Just as with printed text materials, quality can though not be guaranteed. This unsettles many users. The actuality and adaptability of the materials nevertheless speaks for the use of OER. At the end of the day, you only know yourself whether the selected material is suitable for the intended purpose and whether its content is correct.
+A: Η ποιότητα δεν είναι πάντοτε δεδομένη. Προς το παρόν, δεν υπάρχει σφραγίδα ποιότητας για υλικό ΑΕΠ. Τα δημόσια σχόλια των χρηστών, η αξιολόγηση από συναδέλφους και η δημοσίευση του υλικού σε πλατφόρμες καθιερωμένων ιδρυμάτων, όπως π.χ. πανεπιστήμια, μπορούν να παράσχουν κατ' αρχάς μια ένδειξη ποιότητας. Όπως ακριβώς συμβαίνει και με το έντυπο υλικό, η ποιότητα δεν μπορεί να είναι εγγυημένη. Το γεγονός αυτό δυσαρεστεί αρκετούς χρήστες. Παρ' όλ' αυτά, η διαθεσιμότητα και η προσαρμοστικότητα του υλικού καταδεικνύει τη χρησιμότητα των ΑΕΠ. Τελικά, εσείς ο ίδιος είστε ο μόνος που μπορεί να γνωρίζει αν το υλικό που έχετε επιλέξει είναι κατάλληλο για την προτεινόμενη χρήση του και αν το περιεχόμενό του είναι ορθό.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Μαθησιακά αποτελέσματα
 
-1. Trainees will be able to distinguish between copyrighted and free materials. 
-2. The combination of different license types and their effects will be known. 
-3. They will be able to find, use and create Open Educational Resources. 
+1. Οι καταρτιζόμενοι θα μπορούν να διακρίνουν ελεύθερο υλικό από υλικό που έχει κατωχυρωμένα πνευματικά δικαιώματα.
+2. Θα είναι εξοικειωμένοι με το συνδυασμό διαφορετικών ειδών αδειών χρήσης και τα αποτελέσματά τους.
+3. Θα μπορούν να βρουν, να χρησιμοποιήσουν και να δημιουργήσουν Ανοικτούς Εκπαιδευτικούς Πόρους.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Περαιτέρω πληροφορίες
 Butcher, Neil (2015): A Basic Guide to Open Educational Resources (OER): [hdl.handle.net/11599/36](http://hdl.handle.net/11599/36)
 
 Miao, Fengchun; Mishra, Sanjaya; McGreal, Rory (2016): Open Educational Resources: Policy, Costs and Transformation: [hdl.handle.net/11599/2306](http://hdl.handle.net/11599/2306)
