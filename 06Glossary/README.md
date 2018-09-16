@@ -35,7 +35,7 @@
 
 **Διδακτέα Ύλη**
 
-* Η διδακτέα ύλη αναφέρεται στα μαθήματα και σε άλλο εκπαιδευτικό περιεχόμενο που διδάσκονται σε ένα σχολείο ή σε ένα συγκεκριμένο μάθημα ή πρόγραμμα ακολουθώντας μια καθορισμένη δομή.
+* Η διδακτέα ύλη αναφέρεται στα μαθήματα και σε άλλο εκπαιδευτικό περιεχόμενο που διδάσκονται σε ένα σχολείο ή σε ένα συγκεκριμένο μάθημα ή πρόγραμμα που ακολουθεί μια καθορισμένη δομή.
 
 **Δεδομένα**
 
@@ -67,79 +67,79 @@
 
 **Impact Factor**
 
-* A numerical measure that indicates the average number of citations to articles published over the previous two years in a journal. It is frequently used as a proxy for a journal's relative importance. Its transfer to the impact of individual articles published in a journal is considered to be problematic.
+* Ένα αριθμητικό μέτρο που υποδεικνύει τον μέσο αριθμό των αναφορών σε άρθρα που δημοσιεύθηκαν τα προηγούμενα δύο χρόνια σε ένα περιοδικό. Χρησιμοποιείται συχνά ως μεταβλητή για να δηλώσει τη σημαντικότητα ενός περιοδικού. Η μεταφορά της χρήσης του στον υπολογισμό της επίδρασης μεμονωμένων άρθρων που δημοσιεύονται σε ένα περιοδικό θεωρείται προβληματική. 
 
-**Intellectual Property**
+**Πνευματική Ιδιοκτησία**
 
-* A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, paintings, sculpturing, video and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
+* Ένας νομικός όρος που αναφέρεται στις δημιουργίες του νου. Παραδείγματα πνευματικής ιδιοκτησίας αποτελούν τα μουσικά και λογοτεχνικά έργα, τα έργα ζωγραφικής και γλυπτικής, τα βίντεο και άλλα καλλιτεχνικά έργα, ανακαλύψεις και εφευρέσεις, αλλά και φράσεις, σύμβολα και σχέδια.
 
-**Journal**
+**Επιστημονικό Περιοδικό**
 
-* A series of published research articles. Historically divided into volumes and issues.
+* Μια σειρά από δημοσιευμένα ερευνητικά άρθρα. Ιστορικά χωρίζεται σε τόμους και θέματα.
 
-**Licence**
+**Άδεια**
 
-* A license allows a third party to perform certain actions with a work or data. The license informs about the usage rights of a resource (e.g. text, data, source code).
+* Μια άδεια επιτρέπει σε τρίτους να εκτελέσουν συγκεκριμένες ενέργειες με ένα έργο ή δεδομένο. Η άδεια ενημερώνει για τα δικαιώματα χρήσης ενός πόρου (π.χ. κείμενο, δεδομένα, πηγαίο κώδικα).
 
-**Metadata**
+**Μεταδεδομένα**
 
-* Metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location). They.
+* Τα μεταδεδομένα παρέχουν μια βασική περιγραφή των δεδομένων, που περιλαμβάνουν συχνά την ιδιότητα του δημιουργού, τις ημερομηνίες, τον τίτλο, την περίληψη, τις λέξεις-κλειδιά και τις πληροφορίες άδειας χρήσης. Εξυπηρετούν πρώτα απ 'όλα την ευρεσιμότητα δεδομένων (π.χ. δημιουργός, χρονική περίοδος, γεωγραφική θέση). They.
 
-**Open Access**
+**Ανοικτή Πρόσβαση**
 
-* Open Access refers to online, free of cost access to peer reviewed scientific content with free reusability regarding copyright restrictions.
+* Η Ανοικτή Πρόσβαση αναφέρεται σε ηλεκτρονική, χωρίς κόστος πρόσβαση σε αξιολογημένο επιστημονικό περιεχόμενο με δυνατότητα δωρεάν επαναχρησιμοποίησής του, όσον αφορά τους περιορισμούς πνευματικών δικαιωμάτων copyright.
 
-**Open Data**
+**Ανοικτά Δεδομένα**
 
-* Open Data are online, free of cost, accessible data that can be used, reused and distributed provided that the data source is attributed.
+* Τα Ανοικτά Δεδομένα είναι ηλεκτρονικά, χωρίς κόστος, προσβάσιμα δεδομένα που μπορούν να χρησιμοποιηθούν, να επαναχρησιμοποιηθούν και να διανεμηθούν υπό την προϋπόθεση ότι αποδίδεται η πηγή δεδομένων.
 
-**Open Evaluation**
+**Ανοικτή Αξιολόγηση**
 
-* The development of a fair evaluation system or protocol for research proposals, based on transparency of the process and those involved.
+* Η ανάπτυξη ενός δίκαιου συστήματος αξιολόγησης ή πρωτοκόλλου για τις ερευνητικές προτάσεις, που βασίζεται στη διαφάνεια της διαδικασίας και όσων εμπλέκονται σε αυτήν.
 
-**Open Lab Notebooks**
+**Ανοικτές Εργαστηριακές Σημειώσεις**
 
-* A concept of writing about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained.
+* Μια έννοια που αφορά την τακτική συγγραφή για την έρευνα, έτσι ώστε οι σημειώσεις και τα δεδομένα της έρευνας να συγκεντρώνονται και να δημοσιεύονται ηλεκτρονικά αμέσως μόλις αποκτώνται.
 
-**Open Materials**
+**Ανοικτά Υλικά**
 
-* Sharing of research materials, for example, biological and geological samples, is another Open Science practice.
+* Ο διαμοιρασμός ερευνητικών υλικών, για παράδειγμα, βιολογικών και γεωλογικών δειγμάτων, είναι μια ακόμη πρακτική της Ανοικτής Επιστήμης.
 
-**Open Peer Review**
+**Ανοικτή Ομότιμη Αναθεώρηση**
 
-* An umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process.
+* Ένας γενικός όρος που δηλώνει έναν αριθμό αλληλεπικαλυπτόμενων τρόπων με τους οποίους τα μοντέλα ομότιμης αναθεώρησης μπορούν να προσαρμοστούν σύμφωνα με τους στόχους της Ανοικτής Επιστήμης, συμπεριλαμβανομένης της ανοικτής ταυτότητας του αναθεωρητή και του δημιουργού, της δημοσίευσης αναφορών επανεξέτασης και της δυνατότητας μεγαλύτερης συμμετοχής στη διαδικασία ομότιμης αναθεώρησης.
 
-**Open Science**
+**Ανοικτή Επιστήμη**
 
-* Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society.
+* Η Ανοικτή Επιστήμη είναι το κίνημα που καθιστά προσβάσιμη την επιστημονική έρευνα, τα δεδομένα και τη διάδοσή τους σε όλα τα επίπεδα μιας ερευνητικής κοινωνίας.
 
-**Open Source**
+**Ανοικτή Πηγή**
 
-* Availability of source code for a piece of software, along with an open source license permitting reuse, adaptation, and further distribution.
+* Διαθεσιμότητα πηγαίου κώδικα για ένα λογισμικό, μαζί με άδεια ανοικτού κώδικα που επιτρέπει επαναχρησιμοποίηση, προσαρμογή και περαιτέρω διανομή.
 
-**Peer Review**
+**Ομότιμη Αναθεώρηση**
 
-* A process by which a research article is vetted by experts from the community before publication.
+* Μια διαδικασία με την οποία ένα ερευνητικό άρθρο εξετάζεται από εμπειρογνώμονες της κοινότητας, πριν από τη δημοσίευσή του.
 
-**Persistent Identifier (PID)**
+**Επίμονο Αναγνωριστικό (Persistent Identifier - PID)**
 
-* A persistent identifier (also PID) is a unique and stable denomination (reference) of a digital resource (e.g. research data) through allocation of a code that can be persistently and explicitly referenced on the internet.
+* Ένα Επίμονο Αναγνωριστικό (επίσης Persistent Identifier - PID) είναι μια μοναδική και σταθερή ονομασία (αναφορά) ενός ψηφιακού πόρου (π.χ. ερευνητικά δεδομένα) μέσω της κατανομής ενός κώδικα που μπορεί να αναφερθεί επίμονα και ρητά στο διαδίκτυο.
 
-**Persistent/Preferred File Formats **
+**Επίμονες / Προτιμώμενες μορφές αρχείων**
 
-* Non-proprietary formats that follow documented international standards, are commonly used by the research community, use standard character encoding (e.g. ASCII, UTF-8), and were compression, if used at all, is lossless.
+* Οι μη-ιδιόκτητες/αποκλειστικές μορφές που ακολουθούν τα τεκμηριωμένα διεθνή πρότυπα, χρησιμοποιούνται ευρέως από την ερευνητική κοινότητα, χρησιμοποιούν τυπική κωδικοποίηση χαρακτήρων (π.χ. ASCII, UTF-8) και η συμπίεσή τους, αν πραγματοποιηθεί, δεν αποφέρει απώλειες.
 
-**Preprint**
+**Προεκτυπωμένο Έγγραφο**
 
-* A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
+* Ένα χειρόγραφο που δεν έχει ακόμη υποβληθεί σε επίσημη ομότιμη αναθεώρηση, και διανέμεται για να λάβει έγκαιρη ανατροφοδότηση από ομότιμους σχετικά με την έρευνα.
 
-**Preregistration**
+**Προκαταχώριση**
 
-* Researchers have the option or are required to submit important information about their study (for example: research rationale, hypotheses, design and analytic strategy) to a public registry before beginning the study. Preregistration can help counter reporting bias.
+* Οι ερευνητές έχουν την επιλογή ή είναι υποχρεωμένοι να υποβάλλουν σημαντικές πληροφορίες σχετικά με τη μελέτη τους (για παράδειγμα: λογική της έρευνας, υποθέσεις, σχεδιασμός και στρατηγική ανάλυσης) σε κάποιο δημόσιο μητρώο, πριν ξεκινήσουν τη μελέτη. Η προκαταχώριση μπορεί να βοηθήσει στην αντιμετώπιση της προκατάληψης.
 
-**README file**
+**Άρχείο README**
 
-* File where you document your research data. The documentation should be sufficient to enable other researchers to understand, replicate or reproduce the data or reuse them in any other way.
+* Αρχείο όπου τεκμηριώνονται τα δεδομένα της έρευνας (ερευνητικά δεδομένα). Η τεκμηρίωση πρέπει να είναι επαρκής, ώστε να επιτρέπει σε άλλους ερευνητές να κατανοούν, να αντιγράφουν ή να αναπαράγουν τα δεδομένα, ή να τα επαναχρησιμοποιούν με οποιονδήποτε άλλο τρόπο.
 
 **Reporting Bias**
 
