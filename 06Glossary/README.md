@@ -135,61 +135,61 @@
 
 **Προκαταχώριση**
 
-* Οι ερευνητές έχουν την επιλογή ή είναι υποχρεωμένοι να υποβάλλουν σημαντικές πληροφορίες σχετικά με τη μελέτη τους (για παράδειγμα: λογική της έρευνας, υποθέσεις, σχεδιασμός και στρατηγική ανάλυσης) σε κάποιο δημόσιο μητρώο, πριν ξεκινήσουν τη μελέτη. Η προκαταχώριση μπορεί να βοηθήσει στην αντιμετώπιση της προκατάληψης.
+* Οι ερευνητές έχουν την επιλογή ή είναι υποχρεωμένοι να υποβάλλουν σημαντικές πληροφορίες σχετικά με τη μελέτη τους (για παράδειγμα: λογική της έρευνας, υποθέσεις, σχεδιασμός και στρατηγική ανάλυσης) σε κάποιο δημόσιο μητρώο, πριν ξεκινήσουν τη μελέτη. Η προκαταχώριση μπορεί να βοηθήσει στην αντιμετώπιση της μεροληψίας.
 
 **Άρχείο README**
 
 * Αρχείο όπου τεκμηριώνονται τα δεδομένα της έρευνας (ερευνητικά δεδομένα). Η τεκμηρίωση πρέπει να είναι επαρκής, ώστε να επιτρέπει σε άλλους ερευνητές να κατανοούν, να αντιγράφουν ή να αναπαράγουν τα δεδομένα, ή να τα επαναχρησιμοποιούν με οποιονδήποτε άλλο τρόπο.
 
-**Reporting Bias**
+**Μεροληπτική Αναφορά**
 
-* Reporting bias occurs when certain aspects of a study are systematically not reported transparently, creating wastage and redundancy through selective reporting or non-publishing.
+* Η μεροληπτική αναφορά παρουσιάζεται όταν ορισμένες πτυχές μιας μελέτης δεν αναφέρονται συστηματικά με διαφάνεια, προκαλώντας σπατάλες και πλεονασμούς μέσω επιλεκτικής αναφοράς ή μη δημοσίευσης.
 
-**Repository**
+**Αποθετήριο**
 
-* Repository is defined as the infrastructure and corresponding service that allows for the persistent, efficient and sustainable storage of digital objects (such as documents, data and code). 
+* Αποθετήριο ορίζεται η υποδομή και η αντίστοιχη υπηρεσία που επιτρέπει την επίμονη, αποδοτική και βιώσιμη αποθήκευση ψηφιακών αντικειμένων (όπως έγγραφα, δεδομένα και κώδικα). 
 
-**Reproducible Research**
+**Αναπαραγώγιμη Έρευνα**
 
-* Reproducibility is a spectrum and instructors should choose the definition most used by their audience. Generally speaking, reproducible research makes it possible to obtain similar results of a study or experiment and independent results obtained with the same methods but under different conditions (i.e., pertains to results). Some break the definition into levels of reproducibility, including computationally reproducible (also called "reproducible"): where code and data can be analyzed in a similar manner as in the original research to achieve the same results, and empirically reproducible (also called “replicable”): where an independent researcher can repeat a study using the same methods but creating new data.
+* Η αναπαραγωγιμότητα είναι ένα φάσμα και οι εκπαιδευτές πρέπει να επιλέξουν τον ορισμό που χρησιμοποιείται περισσότερο από το ακροατήριό τους. Σε γενικές γραμμές, η αναπαραγώγιμη έρευνα καθιστά δυνατή την επίτευξη παρόμοιων αποτελεσμάτων μιας μελέτης ή πειράματος και ανεξάρτητων αποτελεσμάτων που λαμβάνονται με τις ίδιες μεθόδους αλλά υπό διαφορετικές συνθήκες (δηλ. αναφορικά με τα αποτελέσματα). Κάποιοι διαχωρίζουν τον ορισμό σε επίπεδα αναπαραγωγιμότητας, περιλαμβάνοντας υπολογιστικά αναπαραγώγιμα (που ονομάζονται επίσης "αναπαραγώγιμα"): όπου ο κώδικας και τα δεδομένα μπορούν να αναλυθούν με παρόμοιο τρόπο όπως στην αρχική έρευνα για να επιτευχθούν τα ίδια αποτελέσματα, και εμπειρικά αναπαραγώγιμα (που ονομάζονται επίσης "αντιγράψιμα"): όπου ένας ανεξάρτητος ερευνητής μπορεί να επαναλάβει μια μελέτη χρησιμοποιώντας τις ίδιες μεθόδους αλλά δημιουργώντας νέα δεδομένα.
 
-**Research Impact**
+**Αντίκτυπος της Έρευνας**
 
-* Involve academic, economic and societal aspects, or some combination of all three. Impact is the demonstrable contribution that research makes in shifting understanding and advancing scientific, method, theory and application across and within disciplines, and the broader role that this plays outside of the research system.
+* Περιλαμβάνει ακαδημαϊκές, οικονομικές και κοινωνικές πτυχές, ή κάποιο συνδυασμό και των τριών. Ο αντίκτυπος είναι η αποδεδειγμένη συμβολή της έρευνας στην αλλαγή της κατανόησης και της προόδου της επιστήμης, της μεθόδου, της θεωρίας και της εφαρμογής σε όλους τους κλάδους και εντός αυτών, αλλά και του ευρύτερου ρόλου που παίζει εκτός του ερευνητικού συστήματος.
 
-**Research Funder**
+**Χρηματοδότης Έρευνας**
 
-* An institute, corporation or government body that provides financial assistance for research.
+* Ένα ίδρυμα, μια εταιρία ή ένα κυβερνητικό όργανο που παρέχει οικονομική βοήθεια για την έρευνα.
 
-**Scholarly Communication**
+**Επιστημονική Επικοινωνία**
 
-* The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community. The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community.
+* Η δημιουργία, ο μετασχηματισμός, η διάδοση και διατήρηση της γνώσης που σχετίζεται με τη διδασκαλία, την έρευνα και τις ακαδημαϊκές προσπάθειες. Η διαδικασία όπου οι ακαδημαϊκοί, οι μελετητές και οι ερευνητές διαμοιράζονται και δημοσιεύουν τα ευρήματά τους, ώστε να είναι διαθέσιμα στην ευρύτερη ακαδημαϊκή κοινότητα.
 
-**Sharing**
+**Διαμοιρασμός**
 
-* The joint use of a resource or space. A fundamental aspect of collaborative research. As most research is digitally-authored & digitally-published, the resulting digital content is non-rivalrous and can be shared without any loss to the original creator.
+* Η κοινή χρήση ενός πόρου ή ενός χώρου. Μια βασική πτυχή της συνεργατικής έρευνας. Καθώς οι περισσότερες έρευνες είναι ψηφιακώς συνταγμένες και ψηφιακώς δημοσιευμένες, το ψηφιακό περιεχόμενο που προκύπτει είναι μη ανταγωνιστικό και μπορεί να διαμοιραστεί χωρίς να επιφέρει κάποια απώλεια στον αρχικό δημιουργό.
 
-**Subscription**
+**Συνδρομή**
 
-* A form of business model whereby a fee is paid in order to gain access to a product or service - in this case, the outputs of scholarly research.
+* Μια μορφή επιχειρηματικού μοντέλου με την οποία καταβάλλεται μια αμοιβή προκειμένου να αποκτηθεί η πρόσβαση σε ένα προϊόν ή μια υπηρεσία - στην περίπτωση αυτή, στα αποτελέσματα της επιστημονικής έρευνας.
 
-**Trainer**
+**Εκπαιδευτής**
 
-* The moderator and instructor of a training, whose role is to ensure the training objectives are met, run the practice, and ensure no one is left out.
+* Ο συντονιστής και καθοδηγητής μιας εκπαιδευτικής δραστηριότητας, του οποίου ο ρόλος είναι να εξασφαλίσει την επίτευξη των στόχων της εκπαιδευτικής δραστηριότητας, να εκτελέσει την άσκηση, και να εξασφαλίσει ότι κανείς δεν παραλείπεται.
 
-**Training**
+**Εκπαίδευση**
 
-* Training is any organised activity that teaches, informs, or transfers skills or knowledge on specific useful competencies through active, engaged learning. 
+* Εκπαίδευση είναι οποιαδήποτε οργανωμένη δραστηριότητα που διδάσκει, ενημερώνει ή μεταφέρει δεξιότητες ή γνώσεις σχετικά με συγκεκριμένες χρήσιμες ικανότητες μέσω ενεργής, αφοσιωμένης μάθησης.
 
-**Training Format**
+**Μορφή Εκπαίδευσης**
 
-* A conventionally named, standardised delivery method that is applied by a trainer and includes any number of the pedagogical tools necessary (i.e. motivation/demotivation, hands-on approaches, etc).
+* Μια συμβατικά ονομαζόμενη, τυποποιημένη μέθοδος παράδοσης που εφαρμόζεται από έναν εκπαιδευτή και περιλαμβάνει οποιοδήποτε αριθμό αναγκαίων παιδαγωγικών εργαλείων (δηλαδή κίνητρα / αποθάρρυνση, πρακτικές προσεγγίσεις κ.λ.π.).
 
-**Version Control**
+**Έλεγχος Έκδοσης**
 
-* Version control is the management of changes to documents, computer programs, large web sites, and other collections of information in a logical and persistent manner, allowing for both track changes and the ability to revert a piece of information to a previous revision.
+* Έλεγχος έκδοσης είναι η διαχείριση των αλλαγών σε έγγραφα, προγράμματα υπολογιστών, μεγάλες ιστοσελίδες, και άλλες συλλογές πληροφοριών με λογικό και συνεχή τρόπο, επιτρέποντας τόσο την παρακολούθηση των αλλαγών όσο και την επαναφορά μιας πληροφορίας σε μια προηγούμενη αναθεώρηση.
 
-## Additional Resources
+## Επιπρόσθετοι Πόροι
 
 * [Open Research Glossary](http://www.righttoresearch.org/resources/OpenResearchGlossary/index.shtml), hosted by the R2RC.
 
