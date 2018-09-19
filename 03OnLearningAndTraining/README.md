@@ -17,25 +17,25 @@ To better prepare yourself for future events, you should reflect on what worked 
 
 In the following part, we will focus mainly on the first aspect \(preparation\) and then give you guidance on how to plan and manage your course. To start with, we will speak about some theoretical issues which will provide you with an idea of what teaching and learning means and how teaching adults differs from teaching teenagers or children.
 
-### Training vs. Teaching
+### Κατάρτιση vs. Διδασκαλία (Training vs. Teaching)
 
-* Teaching is more related to theoretical concepts than training, which is related to the practical application of knowledge \(i.e., development of skills\).
+* Η διδασκαλία σχετίζεται περισσότερο με τις θεωρητικές έννοιες από ότι η κατάρτιση, η οποία σχετίζεται με την πρακτική εφαρμογή της γνώσης \(δλδ., την ανάπτυξη δεξιοτήτων\).  
 
-* Teaching seeks to impart new knowledge while training equips the already knowledgeable with tools and techniques to develop a specific skill set.
+* Η διδασκαλία επιδιώκει να μεταδώσει νέες γνώσεις, ενώ η κατάρτιση εξοπλίζει τους ήδη γνώστες του αντικειμένου με εργαλεία και τεχνικές για να αναπτύξουν ένα συγκεκριμένο σύνολο δεξιοτήτων.
 
-* Teaching is, usually, done within the context of education and academic environments, while training is associated with post-high school and/or postgraduate short and intensive courses.
+* Η διδασκαλία γίνεται -συνήθως- στο πλαίσιο της εκπαίδευσης και του ακαδημαϊκού περιβάλλοντος, ενώ η κατάρτιση συνδέεται με μεταλυκειακά ή/και μεταπτυχιακά σύντομα και εντατικά μαθήματα.
 
-* Usually, teachers give feedback to their students, while trainers receive feedback from the learners.
+* Συνήθως, οι διδάσκοντες παρέχουν ανάδραση στους φοιτητές τους, ενώ οι εκπαιδευτές δέχονται ανάδραση από τους καταρτιζόμενους. 
 
-However...
+Ωστόσο...
 
-* Training is the process of teaching or learning a skill or job, and trainers do actually teach something. Therefore, training can be considered as a broader activity that may encompass teaching.
+* Η κατάρτιση είναι η διαδικασία διδασκαλίας ή εκμάθησης μίας δεξιότητας ή μίας εργασίας και οι εκπαιδευτές πραγματικά διδάσκουν ένα αντικείμενο. Ως εκ τούτου, η κατάρτιση μπορεί να θεωρηθεί ως μία ευρύτερη διαδικασία που μπορεί να συμπεριλάβει τη διδασκαλία.
 
-* Teaching may also include typical training activities and goals, such as practical sessions and demonstrations.
+* Η διδασκαλία μπορεί να συμπεριλάβει τυπικές εκπαιδευτικές δραστηριότητες και στόχους, όπως πρακτικές συνεδρίες και επίδειξη. 
 
-* Despite the fact that teaching and training techniques may sometimes vary, the difference between training and teaching is not related to the process itself but to the focus, with training generally having a more specific focus than teaching.
+* Παρά το γεγονός ότι οι τεχνικές διδασκαλίας και κατάρτισης μπορεί μερικές φορές να ποικίλουν, η διαφορά μεταξύ κατάρτισης και διδασκαλίας δεν σχετίζεται με την ίδια τη διαδικασία αλλά με την εστίαση, με την κατάρτιση γενικά να έχει πιο συγκεκριμένη εστίαση από τη διδασκαλία.
 
-* In order to develop competencies as a professional, a person needs to attempt to understand the theoretical concepts as well as to have practical exposure. Therefore, teaching and training are equally important and complementary educational concepts.
+* Προκειμένου να αναπτύξει κάποιος ικανότητες ως επαγγελματίες, θαπρέπει να προσπαθήσει να κατανοήσει τις θεωρητικές έννοιες καθώς και να έχει πρακτική εξάσκηση. Ως εκ τούτου, η διδασκαλία και η κατάρτιση είναι εξίσου σημαντικές και συμπληρωματικές εκπαιδευτικές έννοιες.
 
 ![](/Images/03 On Learning and Training/03_teaching_vs_learning.png)
 
