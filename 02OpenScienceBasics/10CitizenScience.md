@@ -53,9 +53,9 @@ Although there is still an open debate on how to assess some citizen science act
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Ερωτήματα, εμπόδια και συνήθεις εσφαλμένες αντιλήψεις
 
-* One of the controversies that usually arise in citizen projects is how researchers make data gathered by citizens publicly available. Researchers should be aware on how this data can be shared taking into account legal and ethical aspects.
+* Ένα από τα σημεία αντιπαράθεσης που εγείρονται στα έργα πολιτών είναι το πώς οι ερευνητές διαθέτουν δημόσια τα συλλεγόμενα δεδομένα από τους πολίτες. Οι ερευνητές θα πρέπει να είναι ενήμεροι σχετικά με το πώς μπορούν να μοιραστούν τα δεδομένα λαμβάνοντας υπόψη νομικές και ηθικές πτυχές.
 
-* The lack of rewards for citizen science practices if they do not end in a "traditional" research output: paper, proceeding etc. is a common issue when training on citizen science. Probably a good way to overcome this issue is to start a conversation on how participants would like to get rewarded and which methods they propose.
+* Η έλλειψη ανταμοιβών (παρώθησης) στην πρακτική εφαρμογή της Επιστήμης των Πολιτών - όπως θα μπορούσε να ήταν ένα "παραδοσιακό" ερευνητικό παράγωγο: άρθρο, δημοσίευση σε συνέδριο κλπ.- είναι ένα σύνηθες ζήτημα για την εκπαίδευση της Επιστήμης των Πολιτών. Πιθανόν, ένας καλός τρόπος να ξεπεραστεί το ζήτημα αυτό είναι τεθεί σε συζήτηση το πώς οι ίδιοι οι συμμετέχοντες θα θέλανε να ανταμοιφθούν και να προτείνουν οι ίδιοι τους τρόπους.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Μαθησιακά επιτεύγματα
