@@ -44,11 +44,11 @@ Citizen science is both an aim and enabler of Open Science. It can refer to citi
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Δεξιότητες
 
-* Be able to differentiate in different citizen science project approaches: projects where citizens just provide data versus projectes where the citizen engagement is along the research project.
+* Να είναι σε θέση να διακρίνει τις διαφοροποιήσεις μεταξύ των προσεγγίσεων προγραμμάτων Επιστήμης του Πολίτη: προγράμματα που οι πολίτες μόνο παρέχουν δεδομένα σε αντίθεση με προγράμματα που οι πολίτες εμπλέκονται σε όλες τις φάσεις του ερευνητικού έργου.
 
-* Be able to provide advice on legal and ethical aspects regarding the collection of data, including personal data from citizens.
+* Να είναι σε θέση να παρέχει συμβουλές σχετικά με νομικά και δεοντολογικά ζητήματα όσον αφορά τη συλλογή δεδομένων, συμπεριλαμβανομένων των προσωπικών δεδομένων από τους πολίτες.
 
-* Be able to provide different solutions on sharing research outputs.
+* Να είναι σε θέση να παρέχει διαφορετικές λύσεις για τη διάδοση των ερευνητικών αποτελεσμάτων.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Ερωτήματα, εμπόδια και συνήθεις εσφαλμένες αντιλήψεις
