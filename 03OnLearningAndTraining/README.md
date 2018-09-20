@@ -39,7 +39,7 @@ In the following part, we will focus mainly on the first aspect \(preparation\) 
 
 ![](/Images/03 On Learning and Training/03_teaching_vs_learning.png)
 
-### Strategies
+### Στρατηγικές
 
 There are different theoretical approaches to learning and training, which are sometimes also influenced by the culture you live in. Some people like to talk and give lectures. Others like to listen, others don’t. Some exercises are simple and look for clear answers. Other exercises are centered around problems and focus on giving the participants time and space to reflect on them and find solutions. Finally, some trainings are designed to give the participants maximum freedom and let them be as creative as possible. Success in trainings like these is more difficult to evaluate.
 
