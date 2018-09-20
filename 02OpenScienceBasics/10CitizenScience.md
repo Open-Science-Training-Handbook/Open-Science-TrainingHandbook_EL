@@ -37,7 +37,7 @@ Citizen science is both an aim and enabler of Open Science. It can refer to citi
 
 The European Citizen Science Association \(ECSA\) created a best practice guideline on what constitutes good citizen science and wrote the [10 principles of Citizen Science](https://ecsa.citizen-science.net/engage-us/10-principles-citizen-science). This statement has been translated into many languages. Those 10 principles offers a guidance of best practices for any project based on Citizen Science.
 
-When starting a citizen science project there are a few key elements that must be take into account: how are you going to engage citizens? how are you going to ensure data quality? how are you going to deal with ethics and legal issues?
+Κατά την έναρξη διενέργειας ενός έργου Επιστήμης των Πολιτών, υπάρχουν ορισμένα σημαντικά ζητήματα που χρειάζεται να λαμβάνονται υπόψη: Πώς θα εξασφαλιστεί η εμπλοκή των πολιτών; Πώς θα διασφαλιστεί η ποιότητα δεδομένων; Πώς θα γίνει η διαχείριση δεοντολογικών και νομικών ζητημάτων;
 
 Although there is still an open debate on how to assess some citizen science activities there are already some examples that can be included as societal impact in evaluation reports like the [cases studies](http://impact.ref.ac.uk/CaseStudies/Results.aspx?val=%22Citizen+Science%22) extracted from the UK Research Excellence Framework.
 
@@ -53,14 +53,14 @@ Although there is still an open debate on how to assess some citizen science act
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Ερωτήματα, εμπόδια και συνήθεις εσφαλμένες αντιλήψεις
 
-* Ένα από τα σημεία αντιπαράθεσης που εγείρονται στα έργα πολιτών είναι το πώς οι ερευνητές διαθέτουν δημόσια τα συλλεγόμενα δεδομένα από τους πολίτες. Οι ερευνητές θα πρέπει να είναι ενήμεροι σχετικά με το πώς μπορούν να μοιραστούν τα δεδομένα λαμβάνοντας υπόψη νομικές και ηθικές πτυχές.
+* Ένα από τα σημεία αντιπαράθεσης που εγείρονται στα έργα πολιτών είναι το πώς οι ερευνητές διαθέτουν δημόσια τα συλλεγόμενα δεδομένα από τους πολίτες. Οι ερευνητές θα πρέπει να είναι ενήμεροι σχετικά με το πώς μπορούν να μοιραστούν τα δεδομένα λαμβάνοντας υπόψη νομικά και δεοντολογικά ζητήματα.
 
 * Η έλλειψη ανταμοιβών (παρώθησης) στην πρακτική εφαρμογή της Επιστήμης των Πολιτών - όπως θα μπορούσε να ήταν ένα "παραδοσιακό" ερευνητικό παράγωγο: άρθρο, δημοσίευση σε συνέδριο κλπ.- είναι ένα σύνηθες ζήτημα για την εκπαίδευση της Επιστήμης των Πολιτών. Πιθανόν, ένας καλός τρόπος να ξεπεραστεί το ζήτημα αυτό είναι τεθεί σε συζήτηση το πώς οι ίδιοι οι συμμετέχοντες θα θέλανε να ανταμοιφθούν και να προτείνουν οι ίδιοι τους τρόπους.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Μαθησιακά επιτεύγματα
 
-1. Οι ασκούμενοι θα είναι σε θέση να γνωρίζουν τις διαφορετικές προσεγγίσεις των έργων της Επιστήμης των Πολιτών και το πώς να αντιμετωπίζουν νομικά και ηθικά ζητήματα, ειδικά σε σχέση με τη διαχείριση δεδομένων. 
+1. Οι ασκούμενοι θα είναι σε θέση να γνωρίζουν τις διαφορετικές προσεγγίσεις των έργων της Επιστήμης των Πολιτών και το πώς να αντιμετωπίζουν νομικά και δεοντολογικά ζητήματα, ειδικά σε σχέση με τη διαχείριση δεδομένων. 
 2. Οι συμμετέχοντες σε προγράμματα κατάρτισης ή σεμινάρια επιμόρφωσης θα μάθουν πώς να εμπλέκουν πολίτες στα δικά τους ερευνητικά έργα σε οποιαδήποτε φάση των ερευνητικών δραστηριοτήτων.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
