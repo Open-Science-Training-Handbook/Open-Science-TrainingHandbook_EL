@@ -139,49 +139,48 @@ In the following part, we will focus mainly on the first aspect \(preparation\) 
 
     3. επιχειρηματικοί εταίροι σε ένα έργο
 
-**The outcome of the training should be that the trainees:**
+**Ως αποτέλεσμα της κατάρτισης οι εκπαιδευόμενοι πρέπει να:**
 
-1. have a better practical understanding of the key concepts and corresponding applications for Open Science.
-2. confidently use what was learned during the training, thus increasing their impact in their professional environment.
-3. become able to network with advocates from multiple disciplines,and act in a global Open Science initiative.
+1. έχουν καλύτερη πρακτική κατανόηση των βασικών εννοιών και των αντίστοιχων εφαρμογών της Ανοικτής Επιστήμης.
+2. χρησιμοποιούν με σιγουριά όσα έμαθαν κατά τη διάρκεια της εκπαίδευσης, αυξάνοντας έτσι τον αντίκτυπό τους στο επαγγελματικό τους περιβάλλον.
+3. μπορούν να δικτυωθούν με υποστηρικτές από πολλαπλούς κλάδους και να δράσουν σε μια παγκόσμια πρωτοβουλία Ανοικτής Επιστήμης. 
 
 ## <img src="/Images/Icons/guidance.png" width="150" height="150" />
 ### Teaching adults
 
-Scholarly research is practised by adults, as such, the participants of any training in Open Science will most likely be adults, often with a first or second degree in higher education. It is therefore interesting to see, how far teaching children or teenagers \(pedagogy\) differs from teaching adults \(andragogy\). The Canadian Literacy and Learning Network did some interesting work on this difference and recapitulated it in seven principles:
+Η ακαδημαϊκή έρευνα ασκείται από ενήλικες, ως εκ τούτου, οι συμμετέχοντες σε οποιαδήποτε εκπαίδευση στην Ανοικτή Επιστήμη πιθανότατα θα είναι ενήλικες, συχνά πρώτου ή δεύτερου κύκλου σπουδών στην τριτοβάθμια εκπαίδευση. Είναι λοιπόν ενδιαφέρον να δούμε πόσο διαφέρει η διδασκαλία των παιδιών ή των εφήβων \(pedagogy, παιδαγωγική\) από τη διδασκαλία των ενηλίκων \(andragogy, ανδραγωγική\). Το Δίκτυο Καναδικής Παιδείας και Μάθησης \(Canadian Literacy and Learning Network\) έκανε κάποια ενδιαφέρουσα εργασία για αυτή τη διαφορά και την ανακεφαλαιώνει σε επτά αρχές:
 
-1. **Adults must want to learn**. This means that the inner motivation and added values are decisive and it might be worth to know them before starting the course.
+1. **Οι ενήλικες πρέπει να θέλουν να μάθουν.** Αυτό σημαίνει ότι το εσωτερικό κίνητρο και οι προστιθέμενες αξίες είναι καθοριστικές και ίσως αξίζει να τις γνωρίσετε πριν ξεκινήσετε το μάθημα.
 
-2. **Adults will learn only what they feel they need to learn.** Adults are practical in their approach to learning; they want to know, "How is this going to help me right now?" You should therefore be practical and direct.
+2. **Οι ενήλικες θα μάθουν μόνο ότι πιστεύουν ότι πρέπει να μάθουν.** Οι ενήλικες είναι πρακτικοί στην προσέγγισή τους στη μάθηση. θέλουν να μάθουν: "Πώς θα με βοηθήσει αυτό τώρα;" Επομένως, πρέπει να είστε πρακτικοί και άμεσοι.
 
-3. **Adults learn by doing.** This is true for children too, but active and immediate participation matters more for adults.
+3. **Οι ενήλικες μαθαίνουν μέσα από την πράξη (learn by doing).** Αυτό ισχύει και για τα παιδιά, αλλά η ενεργή και άμεση συμμετοχή έχει μεγαλύτερη σημασία για τους ενήλικες.
 
-4. **Adult learning focuses on problems and the problems must be realistic.** The participants will often come with a problem and it will be your task to discover gaps and try to close them.
+4. **Η εκπαίδευση ενηλίκων επικεντρώνεται σε προβλήματα και τα προβλήματα πρέπει να είναι ρεαλιστικά.** Οι συμμετέχοντες θα έρχονται συχνά με ένα πρόβλημα και θα είναι καθήκον σας να ανακαλύψετε τα κενά τους και να προσπαθήσετε να τα καλύψετε.
 
-5. **Experience affects adult learning.** Adults have more experience than children, either negative or positive. You can make use of this experience by avoiding negative associations.
+5. **Η εμπειρία επηρεάζει την εκπαίδευση ενηλίκων.** Οι ενήλικες έχουν μεγαλύτερη εμπειρία από τα παιδιά, είτε αρνητική είτε θετική. Μπορείτε να αξιοποιήσετε αυτή την εμπειρία αποφεύγοντας αρνητικές συσχετίσεις.
 
-6. **Adults learn best in an informal situation\*\***.\*\* School-age youngsters usually have to follow a curriculum.  Often, adults learn only what they feel they need to know. You should therefore try to involve your audience in the learning process. This may happen by making the environment relaxed, informal and inviting.
+6. **Οι ενήλικες μαθαίνουν καλύτερα σε μια άτυπη κατάσταση\*\***.\*\* Οι νέοι σχολικής ηλικίας πρέπει συνήθως να ακολουθήσουν ένα πρόγραμμα σπουδών. Συχνά, οι ενήλικες μαθαίνουν μόνο ότι πιστεύουν ότι πρέπει να γνωρίζουν. Επομένως, θα πρέπει να προσπαθήσετε να εμπλέξετε το ακροατήριό σας στη διαδικασία εκμάθησης. Αυτό μπορεί να συμβεί κάνοντας το περιβάλλον χαλαρό, άτυπο και φιλόξενο.
 
-7. **Adults want guidance\*\***.\*\* Adults want information that will help them improve their situation or solve problems, but they do not want to be told what to do, but rather choose options based on their individual needs.
+7. **Οι ενήλικες θέλουν καθοδήγηση\*\***.\*\* οι ενήλικες θέλουν πληροφορίες που θα τους βοηθήσουν να βελτιώσουν την κατάστασή τους ή να λύσουν προβλήματα, αλλά δεν θέλουν να τους λενε τι να κάνουν, αλλά να επιλέξουν δυνατότητες με βάση τις ατομικές τους ανάγκες.
 
-Therefore, you will need to
+Ως εκ τούτου, θα πρέπει να
 
-* provide the discovery points, tools and support where researchers will find them
+* παρέχετε τα σημεία ανακάλυψης, τα εργαλεία και την υποστήριξη όπου οι ερευνητές θα τα βρουν
 
-* prepare online documentation with clear, understandable, and up to date guidance
+* ετοιμάσετε ηλεκτρονική τεκμηρίωση με σαφή, κατανοητή και επικαιροποιημένη καθοδήγηση
 
-* put together good usable \(and discoverable\) tools or templates to generate it.
+* να συνθέσετε καλά, χρήσιμα \(και ανακαλυπτόμενα\) εργαλεία ή πρότυπα ώστε αυτά να δημιουργηθούν.
 
-In summary, adults have their interests focused on their own improvement and see training as a self-centered, capacity-building exercise. Adults like to be respected as such, and that their expectations are individually met, in an exhaustive way whenever possible.
+Εν ολίγοις, οι ενήλικες έχουν τα ενδιαφέροντά τους επικεντρωμένα στη δική τους βελτίωση και βλέπουν την κατάρτιση ως μια εξειδικευμένη άσκηση ανάπτυξης ικανοτήτων. Οι ενήλικες επιθυμούν να γίνονται σεβαστοί ως τέτοιοι, και οι προσδοκίες τους να εκπληρώνονται ατομικά, σε εξαντλητικό βαθμό, όποτε είναι δυνατό.  
 
-### Bloom’s Taxonomy
+### Ταξινομία Bloom \(Bloom’s Taxonomy\)
 
-Learning outcomes are often the most specific way of establishing how a training instance is delivered, by tailoring whatever is needed so that the best part of the expected outcomes are met by the best part of the audience. Learners meet outcomes in a variety of ways, often amenable to a quantitative evaluation.
+Τα μαθησιακά αποτελέσματα είναι συχνά ο πιο συγκεκριμένος τρόπος για τον προσδιορισμό του τρόπου παράδοσης μίας εκπαίδευσης, προσαρμόζοντας οτιδήποτε χρειάζεται ώστε να καλυφθεί το μεγαλύτερο μέρος των αναμενόμενων αποτελεσμάτων από το μεγαλύτερο μέρος του κοινού. Οι εκπαιδευόμενοι ικανοποιούν τα αποτελέσματα με διάφορους τρόπους, συχνά υποκείμενους σε ποσοτική αξιολόγηση.
 
-Specifying outcomes is part of handling training as a cognitive process. In 1956 Benjamin Bloom created a taxonomy of cognitive levels that has been modified through time. This is a very useful tool to build consistent and reusable learning outcomes in any subject matter. Transitions between non-contiguous levels of cognition is generally not acceptable. The taxonomy helps to detect potentially difficult situations where assessment can fail because the cognition level of the learning delivery is not the same as the cognition level of the assessment that is being used.![](/Images/03 On Learning and Training/03_bloom_s_taxonomy.png)A present day version  \(since 2001\) can also be found here: [https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
+Ο καθορισμός των αποτελεσμάτων είναι μέρος του χειρισμού της εκπαίδευσης ως γνωστικής διαδικασίας. Το 1956 ο Benjamin Bloom δημιούργησε μια ταξινόμηση των γνωστικών επιπέδων που έχει τροποποιηθεί διαχρονικά. Αυτό είναι ένα πολύ χρήσιμο εργαλείο για τη δημιουργία συνεκτικών και επαναχρησιμοποιούμενων μαθησιακών αποτελεσμάτων σε οποιοδήποτε αντικείμενο. Οι μεταβάσεις μεταξύ μη συνεχών επιπέδων γνώσης είναι γενικά μη αποδεκτές. Η ταξονομία συμβάλλει στην ανίχνευση δυνητικά δύσκολων καταστάσεων όπου η αξιολόγηση μπορεί να αποτύχει επειδή το επίπεδο γνώσης της εκπαιδευτικής παράδοσης δεν είναι το ίδιο με το επίπεδο γνώσης της αξιολόγησης που χρησιμοποιείται. ![](/Images/03 On Learning and Training/03_bloom_s_taxonomy.png) Μία σύγχρονη έκδοση \(από το 2001\) είναι διαθέσιμη εδώ: [https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
 
-Bloom’s Taxonomy is a classification method with six levels. Using Bloom’s Taxonomy is worth the effort because it represents a significant step towards a desire to build robust training and teaching. Together with Bloom’s Taxonomy you can find several types of design aids such as annotated terminologies, verbs to use or to avoid in course planning and building assessment questions, etc.
-
+Η ταξινόμηση του Bloom είναι μια μέθοδος ταξινόμησης με έξι επίπεδα. Η χρήση της Ταξινομίας του Bloom αξίζει την προσπάθεια επειδή αντιπροσωπεύει ένα σημαντικό βήμα προς την επιθυμία για οικοδόμηση ισχυρής κατάρτισης και διδασκαλίας. Μαζί με τη Ταξινόμηση του Bloom μπορείτε να βρείτε διάφορους τύπους βοηθημάτων σχεδίασης όπως σχολιασμένες ορολογίες (annotated terminologies), ρήματα για χρήση ή αποφυγή σε θέματα σχεδιασμού και δημιουργίας ερωτήσεων αξιολόγησης, κλπ.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" /> <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Learning objectives & learning outcomes
