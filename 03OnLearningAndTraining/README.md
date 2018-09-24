@@ -183,53 +183,53 @@ In the following part, we will focus mainly on the first aspect \(preparation\) 
 Η ταξινόμηση του Bloom είναι μια μέθοδος ταξινόμησης με έξι επίπεδα. Η χρήση της Ταξινομίας του Bloom αξίζει την προσπάθεια επειδή αντιπροσωπεύει ένα σημαντικό βήμα προς την επιθυμία για οικοδόμηση ισχυρής κατάρτισης και διδασκαλίας. Μαζί με τη Ταξινόμηση του Bloom μπορείτε να βρείτε διάφορους τύπους βοηθημάτων σχεδίασης όπως σχολιασμένες ορολογίες (annotated terminologies), ρήματα για χρήση ή αποφυγή σε θέματα σχεδιασμού και δημιουργίας ερωτήσεων αξιολόγησης, κλπ.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" /> <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning objectives & learning outcomes
+### Μαθησιακοί στόχοι (learning objectives) και μαθησιακά αποτελέσματα (learning outcomes)
 
-These two terms are often used interchangeably by the training community. Objectives, comprising aims or goals, and Outcomes, comprising tangible results, may overlap, but are not genuinely the same.
+Αυτοί οι δύο όροι χρησιμοποιούνται συχνά εναλλακτικά από την εκπαιδευτική κοινότητα. Οι στόχοι (learning objectives), που περιλαμβάνουν σκοπούς ή επιδιώξεις, και τα αποτελέσματα (learning outcomes), που περιλαμβάνουν απτά αποτελέσματα, μπορεί να αλληλεπικαλύπτονται, αλλά δεν είναι στην ουσία τα ίδια.
 
-When designing training, you should think primarily of objectives, then list what outcomes you want your audience to reach for. Do not worry if they seem to overlap here and there, or if, as in most cases, an objective encloses one or more outcomes. Design all your practical exercises around specific outcomes.
+Κατά το σχεδιασμό της κατάρτισης, θα πρέπει να σκεφτείτε πρωτίστως τους στόχους και, στη συνέχεια, να αναφέρετε ποια αποτελέσματα θέλετε να επιτύχει το κοινό σας. Μην ανησυχείτε αν φαίνεται να επικαλύπτονται εδώ και εκεί ή αν, όπως στις περισσότερες περιπτώσεις, ένας στόχος περικλείει ένα ή περισσότερα αποτελέσματα. Σχεδιάστε όλες τις πρακτικές σας ασκήσεις γύρω από συγκεκριμένα αποτελέσματα.
 
-Note: you should avoid using the abbreviation LO as it becomes ambiguous.
+Σημείωση: θα πρέπει να αποφύγετε τη χρήση της συντομογραφίας LO καθώς καθίσταται διφορούμενη.
 
-Here is an attempt to clarify this situation and remove ambiguities:
+Ακολουθεί μια προσπάθεια να αποσαφηνιστεί αυτή η κατάσταση και να αρθούν οι αμφισημίες:
 
-#### **Learning objectives**
+#### **Μαθησιακοί στόχοι (Learning objectives)**
 
-* Describe the goals and intentions of the instructor.
+* Περιγράψτε τους στόχους και τις προθέσεις του εκπαιδευτή.
 
-* State the purpose and goals of the course.
+* Δηλώστε το σκοπό και τους στόχους του μαθήματος.
 
-* Focus on content and skills important within the classroom or programme.
+* Επικεντρωθείτε στο περιεχόμενο και τις δεξιότητες που είναι σημαντικές μέσα στην τάξη ή στο πρόγραμμα \(σπουδών\).
 
-* May describe what the instructors will do.
+* Μπορείτε να περιγράψετε τι θα κάνουν οι εκπαιδευτές.
 
-* Should be specific and detailed.
+* Πρέπει να είναι συγκεκριμένοι και λεπτομερείς.
 
-#### **Learning outcomes**
+#### **Μαθησιακά αποτελέσματα (Learning outcomes)**
 
-* Student Learning Outcomes catalog the overarching "products" of the course and are the evidence that the goals or objectives were achieved.
+* Τα Μαθησιακά Αποτελέσματα των Φοιτητών απαριθμούν τα πρωταρχικά "προϊόντα" του μαθήματος και είναι η απόδειξη ότι επιτεύχθηκαν οι σκοποί ή οι επιδιώξεις.
 
-* Learning Outcomes are statements that describe or list measurable and essential mastered content-knowledge—reflecting skills, competencies, and knowledge that students have achieved and can demonstrate upon successfully completing a course.
+* Τα Μαθησιακά Αποτελέσματα είναι δηλώσεις που περιγράφουν ή απαριθμούν τα μετρήσιμα και ουσιαστικά αποκτηθέντα σε σχέση με το περιεχόμενο, τις γνώσεις, τις δεξιότητες και τις ικανότητες που οι φοιτητές έχουν επιτύχει και μπορούν να επιδείξουν με επιτυχία κατά την ολοκλήρωση ενός μαθήματος.
 
-* Outcomes express higher-level thinking skills that integrate course content and activities and can be observed as a behavior, skill, or discrete usable knowledge upon completing the course.
+* Τα Αποτελέσματα εκφράζουν υψηλότερου επιπέδου δεξιότητες σκέψης που ενσωματώνουν το περιεχόμενο και τις δραστηριότητες του μαθήματος και μπορούν να παρατηρηθούν ως συμπεριφορά, δεξιότητα ή διακριτή χρησιμοποιήσιμη γνώση κατά την ολοκλήρωση του μαθήματος.
 
-* Outcomes are exactly what assessments are intended to show – specifically what the student will be able to do upon completing the course.
+* Τα Αποτελέσματα είναι ακριβώς ότι οι αξιολογήσεις του μαθήματος σκοπεύουν να αναδείξουν - ειδικά τι θα μπορέσει να κάνει ο φοιτητής κατά την ολοκλήρωση του μαθήματος.
 
-* An assessable outcome can be displayed or observed and evaluated against criteria.
+* Ένα αξιολογημένο Αποτέλεσμα μπορεί να εμφανιστεί ή να παρατηρηθεί και να εκτιμηθεί με βάση κριτήρια.
 
-* Outcomes are clear and measurable criteria for guiding the teaching, learning, and assessment process in the course.
+* Τα Αποτελέσματα είναι σαφή και μετρήσιμα κριτήρια για την καθοδήγηση της διαδικασίας διδασκαλίας, εκμάθησης και αξιολόγησης στο μάθημα.
 
-\(Adapted from[ http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\)
+\(Προσαρμογή από [ http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\)
 
-For Open Science Learning Objectives, see this FOSTER document: [https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(see page 13 & 14\)
+Για τους Μαθησιακούς Στόχους της Ανοικτής Επιστήμης, βλέπε το κείμενο του έργου FOSTER: [https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(see page 13 & 14\)
 
-**Example of a training objective: **
+**Παράδειγμα ενός μαθησιακού στόχου: **
 
-* "To learn how to use assessment and feedback in training with maximised effectiveness"
+* "Να μάθετε πώς να χρησιμοποιείτε την αξιολόγηση και την ανατροφοδότηση στην εκπαίδευση με τη μέγιστη δυνατή αποτελεσματικότητα"
 
-**Example of a training outcome: **
+**Παράδειγμα ενός μαθησιακού αποτελέσματος: **
 
-* "Upon completing the course, the learner will be able to design a training exercise and a strategy to evaluate its effectiveness"
+* "Με την ολοκλήρωση του μαθήματος, ο εκπαιδευόμενος θα είναι σε θέση να σχεδιάσει μια άσκηση κατάρτισης και μια στρατηγική για την αξιολόγηση της αποτελεσματικότητάς της"
 
 ## <img src="/Images/03 On Learning and Training/03_motivation_demotivation.png" width="300" height="300" />
 ### Motivation & demotivation
