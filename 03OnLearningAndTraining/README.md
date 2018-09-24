@@ -262,28 +262,28 @@ In the following part, we will focus mainly on the first aspect \(preparation\) 
 ## <img src="/Images/Icons/idea.png" width="150" height="150" />
 ## Πρακτική καθοδήγηση
 
-You will find more information concerning the concrete planning and execution of a training on Open Science in the chapters on [Organizational Aspects](https://docs.google.com/document/d/14COBhyFzL934Cs7waAohmLKm977dq-jGnnRHHD4mUjg/edit) and the [Examples and Practical Guidance](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit).
+Θα βρείτε περισσότερες πληροφορίες σχετικά με τον συγκεκριμένο σχεδιασμό και την εκτέλεση μιας εκπαίδευσης για την Ανοικτή Επιστήμη στα κεφάλαια [Οργανωτικά Θέματα](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_EL/tree/master/04OrganizationalAspects) και [Παραδείγματα και Πρακτική Καθοδήγηση](https://github.com/Open-Science-Training-Handbook/Open-Science-TrainingHandbook_EL/tree/master/05ExamplesAndPracticalGuidance).
 
 ## <img src="/Images/Icons/pen_paper.png" width="150" height="150" />
-### Designing a course
+### Σχεδιάζοντας ένα μάθημα
 
-The creation of your course will either be driven by planning on the course’s objectives or on its outcomes.
+Η δημιουργία του μαθήματος σας είτε θα καθοδηγείται από τον προγραμματισμό των στόχων του μαθήματος είτε από τα αποτελέσματά του.
 
-#### Planning based on objectives, rather than outcomes
+#### Σχεδιασμός βασισμένος σε στόχους, παρά σε αποτελέσμτα
 
-SMART is an interesting technique for specifying goals / objectives that is also used in project management. SMART is an acronym that stands for five criteria: Simple – Measurable – Ambitious – Realistic – Timed.
+Το SMART είναι μια ενδιαφέρουσα τεχνική για τον προσδιορισμό σκοπούς/στόχων που χρησιμοποιείται επίσης στη διαχείριση έργων. Το SMART είναι ένα αρκτικόλεξο που αντιστοιχεί σε πέντε κριτήρια: Απλό \(Simple\) - Μετρήσιμο \(Measurable\) - Φιλόδοξο \(Ambitious\) - Ρεαλιστικό \(Realistic\) - Χρονομετρημένo \(Timed\).
 
-* Your goal is **simple** if it can be understood by a person not familiar with the topic. That is, you can explain to your students beforehand what they are going to learn. It is usually a good idea to present your goal at the beginning of a lesson. Simple  means that the goal can be put into no more than one concise sentence.
+* Ο στόχος σας είναι **απλός** εάν μπορεί να γίνει κατανοητός από κάποιον που δεν είναι εξοικειωμένος με το θέμα. Δηλαδή, αν μπορείτε να εξηγήσετε στους μαθητές σας εκ των προτέρων τι πρόκειται να μάθουν. Συνήθως είναι καλή ιδέα να παρουσιάσετε το στόχο σας στην αρχή του μαθήματος. Για να είναι απλός ο στόχος, σημαίνει ότι μπορεί να ειπωθεί με όχι πάνω από μια συνοπτική πρόταση.
 
-* Your goal is **measurable** if you can determine objectively whether the goal has been reached. Measurability prevents imprecise goals like "students understand Open Science", which is too broad and difficult to measure as there are many different components. Instead, use verbs that are actionable: identify, draw, name, explain, calculate etc. Verbs for good teaching goals have been categorized by the Bloom’s taxonomy of cognitive domains \([clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)\). Measuring helps you and your students to assess or self-assess progress.
+* Ο στόχος σας είναι **μετρήσιμος** εάν μπορείτε να προσδιορίσετε αντικειμενικά την επίτευξη του. Η δυνατότητα μέτρησης αποτρέπει τον ορισμό ασαφών στόχων, όπως για παράδειγμα "οι μαθητές να κατανοήσουν την Ανοικτή Επιστήμη", στόχος που είναι πολύ ευρύς και δύσκολος να μετρηθεί, καθώς υπάρχουν πολλά διαφορετικά συστατικά στοιχεία. Αντ 'αυτού, χρησιμοποιήστε ρήματα που είναι ενεργητικά: προσδιορίσουν, σχεδιάσουν, αναγνωρίσουν, εξηγούν, υπολογίσουν, κλπ. Τα ρήματα που ορθά μπορούν να χρησιμοποιηθούν σε στόχους διδασκαλίας έχουν κατηγοριοποιηθεί από την ταξινομία των γνωστικών τομέων του Bloom (clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml]https: //www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml) \). Η μέτρηση βοηθά εσάς και τους σπουδαστές σας να αξιολογηθούν ή να αυτο-αξιολογούν την πρόοδο τους.
 
-* Your goal is **ambitious** if you challenge your students. Is there a clear benefit for them? Do you want the lesson to broaden their horizon? In which way does it give them an edge? Being ambitious means having an answer to the question: What will students learn that they could not by other means? If you feel a desire to make a stand and defend your viewpoint, it probably is ambitious.
+* Ο στόχος σας είναι **φιλόδοξος** εάν προκαλέσετε στους μαθητές σας. Υπάρχει σαφές όφελος γι 'αυτούς; Θέλετε το μάθημα να διευρύνει τον ορίζοντα τους; Με ποιο τρόπο τους δίνει συγκριτικό πλεονέκτημα; Να είστε φιλόδοξοι σημαίνει να έχετε μια απάντηση στο ερώτημα: Τι θα μάθουν οι μαθητές, το οποίο δεν θα μπορούσαν να μάθουν με άλλα μέσα; Εάν αισθάνεστε την επιθυμία να σηκωθείτε και να υπερασπιστείτε την άποψή σας, τότε είναι πιθανότατα φιλόδοξο.
 
-* Your goal is **realistic **if you sincerely believe your learning goal can be reached in the given timeframe. Being realistic involves homework: Do your students have the necessary background knowledge? What practical abilities do they need? What technical prerequisites are there? Are you prepared for unexpected questions? For instance, understanding all Creative Commons licenses in one hour may be realistic for one group, but out of reach for another.
+Ο στόχος σας είναι **ρεαλιστικός** εάν πιστεύετε ειλικρινά ότι ο μαθησιακός σας στόχος μπορεί να επιτευχθεί εντός του δεδομένου χρονικού πλαισίου. Το να είσαι ρεαλιστής περιλαμβάνει την απάντηση στα ακόλουθα ερωτήματα: Οι μαθητές σας έχουν τις απαραίτητες γνώσεις; Τι πρακτικές ικανότητες χρειάζονται; Ποιες τεχνικές προϋποθέσεις υπάρχουν; Είστε προετοιμασμένοι για απρόβλεπτες ερωτήσεις; Για παράδειγμα, η κατανόηση όλων των αδειών Creative Commons σε μια ώρα μπορεί να είναι ρεαλιστική για μια ομάδα εκπαιδευομένων, αλλά ανέφικτη για μία άλλη ομάδα.
 
-* Your goal is **timed** if there is a concrete timeframe  which the goal is to be reached. First-time teachers often overextend their time budget. Setting time limits for your learning goals helps you to structure your lesson, recognize and react to unexpected delays. A good form of planning time is having a detailed schedule or lesson plan.
+* Ο στόχος σας είναι **χρονομετρημένος** εάν υπάρχει συγκεκριμένο χρονοδιάγραμμα για την επίτευξη του στόχου. Αυτοί που διδάσκουν για πρώτη φορά συχνά ξεπερνούν τα όρια του χρόνου τους. Ο καθορισμός χρονικών ορίων για τους στόχους μάθησης σάς βοηθά να διαρθρώσετε το μάθημά σας, να αναγνωρίσετε και να αντιδράσετε σε απρόβλεπτες καθυστερήσεις. Μια καλή μορφή του χρόνου προγραμματισμού έχει ένα λεπτομερές πρόγραμμα ή σχέδιο μαθημάτων.
 
-Adapted from [SMART Goals, How to create objective, measurable project goals](http://www.academis.eu/posts/smart_goals) by Kristian Rother.
+Προσαρμογή από [SMART Goals, How to create objective, measurable project goals](http://www.academis.eu/posts/smart_goals) του Kristian Rother.
 
 #### Planning based on outcomes, rather than objectives
 
