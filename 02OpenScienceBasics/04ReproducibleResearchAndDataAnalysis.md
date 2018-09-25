@@ -115,9 +115,9 @@ _που αναφέρεται στην ικανότητα μιας ερευνήτ
 
 Να τεκμηρίωνεις οτιδήποτε γίνεται πρόχειρα σε ένα αρχείο README. Δημιούργησε ένα λεξιλόγιο δεδομένων (γνωστό και ως βιβλίο κώδικα) για να περιγράφεις σημαντικές πληροφορίες για τα δεδομένα σου. Για μια εύκολη εισαγωγή στο θέμα, χρησιμοποίησε: [Karl Broman’s Data Organization module](http://kbroman.org/dataorg/pages/dictionary.html) και βλέπε στο Διαχείριση Δεδομένων. 
 
-###### Γραμμικός προγραμματισμός
+###### Εγγράματος προγραμματισμός
 
-Σκέψου να χρησιμοποιήσεις τα  [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr), ή άλλες προσεγγίσεις για γραμμικό προγραμματισμό για να ενσωματώσεις τον κώδικα με την θεωρία και την τεκμηρίωση. 
+Σκέψου να χρησιμοποιήσεις τα  [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr), ή άλλες προσεγγίσεις για εγγράμματο προγραμματισμό για να ενσωματώσεις τον κώδικα με την θεωρία και την τεκμηρίωση. 
 
 ## <img src="/Images/Icons/open_licenses.png" width="150" height="150" />
 ##### 3**. Μοιράσου και αδειοδότησε την έρευνά σου**
