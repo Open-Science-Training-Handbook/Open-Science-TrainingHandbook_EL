@@ -279,32 +279,32 @@ In the following part, we will focus mainly on the first aspect \(preparation\) 
 
 * Ο στόχος σας είναι **φιλόδοξος** εάν προκαλέσετε στους μαθητές σας. Υπάρχει σαφές όφελος γι 'αυτούς; Θέλετε το μάθημα να διευρύνει τον ορίζοντα τους; Με ποιο τρόπο τους δίνει συγκριτικό πλεονέκτημα; Να είστε φιλόδοξοι σημαίνει να έχετε μια απάντηση στο ερώτημα: Τι θα μάθουν οι μαθητές, το οποίο δεν θα μπορούσαν να μάθουν με άλλα μέσα; Εάν αισθάνεστε την επιθυμία να σηκωθείτε και να υπερασπιστείτε την άποψή σας, τότε είναι πιθανότατα φιλόδοξο.
 
-Ο στόχος σας είναι **ρεαλιστικός** εάν πιστεύετε ειλικρινά ότι ο μαθησιακός σας στόχος μπορεί να επιτευχθεί εντός του δεδομένου χρονικού πλαισίου. Το να είσαι ρεαλιστής περιλαμβάνει την απάντηση στα ακόλουθα ερωτήματα: Οι μαθητές σας έχουν τις απαραίτητες γνώσεις; Τι πρακτικές ικανότητες χρειάζονται; Ποιες τεχνικές προϋποθέσεις υπάρχουν; Είστε προετοιμασμένοι για απρόβλεπτες ερωτήσεις; Για παράδειγμα, η κατανόηση όλων των αδειών Creative Commons σε μια ώρα μπορεί να είναι ρεαλιστική για μια ομάδα εκπαιδευομένων, αλλά ανέφικτη για μία άλλη ομάδα.
+* Ο στόχος σας είναι **ρεαλιστικός** εάν πιστεύετε ειλικρινά ότι ο μαθησιακός σας στόχος μπορεί να επιτευχθεί εντός του δεδομένου χρονικού πλαισίου. Το να είσαι ρεαλιστής περιλαμβάνει την απάντηση στα ακόλουθα ερωτήματα: Οι μαθητές σας έχουν τις απαραίτητες γνώσεις; Τι πρακτικές ικανότητες χρειάζονται; Ποιες τεχνικές προϋποθέσεις υπάρχουν; Είστε προετοιμασμένοι για απρόβλεπτες ερωτήσεις; Για παράδειγμα, η κατανόηση όλων των αδειών Creative Commons σε μια ώρα μπορεί να είναι ρεαλιστική για μια ομάδα εκπαιδευομένων, αλλά ανέφικτη για μία άλλη ομάδα.
 
 * Ο στόχος σας είναι **χρονομετρημένος** εάν υπάρχει συγκεκριμένο χρονοδιάγραμμα για την επίτευξη του στόχου. Αυτοί που διδάσκουν για πρώτη φορά συχνά ξεπερνούν τα όρια του χρόνου τους. Ο καθορισμός χρονικών ορίων για τους στόχους μάθησης σάς βοηθά να διαρθρώσετε το μάθημά σας, να αναγνωρίσετε και να αντιδράσετε σε απρόβλεπτες καθυστερήσεις. Μια καλή μορφή του χρόνου προγραμματισμού έχει ένα λεπτομερές πρόγραμμα ή σχέδιο μαθημάτων.
 
 Προσαρμογή από [SMART Goals, How to create objective, measurable project goals](http://www.academis.eu/posts/smart_goals) του Kristian Rother.
 
-#### Planning based on outcomes, rather than objectives
+#### Σχεδιασμός βασισμένος σε αποτελέσματα, παρά σε στόχους
 
-Use reverse instructional design, known as Backward design, a technique for planning lessons that emphasizes outcomes:
+Χρησιμοποιήστε αντίστροφη εκπαιδευτική σχεδίαση, γνωστή ως Backward design, μια τεχνική για σχεδιασμό μαθημάτων που δίνουν έμφαση στα αποτελέσματα:
 
-1. Start from your learning objectives.
+1. Ξεκινήστε από τους μαθησιακούς στόχους σας.
 
-2. Decide what constitutes evidence that these objectives have been met \(summative assessment, see [Post-training Evaluation](#heading=h.jppdc2zcwj8d) below\).
+2. Αποφασίστε τι συνιστά απόδειξη ότι οι στόχοι αυτοί πληρούνται \(αθροιστική αξιολόγηση, βλέπε [Αξιολόγηση μετά την κατάρτιση](#heading=h.jppdc2zcwj8d) below\).
 
-3. Choose the best format and design content to prepare the audience for what they will have to do during the summative assessment.
+3. Επιλέξτε την καλύτερη μορφή και σχεδιάστε το περιεχόμενο για να προετοιμάσετε το κοινό για αυτό που θα πρέπει να κάνει κατά τη διάρκεια της αθροιστικής αξιολόγησης.
 
-4. Sort the content in order of increasing complexity and then provide the content and motivation they need to close the gap between what they know and what they need to know to complete the summative assessment. \([Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/)\)
+4. Ταξινομήστε το περιεχομένου με αυξανόμενη πολυπλοκότητα και στη συνέχεια να παρέχετε το περιεχόμενο και τα κίνητρα που χρειάζονται για καλυφθεί το χάσμα μεταξύ αυτών που γνωρίζουν και αυτών πρέπει να γνωρίζουν ώστε να ολοκληρώσουν την αθροιστική αξιολόγηση. \([Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/)\)
 
-Backward design challenges "traditional" methods of curriculum planning. In traditional curriculum planning, a list of content that will be taught is created and/or selected.[\[4\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4) In backward design, the educator starts with goals, creates or plans out [assessments](https://en.wikipedia.org/wiki/Educational_assessment) and finally makes [lesson plans](https://en.wikipedia.org/wiki/Lesson_plan). Supporters of backward design liken the process to using a "road map".[\[5\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-5) In this case, the destination is chosen first and then the road map is used to plan the trip to the desired destination. In contrast, in traditional curriculum planning there is no formal destination identified before the journey begins.
+Ο αντίστροφος εκπαιδευτικός σχεδιασμός προκαλεί τις "παραδοσιακές" μεθόδους σχεδιασμού προγραμμάτων σπουδών. Στον παραδοσιακό σχεδιασμό του προγράμματος σπουδών, δημιουργείται ή/και επιλέγεται ένας κατάλογος περιεχομένου που θα διδαχθεί.[\[4\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4) Στον αντίστροφο σχεδιασμό, ο εκπαιδευτικός αρχίζει με στόχους, δημιουργεί ή σχεδιάζει [αξιολογήσεις](https://en.wikipedia.org/wiki/Educational_assessment) και τελικά δημιουργεί [σχέδια μαθήματος](https://en.wikipedia.org/wiki/Lesson_plan). Οι υποστηρικτές του αντίστροφου σχεδιασμού παρομοιάζουν τη διαδικασία με τη χρήση ενός "οδικού χάρτη (road map)".[\[5\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-5). Στην περίπτωση αυτή, πρώτα επιλέγεται ο προορισμός και στη συνέχεια χρησιμοποιείται ο οδικός χάρτης για τον προγραμματισμό του ταξιδιού στον επιθυμητό προορισμό. Αντίθετα, στον παραδοσιακό σχεδιασμό προγραμμάτων σπουδών δεν υπάρχει κάποιος επίσημος προορισμός που να προσδιορίζεται πριν αρχίσει το ταξίδι.
 
-The idea in backward design is to teach toward the "end point" or learning goals, which typically ensures that content taught remains focused and organized. This, in turn, aims at promoting better understanding of the content or processes to be taught to students. The trainer is able to focus on addressing what the students need to learn, what data can be collected to show that the students have learned the desired outcomes \(or [learning standards](https://en.wikipedia.org/wiki/Learning_standards)\) and how to ensure the students will learn.
+Η ιδέα του αντίστροφου σχεδιασμού είναι η διδασκαλία προς τον "τελικό στόχο" ή τους μαθησιακούς στόχους, που συνήθως διασφαλίζει ότι το περιεχόμενο που διδάσκεται παραμένει εστιασμένο και οργανωμένο. Αυτό, με τη σειρά του, στοχεύει στην προώθηση καλύτερης κατανόησης του περιεχομένου ή των διαδικασιών που πρέπει να διδαχθούν στους μαθητές. Ο εκπαιδευτής μπορεί να επικεντρωθεί στη διευθέτυση των αντικειμένων που πρέπει να μάθουν οι σπουδαστές, ποια δεδομένα είναι δυνατόν να συγκεντρωθούν για να δείξουν ότι οι μαθητές έχουν μάθει τα επιθυμητά αποτελέσματα (ή [πρότυπα μάθησης](https://en.wikipedia.org/wiki/Learning_standards)\) και πως θα διασφαλίσουν ότι οι εκπαιδευόμενοι θα μάθουν.
 
 ## <img src="/Images/Icons/journal.png" width="150" height="150" />
-### Content
+### Περιεχόμενο
 
-#### Content collection
+#### Συλλογή περιεχομένου
 
 Before starting to teach you will have to collect and prepare content. Content is nowadays available en masse, and the question is less about finding or creating content than rather about finding appropriate content or making the discovered content appropriate to the needs and capabilities of your target audience.
 
