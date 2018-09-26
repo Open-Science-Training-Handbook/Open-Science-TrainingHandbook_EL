@@ -306,22 +306,22 @@ In the following part, we will focus mainly on the first aspect \(preparation\) 
 
 #### Συλλογή περιεχομένου
 
-Before starting to teach you will have to collect and prepare content. Content is nowadays available en masse, and the question is less about finding or creating content than rather about finding appropriate content or making the discovered content appropriate to the needs and capabilities of your target audience.
+Πριν αρχίσετε να διδάσκετε, θα πρέπει να συλλέξετε και να προετοιμάσετε περιεχόμενο. Το περιεχόμενο διατίθεται σήμερα μαζικά και η ερώτηση αφορά λιγότερο την εύρεση ή τη δημιουργία περιεχομένου παρά την εξεύρεση κατάλληλου περιεχομένου ή την προσαρμογή του ανακαλυφθέντος περιεχομένου ανάλογα με τις ανάγκες και τις ικανότητες του κοινού-στόχου σας.
 
-Please check the chapter on [Examples and Practical Guidance](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit?usp=drive_web&ouid=107830280653894512635) which will contain helpful information on how to adopt, adapt and develop content.
+Παρακαλούμε εξετάστε το κεφάλαιο [Παραδείγματα και Πρακτική Καθοδήγηση](https://github.com/vxdaskalou/Open-Science-TrainingHandbook_EL/tree/master/05ExamplesAndPracticalGuidance), το οποίο περιέχει χρήσιμες πληροφορίες για πως να υιοθετήσετε, να προσαρμόσετε και να αναπτύξετε περιεχόμενο.
 
-#### Content reduction
+#### Μείωση περιεχομένου
 
-One of the biggest challenges in designing training courses is the reduction of content to the training format. If you have only two hours, you need to provide the most important information on a topic during this time. As a trainer, however, you usually have much more knowledge that you would like to pass on. Try to reduce the content to the most important key points. What is really necessary to know and what are only details or marginal topics? Set thematic priorities, be transparent about omissions and inform your participants about these.
+Μία από τις μεγαλύτερες προκλήσεις στο σχεδιασμό μαθημάτων κατάρτισης είναι η μείωση του περιεχομένου στη μορφή της εκπαίδευσης. Αν έχετε μόνο δύο ώρες, θα πρέπει να δώσετε τις πιο σημαντικές πληροφορίες σχετικά με ένα θέμα κατά τη διάρκεια αυτής της περιόδου. Ως εκπαιδεύτρια, ωστόσο, έχετε συνήθως περισσότερες γνώσεις που θα θέλατε να μεταδώσετε. Προσπαθήστε να μειώσετε το περιεχόμενο στα πιο σημαντικά σημεία κλειδιά. Τι είναι πραγματικά απαραίτητο να γνωρίζει κανείς και ποιες είναι μόνο οι λεπτομέρειες ή τα περιφερειακά θέματα; Ορίστε τις θεματικές προτεραιότητες, να είστε διαφανείς σε σχέση με τις παραλείψεις και ενημερώστε τους συμμετέχοντες σχετικά με αυτές.
 
-And try to keep enough time for open questions, discussions, sharing experience among participants. It will help you to get the "right" questions. Usually much more basic, than you expected or more detailed and specific than you planned.
+Και προσπαθήστε να κρατήσετε αρκετό χρόνο για ανοιχτές ερωτήσεις, συζητήσεις, ανταλλαγή εμπειριών μεταξύ των συμμετεχόντων. Θα σας βοηθήσει να βρείτε τις "σωστές" ερωτήσεις. Συνήθως πολύ πιο βασικές από ό, τι αναμενόταν ή πιο λεπτομερείς και συγκεκριμένες από ό, τι σχεδιάσατε.
 
 ## <img src="/Images/Icons/rocket.png" width="150" height="150" />
-### Starting the training
+### Ξεκινήστε την εκπαίδευση
 
-#### Introductions
+#### Εισαγωγικά
 
-At the beginning of the event, speakers should clearly and succinctly introduce themselves and their areas of expertise. Why should the attendees listen to you? What experience and skills do you have that are relevant to them? You should then give a general presentation of objectives, content, and outcomes for the training event - what participants will learn, and why. Projecting confidence as a figure is key here in order to establish trust.
+Στην αρχή της εκδήλωσης, οι ομιλητές θα πρέπει να παρουσιάσουν με σαφήνεια και συνοπτικά τους εαυτούς τους και τους τομείς ειδικότητάς τους. Γιατί θα πρέπει να σας ακούσουν οι παρευρισκόμενοι; Ποιες είναι οι εμπειρίες και οι ικανότητες που έχετε και είναι σχετικές με αυτούς; Στη συνέχεια, θα πρέπει να δώσετε μια γενική παρουσίαση των στόχων, του περιεχομένου και των αποτελεσμάτων του εκπαιδευτικού γεγονότος - τι θα μάθουν οι συμμετέχοντες και γιατί. Η προβολή της εμπιστοσύνης ως ενδεικτικό της εκπαίδευσης είναι καθοριστικής σημασίας στο σημείο αυτό για την εδραίωση της εμπιστοσύνης.
 
 Depending on the size of your audience, the amount of time available, and the degree to which audience interaction will be key to successful training outcomes, you may wish to begin by having participants introduce themselves briefly \(although this is probably not recommended if the group is larger than 15-20 participants\). This might be a good time to collect thoughts from participants on their own expectations and levels of experience \(if not done before, e.g. with an online-questionnaire\), and to gauge to what extent these match the intended outcomes and your overview of the intended or target audience for the training. If there is a large mismatch, now would be the time to consider ways to spontaneously adapt the programme. For example, if participants are more knowledgeable or experienced than anticipated, you may wish to move more quickly over the basics of particular areas of Open Science in order to spend more time on interactive discussion in which the participants’ own questions and experiences are brought to the forefront.
 
