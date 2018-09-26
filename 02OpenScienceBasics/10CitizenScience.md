@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/world.png" width="200" height="200" />
-## 10. Επιστήμη του Πολίτη
+## 10. Citizen Science / Επιστήμη του Πολίτη
 
 ### Τι είναι;
 
