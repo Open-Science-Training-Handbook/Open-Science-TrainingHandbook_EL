@@ -361,40 +361,36 @@ In the following part, we will focus mainly on the first aspect \(preparation\) 
 ## <img src="/Images/Icons/gamification.png" width="300" height="300" />
 #### Gamification
 
-Τα θεμέλια της μεθοδολογίας στην Ενεργή Μάθηση βρίσκονται στις σύγχρονες θεωρίες μάθησης (εν μέρει στον Κονστρουκτιβισμό και κάποια στον Κονεκτιβισμό) και προσθέτουν τεχνικές ενασχόλησης με τη μάθηση για να σπάσουν τους φραγμούς και να ισοπεδώσουν όσο το δυνατόν περισσότερα εμπόδια. Για παράδειγμα, η παιγνιώδης μάθηση μπορεί να παρασύρει τους εκπαιδευόμενους μακριά από την παθητική απόκτηση περιεχομένου και να τους οδηγήσει στην πλήρη ενασχόληση, οδηγώντας στην επανατοποθέτηση του μαθητευόμενου ως κάποιου που κάνει ένα βήμα πίσω και παρατηρεί από μικρή απόσταση τη διαδικασία μάθησης και το πώς λειτουργεί. Ένα παράδειγμα παιχνιδιών στην εκπαίδευση δίνεται εδώ:
+Τα θεμέλια της μεθοδολογίας στην Ενεργή Μάθηση βρίσκονται στις σύγχρονες θεωρίες μάθησης (εν μέρει στον Κονστρουκτιβισμό και κάποια στον Κονεκτιβισμό) και προσθέτουν τεχνικές ενασχόλησης με τη μάθηση για να σπάσουν τους φραγμούς και να ξεπεράσουν όσο το δυνατόν περισσότερα εμπόδια. Για παράδειγμα, η παιγνιώδης μάθηση μπορεί να παρασύρει τους εκπαιδευόμενους μακριά από την παθητική απόκτηση περιεχομένου και να τους οδηγήσει στην πλήρη ενασχόληση, οδηγώντας στην επανατοποθέτηση του μαθητευόμενου ως κάποιου που κάνει ένα βήμα πίσω και παρατηρεί από μικρή απόσταση τη διαδικασία μάθησης και το πώς αυτή λειτουργεί. Ένα παράδειγμα παιχνιδιών στην εκπαίδευση δίνεται εδώ [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1), ένα παιχνίδι μάθησης για εννοιολογική ενοποίηση. Ένα επιπλέον παράδειγμα μπορεί να βρεθεί στο [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
 
-The foundations of the methodology in Active Learning lie in modern learning theories \(partly in Constructivism and some Connectivism\) and add learning engagement techniques to break barriers and flatten as many obstacles as possible. For example, gamifying a learning instance can move learners away from passive acquisition of content to full engagement, leading to the repositioning of the learner as someone who steps back and observes the learning process and how it works. An example of gamification in training is given here: [Βασικοί όροι](https://doi.org/10.6084/m9.figshare.1094361.v1), ένα παιχνίδι μάθησης για εννοιολογική ενοποίηση. Ένα επιπλέον παράδειγμα μπορεί να βρεθεί στο [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
+#### Συμμετοχή χωρίς αποκλεισμούς
 
-#### Inclusive engagement
+Πώς να εμπλέξετε σταδιακά όλους τους συμμετέχοντες; Ένα καλό σημείο εκκίνησης μπορεί να είναι το να απευθύνετε μια ερώτηση και να περιμένετε τουλάχιστον 30 δευτερόλεπτα για απαντήσεις \(Mary Budd Rowe, 1986\). Το αποτέλεσμα θα είναι ότι περισσότεροι εκπαιδεύμενοι θα συμμετέχουν στη συζήτηση, οι απαντήσεις θα είναι καλύτερης ποιότητας και οι "αργοί" σπουδαστές θα έχουν την ευκαιρία να απαντήσουν.
 
-How to engage quiet participants? A good starting point might be to ask a question and wait at least 30 seconds for answers \(Mary Budd Rowe, 1986\). The result will be that more people engage in the discussion, the answers are of better quality and slow learners get a chance to answer.
+Μια άλλη μέθοδος για την επίτευξη συμμετοχής χωρίς αποκλεισμούς είναι η _προοδευτική στοίβαξη \(progressive stacking\)_. Ένας συντονιστής επιλέγει ποιος μιλάει από τους συμμετέχοντες που θέλουν να μιλήσουν και δεν έχουν μιλήσει, όπως γίνεται συνήθως. Επιπλέον, οι υποεκπροσωπούμενες φωνές, συμπεριλαμβανομένων των υποεκπροσωπούμενων φύλων και φυλετικών κοινοτήτων, επιλέγονται για να μιλήσουν πρώτα.
 
-Another method of achieving inclusive engagement is _progressive stacking_. A moderator chooses who speaks next from those participants who wish to speak and have not yet spoken, as usual. In addition, underrepresented voices, including underrepresented gender and racial identities, are chosen to speak first.
+Κατά τη διάρκεια συζητήσεων \(σε μεγαλύτερες ομάδες\), θα πρέπει να αποφεύγετε τα όρθια μικρόφωνα, όπου ο πρώτος που σηκωθεί θα είναι και ο πρώτος που θα μιλήσει, δεδομένου ότι αποθαρρύνει τη συμμετοχή χωρίς αποκλεισμούς και ενθαρρύνει το μονόλογο. Χρησιμοποιήστε ένα ασύρματο μικρόφωνο ή ζητήστε οι συμμετέχοντες να ζητούν το λόγο σηκώνοντας το χέρι, ώστε να βεβαιωθείτε ότι ο επόμενος ομιλητής μπορεί να επιλεγεί από τον συντονιστή. Όσο μεγαλύτερη είναι η ομάδα, τόσο μεγαλύτερη είναι η ανάγκη για έναν συντονιστή που παρακολουθεί ποιος μιλάει και ποιος όχι. Θα ανήκει επίσης στο ρόλο του συντονιστή το έργο της επιλογής του ποιος θα είναι ο επόμενος που θα πάρει το λόγο από εκείνους τους συμμετέχοντες που επιθυμούν να μιλήσουν, αλλά δεν έχουν μιλήσει ακόμη, ώστε να αποφευχθεί η μονοπώληση της συζήτησης από λίγους μόνο συμμετέχοντες.
 
-During discussions \(in larger groups\), you should avoid standing microphones with first-come-first-speak engagement, as it discourages inclusive engagement and encourages monologuing. Use a wireless microphone instead or raised hands to ensure that who speaks next can be selected by the moderator. The larger the group, the bigger the need for a moderator who monitors who is speaking and who is not. It will also be the moderator’s task to choose who speaks next from those participants who wish to speak, but have not yet spoken to avoid the workshop engagement to be dominated by just a few participants.
+#### Γενικές συστάσεις
 
+* Μείνετε συνδεδεμένοι! Προσπαθείτε πάντοτε να διατηρείτε την επαφή με την ομάδα, να ελέγχετε το δικό σας ρυθμό καθώς και το ρυθμό των άλλων.
 
+* Προσέξτε να μην επιβαρύνετε τους συμμετέχοντες με υπερβολικά μεγάλο ή/και πολύ δύσκολο περιεχόμενο. 
 
-#### General recommendations
+* Να είστε ανοιχτοί για ανατροφοδότηση ανά πάσα στιγμή, αλλά να αποφύγετε ή να διαλύσετε άμεσα τις ατελείωτες συζητήσεις.
 
-* Stay connected! Always try to keep the contact with the group, check your pace and those of the others.
+* Διαλείμματα: Να δίνετε πάντα αρκετό χώρο για διαλείμματα. Όσο μεγαλύτερο είναι το μάθημα, τόσο μεγαλύτερης διάρκειας και πιο συχνά τα διαλείμματα σας.
 
-* Be careful not to overload the participants with too much and/or too difficult content.
+* Προετοιμάστε σύντομες, μεσαίες και εκτενείς εκδόσεις των ασκήσεων σας για να γίνετε ευέλικτοι, εάν η συζητήση διαρκεί περισσότερο ή λιγότερο.
 
-* Be open for feedback at any time but avoid or actively break-up never-ending discussions.
+* Προετοιμαστείτε για δύσκολους φοιτητές και πριν το μάθημα συμβουλευτείτε κάποιον οδηγό για την αντιμετώπιση προβλημάτων.
 
-* Breaks: Always give enough space for breaks. The longer your course, the longer and more often your breaks.
+\(Μπορείτε να βρείτε κάποιες ιδέες στο [MozFest2017 Facilitator Guide](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#)\). 
+Θα πρέπει σε κάθε περίπτωση να έχετε μια ιδέα για το τι κάνετε όταν εμφανίζεται μια παράλληλη συζήτηση ή τι πρέπει να κάνετε όταν κάποιος είναι συνεχώς αγενής ή απρόσεκτος, κλπ. Να γνωρίζετε ότι υπάρχουν λεκτικοί και μη λεκτικοί τρόποι αντιμετώπισης αυτού του ζητήματος.
 
-* Prepare short, middle and long versions of your exercises to become flexible if the discussions are more or less intensive.
+* Επισκόπηση τέλους/Μετα-προβολή: Στο τέλος της εκπαίδευσης μπορεί να αξίζει να πείτε στους συμμετέχοντες σας τι κάνατε και γιατί το κάνατε. Αυτό θα διευκολύνει επίσης την αξιολόγηση.
 
-* Be prepared for difficult students and consult some troubleshooting guidance before the course. 
-
-\(You may find some ideas in the [MozFest2017 Facilitator Guide](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#)\). 
-You should in any case have an idea of what you do when a parallel conversation emerges or what to do when somebody is constantly rude or inattentive etc. Know that there are verbal and non-verbal ways to tackle this.
-
-* Wrap-Up / Meta View: At the end of the training it might be worth to tell your participants what you did and why you did it. This will also make the evaluation easier.
-
-* Enjoy the session yourself.
+* Απολαύστε και εσείς την εκπαιδευτική διαδικασία!
 
 #### Instant feedback
 
