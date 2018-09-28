@@ -394,58 +394,58 @@ In the following part, we will focus mainly on the first aspect \(preparation\) 
 
 #### Άμεση ανατροφοδότηση
 
-Στο τέλος κάθε διδακτικής ενότητας, ζητήστε ανατροφοδότηση (feedback) από τους συμμετέχοντες με τη μορφή ένα θετικό/ένα αρνητικό \(δηλ. να δηλώσουν ένα πράγμα που ήταν χρήσιμο/θετικό στην ενότητα και ένα πράγμα που ήταν ασαφές ή θα μπορούσε να βελτιωθεί). Μπορεί επίσης η δήλωσή τους να ακολουθήσει μία κλίμακα. [Εδώ](http://www.academis.eu/posts/fist_or_five) είναι ένα παράδειγμα με ανατροφοδότηση σε έξι επίπεδα.  
+Στο τέλος κάθε διδακτικής ενότητας, ζητήστε ανατροφοδότηση (feedback) από τους συμμετέχοντες με τη μορφή ένα-θετικό/ένα-αρνητικό \(δηλ. να δηλώσουν ένα θέμα που ήταν χρήσιμο/θετικό στην ενότητα και ένα που ήταν ασαφές ή θα μπορούσε να βελτιωθεί). Μπορεί επίσης η δήλωσή τους να ακολουθήσει μία κλίμακα. [Εδώ](http://www.academis.eu/posts/fist_or_five) δίνεται ένα παράδειγμα με ανατροφοδότηση σε έξι επίπεδα.  
 
-Ένας άλλος τρόπος για την άμεση ανάδραση, ιδίως σε προκαθορισμένα σημεία του μαθήματος, είναι μέσω συνεχών ψηφοφοριών \(polls\). Για παράδειγμα, το Slack μπορεί να χρησιμοποιηθεί για την παροχή ανώνυμης ανατροφοδότησης με βάση το ρυθμό του κάθε εκπαιδευόμενου, δίνοντας τη δυνατότητα στα μέλη ενός καναλιού να αλλάξουν την επιλογή τους σε μια ψηφοφορία ανά πάσα στιγμή. Οι μετρήσεις στην ψηφοφορία θα πρέπει να εμφανίζονται στους συμμετέχοντες. Η παρουσίαση συνολικών ψήφων ή γραφημάτων μπορεί να λειτουργήσει ως κίνητρο. Διαδικτυακά εργαλεία τεχνολογίας νέφους οδηγούν τους εκπαιδεύομενους σε μεγαλύτερη εμπλοκή, ειδικά επειδή δεν εμφανίζουν την επίδραση στην ψηφοφορία από συστήματα απόκρισης στην τάξη \("clickers"). Οι εκπαιδευόμενοι μπορούν να χρησιμοποιούν κινητές συσκευές συνδεδεμένες στο Διαδίκτυο και να αισθάνονται ενδυναμωμένοι. Παραδείγματα υπάρχουν άφθονα. Πρέπει να δοκιμάσετε αυτές τις μεθόδους πριν τις χρησιμοποιήσετε με ένα πραγματικό κοινό και να ξεκινήσετε με τα συστήματα που έχουν ομαλότερα βήματα εξοικείωσης, όπως τα [Socrative](https://www.socrative.com/) και [Learning ](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Polleverywhere](https://www.polleverywhere.com/), [Directpoll. ](http://directpoll.com/)
+Ένας άλλος τρόπος για την άμεση ανάδραση, ιδίως σε προκαθορισμένα σημεία του μαθήματος, είναι μέσω συνεχών ψηφοφοριών \(polls\). Για παράδειγμα, το Slack μπορεί να χρησιμοποιηθεί για την παροχή ανώνυμης ανατροφοδότησης με βάση το ρυθμό του κάθε εκπαιδευόμενου, δίνοντας τη δυνατότητα στα μέλη ενός καναλιού να αλλάξουν την επιλογή τους σε μια ψηφοφορία ανά πάσα στιγμή. Οι μετρήσεις στην ψηφοφορία θα πρέπει να εμφανίζονται στους συμμετέχοντες. Η παρουσίαση συνολικών ψήφων ή γραφημάτων μπορεί να λειτουργήσει ως κίνητρο. Διαδικτυακά εργαλεία τεχνολογίας νέφους οδηγούν τους εκπαιδεύομενους σε μεγαλύτερη εμπλοκή, ειδικά επειδή δεν εμφανίζουν την επίδραση στην ψηφοφορία από συστήματα απόκρισης στην τάξη \("clickers"). Οι εκπαιδευόμενοι μπορούν να χρησιμοποιούν κινητές συσκευές συνδεδεμένες στο Διαδίκτυο και να αισθάνονται ότι έχουν ισχύ. Παραδείγματα υπάρχουν άφθονα. Πρέπει να δοκιμάσετε αυτές τις μεθόδους πριν τις χρησιμοποιήσετε με ένα πραγματικό κοινό και να ξεκινήσετε με τα συστήματα που έχουν ομαλότερα βήματα εξοικείωσης, όπως τα [Socrative](https://www.socrative.com/) και [Learning ](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Polleverywhere](https://www.polleverywhere.com/), [Directpoll. ](http://directpoll.com/)
 
-Ορισμένες άλλες στρατηγικές άμεσης ανατροφοδότησης μπορούν να βρεθούν στον ιστότοπο [teachthought.com](https://www.teachthought.com/technology/20-simple-assessment-strategies-can-use-every-day/)
+Ορισμένες άλλες στρατηγικές άμεσης ανατροφοδότησης μπορούν να αναζητηθούν στον ιστότοπο [teachthought.com](https://www.teachthought.com/technology/20-simple-assessment-strategies-can-use-every-day/)
 
 ## <img src="/Images/Icons/describe.png" width="150" height="150" />
-### Training evaluation
+### Αξιολόγηση εκπαίδευσης
 
-Successful Open Science training also needs evaluation phases. Especially when starting a course, it is useful to look at trainees feedback. An evaluation can provide you with valuable insights on your methods and content. Continuous evaluation and consideration of the feedback improves the quality of the training and the trainer's performance.
+Η επιτυχής εκπαίδευση στην Ανοικτή Επιστήμη απαιτεί επίσης φάσεις αξιολόγησης. Ειδικά όταν ξεκινάτε ένα μάθημα, είναι χρήσιμο να κοιτάξετε την ανατροφοδότηση που σας έχουν δώσει οι εκπαιδευόμενοι. Μια αξιολόγηση μπορεί να σας δώσει πολύτιμες πληροφορίες σχετικά με τις μεθόδους και το περιεχόμενό σας. Η συνεχής αξιολόγηση και η συνεκτίμηση της ανατροφοδότησης βελτιώνει την ποιότητα της εκπαίδευσης και την απόδοση του εκπαιδευτή.
 
-#### Types of feedback
+#### Είδη ανατροφοδότησης
 
-There are different ways to get feedback from your participants:
+Υπάρχουν διάφοροι τρόποι για να λάβετε ανατροφοδότηση από τους συμμετέχοντες σας:
 
-_Classic forms of evaluation_
+_Κλασικές μορφές αξιολόγησης_
 
-* Use an evaluation form in which you ask the participants for feedback on you as a teacher.
+* Χρησιμοποιήστε μια φόρμα αξιολόγησης στην οποία θα ζητάτε από τους συμμετέχοντες την ανατροφοδότηση σχετικά με εσάς ως δάσκαλο.
 
-* Get interim statements during the course to check, if the course meets expectations. This gives you the opportunity to make adjustments before going on.
+* Πάρτε ενδιάμεσες δηλώσεις ανατροφοδότησης κατά τη διάρκεια του μαθήματος ώστε να ελέγξετε αν η σειρά μαθημάτων ικανοποιεί τις προσδοκίες. Αυτό σας δίνει την ευκαιρία να κάνετε προσαρμογές πριν συνεχίσετε.
 
-_Verbal feedback_
+_Προφορική ανάδραση
 
-* Ask the trainees for a short summary of their course experience. 
+* Ζητήστε από τους εκπαιδευόμενους μια σύντομη περίληψη της εμπειρίας τους. 
 
-_Self-Evaluation_
+_Αυτο-αξιολόγηση_
 
-* Make your own evaluation, what went well, what went wrong?
+* Κάντε τη δική σας αξιολόγηση, τι πήγε καλά, τι πήγε στραβά;
 
-_Long term feedback_
+_Μακροπρόθεσμη ανατροφοδότηση_
 
-* 6 months later, questions about plastic changes in behaviour, more generally about modifications in the attitude and its potential effects.
+* 6 μήνες αργότερα, ερωτήσεις για αλλαγές που έχουν διαμορφώσει την συμπεριφορά, και γενικότερα για τις τροποποιήσεις της στάσης και τις ενδεχόμενες επιπτώσεις της.
 
-_Peer to peer feedback_
+_Ομότιμη ανατροφοδότηση_
 
-* Colleagues will help you with their experience to prepare your course, eventually attend themselves the course and exchange with you afterwards and will give you their feedback. 
+* Οι συνάδελφοι σας μπορούν να σας βοηθήσουν με την εμπειρία τους για να προετοιμάσετε το μάθημά σας, να παρακολουθήσουν το μάθημα και στη συνέχεια να ανταλλάξουν μαζί σας απόψεις και θα σας δώσουν τα σχόλιά τους.
 
-#### Metrics for training efficiency
+#### Μετρικές για την αποτελεσματικότητα της εκπαίδευσης
 
-In order to evaluate a course you should need to establish, first, what you want your learners to be familiar with, know, analyse critically or be able to explain . Why are you doing the course? Which goals do you want to achieve? And once the course has finished you should check if you reached those goals. There are different criteria on how to measure the success and efficiency of your course \(Kirkpatrick & Kirkpatrick, 1994\):
+Για να αξιολογήσετε ένα μάθημα, θα πρέπει να καθορίσετε πρώτα σε τι θέλετε οι μαθητές σας να εξοικειωθούν, να γνωρίζουν, να αναλύουν με κριτικό πνεύμα ή να μπορούν να εξηγήσουν. Γιατί κάνεις το μάθημα; Ποιούς στόχοι θέλετε να επιτύχετε; Και μόλις τελειώσει το μάθημα, θα πρέπει να ελέγξετε αν έχετε επιτύχει αυτούς τους στόχους. Υπάρχουν διαφορετικά κριτήρια για τον τρόπο μέτρησης της επιτυχίας και της αποτελεσματικότητας του μαθήματός σας \(Kirkpatrick & Kirkpatrick, 1994\):
 
-* Reaction \(meeting expectations\): Are the trainees satisfied with the course? Have the participants reached their learning goals? Were the expectations realistic? How did they react to the course? Was there a clear structure or a common thread?
+* Αντίδραση \(προσδοκίες\): Είναι ικανοποιημένοι οι εκπαιδευόμενοι με την πορεία; Οι συμμετέχοντες έχουν επιτύχει τους μαθησιακούς τους στόχους; Οι προσδοκίες ήταν ρεαλιστικές; Πώς αντέδρασαν στο μάθημα; Υπήρχε μια σαφής δομή ή συνοχή;
 
-* Learning: Did the attendees learn something new? Is it helpful in their current situation? Did they understand everything? Can they assign suggested tools/platforms to the respective Open Science practices? Do they meet the pre-specified learning objectives?
+* Μάθηση: Οι συμμετέχοντες έμαθαν κάτι νέο; Είναι χρήσιμο στην παρούσα τους ενασχόληση; Καταλάβαιναν τα πάντα; Μπορούν να χρησιμοποιήσουν τα προτεινόμενα εργαλεία/πλατφόρμες στις αντίστοιχες πρακτικές της Ανοικτής Επιστήμης; Πληρούν τους προκαθορισμένους μαθησιακούς στόχους;
 
-* Behaviour: Will they change their way of conducting research? What will they do with their acquired knowledge? Will they recommend the training/content to others?
+* Συμπεριφορά: Θα αλλάξουν τον τρόπο διεξαγωγής της έρευνας; Τι θα κάνουν με τις γνώσεις τους; Θα συστήσουν την κατάρτιση/το περιεχόμενο σε άλλους;
 
-* Results: which outcomes, when met, have a more positive impact towards the objectives? Which were the ones that brought more benefits?
+* Αποτελέσματα: ποια αποτελέσματα, όταν έχουν εκπληρωθεί, έχουν πιο θετικό αντίκτυπο στους στόχους; Ποια ήταν αυτά που έφεραν περισσότερα οφέλη;
 
-### Kirkpatrick’s Training Evaluation Technique
+### Η τεχνική αξιολόγησης της εκπαίδευσης του Kirkpatrick
 
-[Kirkpatrick's Four-Level Training Evaluation Model](https://www.mindtools.com/pages/article/kirkpatrick.htm) is an standardised way to analyse the effectiveness and impact of your training. 
+[Το μοντέλο αξιολόγησης της κατάρτισης τεσσάρων επιπέδων του Kirkpatrick](https://www.mindtools.com/pages/article/kirkpatrick.htm) είναι ένας τυποποιημένος τρόπος για να αναλύσετε την αποτελεσματικότητα και τον αντίκτυπο της εκπαίδευσής σας.
 
 
 **Exercises**
