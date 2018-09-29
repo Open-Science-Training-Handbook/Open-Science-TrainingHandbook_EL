@@ -448,66 +448,66 @@ _Ομότιμη ανατροφοδότηση_
 [Το μοντέλο αξιολόγησης της κατάρτισης τεσσάρων επιπέδων του Kirkpatrick](https://www.mindtools.com/pages/article/kirkpatrick.htm) είναι ένας τυποποιημένος τρόπος για να αναλύσετε την αποτελεσματικότητα και τον αντίκτυπο της εκπαίδευσής σας.
 
 
-**Exercises**
+**Ασκήσεις**
 
-* Check the learning outcome with gap texts and quizzes.
+* Ελέγξτε τα μαθησιακά αποτελέσματα με κείμενα που πρέπει να συμπληρωθούν τα κενά και κουίζ. 
 
-* Run a simple exercise at the start and same exercise at the end. Then see if opinions have changed.
+* Εκτελέστε μια απλή άσκηση στην αρχή και την ίδια άσκηση στο τέλος. Στη συνέχεια, δείτε εάν οι απόψεις έχουν αλλάξει.
 
-* Keywords: Prepare paper slips with different key aspects of Open Science. Divide the trainees into groups \(at least 3 people\) and let each of them explain 2-3 keywords to each other.
+* Λέξεις-κλειδιά: Προετοιμάστε κάρτες με διαφορετικές βασικές πτυχές της Ανοικτής Επιστήμης. Διαχωρίστε τους εκπαιδευόμενους σε ομάδες \(τουλάχιστον 3 άτομα\) και αφήστε τον καθένα να εξηγήσει 2-3 λέξεις-κλειδιά στους άλλους.
 
-* Give the participants a printout of the general structure for the scientific method, and ask them to assign Open Science tools and methods that can be applied to each of them.
+* Δώστε στους συμμετέχοντες μια εκτύπωση της γενικής διάρθρωσης μίας επιστημονικής μεθόδου και ζητήστε τους να αναθέσουν εργαλεία και μεθόδους της Ανοικτής Επιστήμης που μπορούν να εφαρμοστούν.
 
-* Depending on time, you can also ask them to create an imaginary/simple research scenario and go ahead in establishing the Open Science protocols for it.
+* Ανάλογα με το χρόνο, μπορείτε επίσης να τους ζητήσετε να δημιουργήσουν ένα φανταστικό/απλό ερευνητικό σενάριο και να προχωρήσουν στην καθιέρωση των πρωτοκόλλων Ανοικτής Επιστήμης γι 'αυτό.
 
-### Rework your course
+### Επαναλάβετε το μάθημά σας
 
-You will have had your own expectations before teaching the course and the experience of having done so will show you that things do not always work the way you planned. You should not be too disappointed, because a first time yield for all outcomes is almost impossible, but rather take the end of the course as a starting point to rework your material and rethink some of your methods and practical exercises.
+Θα είχατε τις δικές σας προσδοκίες προτού διδάξετε το μάθημα και η εμπειρία από το γεγονός αυτό θα σας δείξει ότι τα πράγματα δεν λειτουργούν πάντα όπως σχεδιάσατε. Δεν πρέπει να είστε πολύ απογοητευμένοι, γιατί μια επιτυχία σε όλα τα προσδοκώμενα αποτελέσματα είναι σχεδόν αδύνατη, αλλά να πάρετε το τέλος του μαθήματος ως σημείο εκκίνησης για να επανεπεξεργαστείτε το υλικό σας και να επανεξετάσετε ορισμένες από τις μεθόδους και τις πρακτικές σας ασκήσεις.
 
-Be aware that it might even take you three attempts until you will have the feeling that your course has the format it needs and will satisfy both the attendees as well as you as the instructor.
+Να γνωρίζετε ότι μπορεί να χρειαστείτε τρεις προσπάθειες μέχρι να έχετε την αίσθηση ότι το μάθημά σας έχει τη μορφή που χρειάζεται και θα ικανοποιήσει τόσο τους συμμετέχοντες όσο και εσάς ως εκπαιδευτή.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-## Learning outcomes of this chapter
+## Μαθησιακά αποτελέσματα αυτού του κεφαλαίου
 
-After going through this chapter you should be able to respond to requests to plan and deliver training in Open Science to specific audiences.
+Αφού ολοκληρώσατε αυτό το κεφάλαιο, θα πρέπει να είστε σε θέση να απαντήσετε σε αιτήματα για σχεδιασμό και παροχή εκπαίδευσης στην Ανοικτή Εκπαίδευση σε συγκεκριμένα ακροατήρια.
 
-**Exercise**
+**Ασκήσεις**
 
-Consider the following hypothetical situation: You have been invited to train principal investigators at an engineering school. The training will be about the management of datasets that are shared between research groups in the school and their colleagues in Canada and New Zealand, in an Open Science context.
+Εξετάστε την ακόλουθη υποθετική κατάσταση: Έχετε προσκληθεί να εκπαιδεύσετε κύριους ερευνητές σε μια σχολή μηχανικών. Η εκπαίδευση θα αφορά στη διαχείριση συνόλων δεδομένων που μοιράζονται μεταξύ των ερευνητικών ομάδων στη σχολή και των συναδέλφων τους στον Καναδά και τη Νέα Ζηλανδία, σε ένα πλαίσιο Ανοικτής Επιστήμης.
 
-* In one paragraph describe the design strategy for your training session, in major steps, for example what would you plan to do before, during and after your training session
+* Σε μια παράγραφο περιγράψτε τη στρατηγική σχεδιασμού για την εκπαιδευτική σας συνεδρία, σε μείζονα βήματα, για παράδειγμα, τι θα προγραμματίσετε να κάνετε πριν, κατά τη διάρκεια και μετά τη συνεδρία
 
-* List three questions that you are allowed to ask to characterise your audience
+* Καταγράψτε τρεις ερωτήσεις που μπορείτε να ζητήσετε να χαρακτηρίσετε το ακροατήριό σας
 
-* List three learning objectives
+* Καταγράψτε τρεις μαθησιακούς στόχους
 
-* List three expected learning outcomes
+* Καταγράψτε τρία προσδοκώμενα μαθησιακά αποτελέσματα
 
-* List three actions that you can use to break the ice and get your audience engaged
+* Καταγράψτε τρεις ενέργειες που μπορείτε να χρησιμοποιήσετε για να σπάσετε τον πάγο και να εμπλέξετε το ακροατήριό σας στην εκπαιδευτική διαδικασία
 
-* List three questions that you would ask to check what the participants have learned
+* Καταγράψτε τρεις ερωτήσεις που θα κάνατε για να ελέγξετε τι έχουν μάθει οι συμμετέχοντες
 
-* List three questions that you would ask to check if the participants enjoyed the session.
+* Καταγράψτε τρεις ερωτήσεις που θα κάνετε για να ελέγξετε αν οι συμμετέχοντες απόλαυσαν την εκπαίδευση
 
-* Be ready to react to genuine and spontaneously created wordcloud \(sli.do or some other tool\) : don’t be afraid to co-work with your audience, learn to play with what you know \(and assume you also have to right for some perplexity\)
+* Να είστε έτοιμοι να αντιδράσετε σε αυθεντικά και αυθόρμητα δημιουργημένα σύννεφα λέξεων \(wordcloud\) \(μέσω sli.do ή με κάποιο άλλο εργαλείο \): μην φοβάστε να συνεργαστείτε με το ακροατήριό σας, να μάθετε να παίζετε με αυτό που γνωρίζετε \(και υποθέστε ότι και εσείς έχετε δικαίωμα στην αμηχανία\)
 
-Similar exercises can be applied to training different audiences, for which you may consider the same way of testing your knowledge.
+Παρόμοιες ασκήσεις μπορούν να εφαρμοστούν στην εκπαίδευση διαφορετικού κοινού, με τις οποίες μπορείτε να εξετάσετε τον ίδιο τρόπο δοκιμής των δικών σας γνώσεων σας.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Περαιτέρω μελέτη
 
-**About Bloom's Taxonomy: **
+**Σχετικά με τη Ταξινόμηση του Bloom: **
 
 * [https://www.pearsoened.com/using-blooms-taxonomy-to-write-learning-outcomes/](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
 * [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
 
-**Resources/Exercises for ice-breakers**
+**Πηγές/Ασκήσεις για "σπάσιμο του πάγου"**
 
 * [https://www.mindtools.com/pages/article/newLDR\_76.htm](https://www.mindtools.com/pages/article/newLDR_76.htm)
 * [http://documents.manchester.ac.uk/display.aspx?DocID=7582](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
 * [https://www.thebalance.com/top-ice-breakers-1918426](https://www.thebalance.com/top-ice-breakers-1918426)
 
-**References**
+**Αναφορές**
 
 * Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer. [How learning works](http://bit.ly/2El88Im). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4.  
 
@@ -531,7 +531,7 @@ Similar exercises can be applied to training different audiences, for which you 
 
 * Klaus W. Döring: Handbuch Lehren und Trainieren in der Weiterbildung. Beltz Verlag \(Weinheim, Basel\) 2008.
 
-For a deeper understanding of the matter:
+Για μια βαθύτερη κατανόηση του θέματος:
 
 * Knowles, Malcolm S, Elwood F Holton, and Richard A Swanson. The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development. Oxford: Butterworth-Heinemann, 2011.
 
