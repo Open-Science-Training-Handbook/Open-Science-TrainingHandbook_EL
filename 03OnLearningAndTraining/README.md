@@ -1,21 +1,21 @@
 ## <img src="/Images/Icons/open_education.png" width="200" height="200" />
-## On Learning and Training
+## Στη Μάθηση και την Εκπαίδευση
 
-This chapter providing context on training strategies, practical guidance in designing a course as well as an overview of pedagogical theories. It will focus on three key concepts in teaching and training:
+Το κεφάλαιο αυτό παρέχει περιεχόμενο για τις εκπαιδευτικές στρατηγικές, την πρακτική καθοδήγηση στο σχεδιασμό ενός μαθήματος, καθώς και μία επισκόπηση παιδαγωγικών θεωριών. Εστιάζει σε τρεις βασικές έννοιες της διδασκαλίας και της εκπαίδευσης.
 
-1. Preparation
+1. Προετοιμασία
 
-2. Execution
+2. Υλοποίηση
 
-3. Reflection
+3. Ανάδραση
 
-Teaching and training is firstly about preparation before delivering a course. Preparation includes the choice of content, deciding on appropriate teaching methods and putting them into a sequence to maximise the effectiveness and impact of your training. Secondly, teaching is about delivering a course \(i.e., how you act and interact with the participants\). Even if you are feeling very confident on a particular topic, it is very advisable to avoid starting the delivery before having finished the preparation. Moreover, you may need to test your content, especially the practical exercises. Then, during the course delivery, you need a good portion of flexibility, because things rarely happen completely as you expect. Finally, teaching is also about evaluation and self-assessment once you have delivered a course. It is more than likely that you have to engage yourself in the same or a similar course several times, in particular if the evaluation shows that it was good.
+Η διδασκαλία και η εκπαίδευση αφορά πρωτίστως την προετοιμασία πριν την παράδοση ενός μαθήματος. Η προετοιμασία περιλαμβάνει την επιλογή του περιεχομένου, τις αποφάσεις για τις κατάλληλες διδακτικές μεθόδους και την τοποθέτηση τους σε μία αλληλουχία για να μεγιστοποιήσετε την αποτελεσματικότητα και την επίδραση της διδασκαλίας σας. Δευτερευόντως, η εκπαίδευση αφορά την παράδοση του μαθήματος (δλδ. πως θα ενεργήσετε και πως θα αλληλοεπιδράσετε με τους  συμμετέχοντες). Ακόμα και αν αισθάνεσθε πολύ σίγουρη για το συγκεκριμένο αντικείμενο, ενδείκνυται να αποφύγετε την παράδοση πριν έχετε ολοκληρώσει την προετοιμασία.  Επιπλέον, μπορεί να χρειαστεί να δοκιμάσετε το περιεχόμενό σας, ειδικά τις πρακτικές ασκήσεις. Στη συνέχεια, κατά τη διάρκεια της παράδοσης του μαθήματος, χρειάζεστε ένα αρκετή ευελιξία, επειδή τα πράγματα σπάνια συμβαίνουν εντελώς όπως περιμένετε. Τέλος, η διδασκαλία αφορά επίσης την αξιολόγηση και την αυτό-αξιολόγηση όταν έχετε ολοκληρώσει το μάθημα. Είναι πολύ πιθανό ότι πρέπει να ασχοληθείτε με το ίδιο ή παρόμοιο μάθημα αρκετές φορές, ιδίως εάν η αξιολόγηση δείχνει ότι ήταν καλό.
 
-To better prepare yourself for future events, you should reflect on what worked well and what did not work so well, and use this to iteratively define your preparations and delivery. Briefly said, there is a “before”, a “during” and an “after” class, i.e. activities in a cycle, similar to science. This chapter provides a practical guidance for the trainers on how to prepare and deliver a course to various audiences: what are the main obstacles one has to overcome and what are the main issues one needs to keep in mind when putting together a training.
+Προκειμένου να προετοιμαστείτε καλύτερα για το μέλλον, θα πρέπει να ανα-στοχαστείτε σε σχέση με το τι λειτούργησε καλά και τι δεν λειτούργησε τόσο καλά και χρησιμοποιήστε αυτό για να ορίσετε επαναληπτικά την προετοιμασία και τις παραδόσεις σας. Εν συντομία, υπάρχει το "πριν", το "κατά τη διάρκεια" και το "μετά" την αίθουσα διδασκαλίας, δηλαδή υπάρχει μία κυκλική δραστηριότητα, παρόμοια με την επιστήμη. Αυτό το κεφάλαιο παρέχει μια πρακτική καθοδήγηση για τους εκπαιδευτές σχετικά με τον τρόπο προετοιμασίας και παράδοσης ενός μαθήματος σε διάφορα ακροατήρια: ποια είναι τα βασικά εμπόδια που πρέπει να ξεπεραστούν και ποια είναι τα βασικά ζητήματα που πρέπει να λάβετε υπόψη κατά την εκπαίδευση.
 
-## Some reflections before you start
+## Μερικές σκέψεις πριν ξεκινήσετε
 
-In the following part, we will focus mainly on the first aspect \(preparation\) and then give you guidance on how to plan and manage your course. To start with, we will speak about some theoretical issues which will provide you with an idea of what teaching and learning means and how teaching adults differs from teaching teenagers or children.
+Στο επόμενο μέρος, θα επικεντρωθούμε κυρίως στην πρώτη πτυχή \(προετοιμασία\) και στη συνέχεια θα σας δώσουμε οδηγίες για το πώς να σχεδιάσετε και να διαχειριστείτε το μάθημά σας. Αρχικά, θα μιλήσουμε για ορισμένα θεωρητικά ζητήματα που θα σας δώσουν μια ιδέα για το τι σημαίνει διδασκαλία και μάθηση και πώς η διδασκαλία των ενηλίκων διαφέρει από τη διδασκαλία των εφήβων ή των παιδιών.
 
 ### Κατάρτιση vs. Διδασκαλία (Training vs. Teaching)
 
@@ -418,7 +418,7 @@ _Κλασικές μορφές αξιολόγησης_
 
 * Πάρτε ενδιάμεσες δηλώσεις ανατροφοδότησης κατά τη διάρκεια του μαθήματος ώστε να ελέγξετε αν η σειρά μαθημάτων ικανοποιεί τις προσδοκίες. Αυτό σας δίνει την ευκαιρία να κάνετε προσαρμογές πριν συνεχίσετε.
 
-_Προφορική ανάδραση
+_Προφορική ανάδραση_
 
 * Ζητήστε από τους εκπαιδευόμενους μια σύντομη περίληψη της εμπειρίας τους. 
 
@@ -499,7 +499,7 @@ _Ομότιμη ανατροφοδότηση_
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Περαιτέρω μελέτη
 
-**Σχετικά με τη Ταξινόμηση του Bloom: **
+**Σχετικά με τη Ταξινόμηση του Bloom:**
 
 * [https://www.pearsoened.com/using-blooms-taxonomy-to-write-learning-outcomes/](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
 * [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
