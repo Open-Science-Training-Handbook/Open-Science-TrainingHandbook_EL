@@ -1,6 +1,6 @@
 ## <img src="/Images/Icons/idea.png" width="200" height="200" />
 
-**To be deleted after translation is completed**
+**This is to facilitate translators - First words of the terms definitions to be deleted after translation is completed**
 
 ## Λεξιλόγιο
 
