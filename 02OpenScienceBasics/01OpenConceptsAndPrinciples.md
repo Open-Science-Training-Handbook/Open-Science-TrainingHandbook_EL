@@ -1,107 +1,107 @@
 ## <img src="/Images/Icons/cloud.png" width="200" height="200" />
-## 1. Open Concepts and Principles
+## 1. Ανοιχτές Έννοιες και Αρχές
 
-### What is it?
+### Τι είναι;
 
-Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods ([FOSTER Open Science Definition](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). In a nutshell, Open Science is transparent and accessible knowledge that is shared and developed through collaborative networks \(Vicente-Sáez & Martínez-Fuentes 2018\).
+Ανοικτή Επιστήμη είναι οι πρακτικές της επιστήμης με τις οποίες οι άλλοι μπορούν να συνεργάζονται και να συνεισφέρουν, όπου τα ερευνητικά δεδομένα, οι σημειώσεις των εργαστηρίων και άλλες ερευνητικές διαδικασίες γίνονται ελεύθερα διαθέσιμες, κάτω από όρους που επιτρέπουν την επαναχρησιμοποίηση, την αναδιανομή και την αναπαραγωγή της έρευνας και των δεδομένων και των μεθόδων που την υποστηρίζουν ([FOSTER Open Science Definition](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). Με λίγα λόγια, η Ανοικτή Επιστήμη είναι μια διαφανής και προσβάσιμη γνώση που διανέμεται και αναπτύσσεται μέσω συνεργατικών δικτύων \(Vicente-Sáez & Martínez-Fuentes 2018\).
 
-Open Science is about increased rigour, accountability, and reproducibility for research. It is based on the principles of inclusion, fairness, equity, and sharing, and ultimately seeks to change the way research is done, who is involved and how it is valued. It aims to make research more open to participation, review/refutation, improvement and \(re\)use for the world to benefit.
+Η Ανοικτή Επιστήμη είναι συνώνυμη των αυστηρών προδιαγραφών, της λογοδοσίας και της  αναπαραγωγιμότητας της έρευνας. Βασίζεται στις αρχές της συμπερίληψης, της δικαιοσύνης, της ισότητας και της από κοινού χρήσης και τελικά επιδιώκει να αλλάξει τον τρόπο με τον οποίο γίνεται η έρευνα, τους εμπλεκόμενους και τον τρόπο της αξιολόγησής της. Σκοπός της είναι να καταστήσει την έρευνα περισσότερο ανοιχτή στη συμμετοχή, στην επανεξέταση /αμφισβήτηση, στη βελτίωση και την \(επανα\) χρησιμοποίηση , ώστε να ωφεληθεί όλος ο κόσμος.
 
-There are several definitions of "openness" with regards to various aspects of science; the [Open Definition](http://opendefinition.org/) defines it thus: “Open data and content can be freely used, modified, and shared by anyone for any purpose”. Open Science encompasses a variety of practices, usually including areas like open access to publications, open research data, open source software/tools, open workflows, citizen science, open educational resources, and alternative methods for research evaluation including open peer review \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).![](/Images/image_0.png)Pontika et al. \(2015\)
+Υπάρχουν πολλοί ορισμοί της “ανοιχτότητας” σ΄ό,τι αφορά τις διάφορες πλευρές της επιστήμης. Ο ορισμός του [OpenDefinition](http://opendefinition.org/) αναφέρει: "Τα ανοιχτά δεδομένα και περιεχόμενο μπορούν να χρησιμοποιηθούν ελεύθερα, να τροποποιηθούν και να μοιραστούν από οποιονδήποτε για οποιονδήποτε σκοπό". Η Ανοιχτή Επιστήμη περιλαμβάνει πλήθος πρακτικών, που συνήθως περιλαμβάνουν τομείς όπως η ανοικτή πρόσβαση στις δημοσιεύσεις (open access), τα ανοικτά ερευνητικά δεδομένα (open data), το ανοιχτό λογισμικό /τα εργαλεία ανοιχτού κώδικα (open source software), τις ανοικτές ροές εργασιών (open workflows), την επιστήμη πολιτών (citizen science), τους  ανοικτούς εκπαιδευτικούς πόρους (open educational resources) και τις εναλλακτικές μεθόδους αξιολόγησης της έρευνας, μεταξύ αυτών την ανοιχτή ομότιμη κρίση (open peer review) \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).![](/Images/image_0.png)Pontika et al. \(2015\)
 
-The aims and assumptions underlying the push to implement these various practices have been analysed by Fecher & Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\), whose analyses of the literature found five broad concerns, or "schools of thought". These are:
 
-* **Democratic school:** Believing that there is an unequal distribution of access to knowledge, this area is concerned with making scholarly knowledge \(including publications and data\) available freely for all.
+Οι στόχοι και οι παραδοχές στις οποίες βασίζεται η ώθηση για την εφαρμογή αυτών των ποικίλων πρακτικών έχουν αναλυθεί από τους Fecher & Friesike ([2013] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036) \),  οι οποίοι αναλύοντας τη βιβλιογραφία εντόπισαν πέντε μεγάλα ζητήματα ή «σχολές σκέψης». Αυτές είναι: 
 
-* **Pragmatic school:** Following the principle that the creation of knowledge is made more efficient through collaboration and strengthened through critique, this area seeks to harness network effects by connecting scholars and making scholarly methods transparent.
+* **η Δημοκρατική Σχολή:** Πιστεύοντας ότι υπάρχει άνιση κατανομή της πρόσβασης στη γνώση, ο τομέας αυτός ασχολείται με την ελεύθερη διάθεση των γνώσεων (συμπεριλαμβανομένων των δημοσιεύσεων και των δεδομένων) για όλους.
 
-* **Infrastructure school:** This thread is motivated by the assumption that efficient research requires readily available platforms, tools and services for dissemination and collaboration.
+* **η Πρακτική Σχολή:** Ακολουθώντας την αρχή ότι η δημιουργία της γνώσης γίνεται πιο αποτελεσματική μέσω της συνεργασίας και ενισχύεται μέσω της κριτικής, ο τομέας αυτός επιδιώκει να αξιοποιήσει τα αποτελέσματα του διαδικτύου συνδέοντας τους επιστήμονες και καθιστώντας τις ακαδημαϊκές μεθόδους διαφανείς.
 
-* **Public school:** Based on the recognition that true societal impact requires societal engagement in research and readily understandable communication of scientific results, this area seeks to bring the public to collaborate in research through citizen science, and make scholarship more readily understandable through lay summaries, blogging and other less formal communicative methods.
+* **η Σχολή της Υποδομής:** Ο συλλογισμός της έχει ως εκκίνηση την υπόθεση ότι η αποτελεσματική έρευνα προϋποθέτει άμεσα διαθέσιμες πλατφόρμες, εργαλεία και υπηρεσίες διάδοσης και συνεργασίας.
 
-* **Measurement school:** Motivated by the acknowledgement that traditional metrics for measuring scientific impact have proven problematic \(by being too heavily focused on publications, often only at the journal-level, for instance\), this strand seeks "alternative metrics" which can make use of the new possibilities of digitally networked tools to track and measure the impact of scholarship through formerly invisible activities.
+* **η Δημόσια Σχολή:** Με βάση την αναγνώριση ότι πραγματικές κοινωνικές επιπτώσεις προϋποθέτουν κοινωνική δέσμευση στην έρευνα και άμεσα κατανοητή επικοινωνία των επιστημονικών αποτελεσμάτων, ο τομέας αυτός επιδιώκει να κάνει το κοινό να συνεργαστεί για την έρευνα μέσω της επιστήμης των πολιτών και να καταστήσει ευκολότερη την κατανόηση της ακαδημαϊκής γνώσης με απλές περιλήψεις, κείμενα σε blogs και άλλες λιγότερο επίσημες επικοινωνιακές μεθόδους.
 
-### Rationale
+* **η Σχολή της Μέτρησης:** Με την παραδοχή ότι οι παραδοσιακές μετρήσεις για την εκτίμηση της επιστημονικής απήχησης έχουν αποδειχθεί προβληματικές (όντας πολύ επικεντρωμένες στη δημοσιεύσεις, συχνά μόνο σε περιοδικά για παράδειγμα), αναζητούνται «εναλλακτικές μετρήσεις», οι οποίες να μπορούν να αξιοποιήσουν τις νέες δυνατότητες των ψηφιακά συνδεδεμένων εργαλείων για την παρακολούθηση και τη μέτρηση της απήχησης της επιστημονικότητας, μέσω δραστηριοτήτων που παλαιότερα δεν ήταν ορατές.
 
-Open Science, as defined above, encompasses a huge number of potential structural changes to academic practice, whose culture can often be hierarchical and conservative. Moreover, even where researchers are sympathetic to the aims of Open Science, they might not yet see the worth in taking them up, as existing incentive mechanisms do not yet reflect this new culture of openness and collaboration. As a consequence, convincing researchers of the need to change their practices will require a good understanding not only of the ethical, social and academic benefits, but also of the ways in which taking up Open Science practices will actually help them succeed in their work. This section will describe some of the core concepts, principles, actors, and practices in Open Science, and how these fit within a broader research ecosystem.
+### Σκεπτικό
+
+Η Ανοιχτή Επιστήμη, όπως ορίστηκε νωρίτερα, συνεπάγεται πλήθος πιθανών διαρθρωτικών αλλαγών σε ό,τι αφορά τις ακαδημαϊκές πρακτικές, στην περίπτωση που η καθιερωμένη κουλτούρα είναι ιεραρχική και συντηρητική. Επιπλέον, ακόμη και όταν οι ερευνητές βλέπουν θετικά τους στόχους της Ανοιχτής Επιστήμης, ενδέχεται η αξία τους να μην τους είναι ακόμα προφανής, καθώς οι υφιστάμενοι μηχανισμοί κινήτρων δεν αντανακλούν ακόμη αυτή τη νέα κουλτούρα ανοιχτότητας και συνεργασίας. Κατά συνέπεια, προκειμένου να πειστούν οι ερευνητές για την ανάγκη να αλλάξουν τις πρακτικές τους, απαιτείται να γίνουν καλά κατανοητά όχι μόνο τα δεοντολογικά, κοινωνικά και ακαδημαϊκά οφέλη αλλά και οι τρόποι με τους οποίους η υιοθέτηση των πρακτικών της Ανοιχτής Επιστήμης θα τους βοηθήσει ουσιαστικά να επιτύχουν στο έργο τους. Αυτή η ενότητα θα περιγράψει μερικές από τις βασικές έννοιες και αρχές καθώς και τους παράγοντες και τις πρακτικές στην Ανοιχτή Επιστήμη κι επίσης τους τρόπους με τους οποίους αυτές εντάσσονται σε ένα ευρύτερο ερευνητικό οικοσύστημα.
 
 ![](/Images/image_1.png)
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Μαθησιακοί στόχοι 
 
-1. Understand the social, economical, legal, and ethical principles and concepts underpinning Open Science.
+1.Κατανόηση των κοινωνικών, οικονομικών, νομικών και ηθικών αρχών και εννοιών στις οποίες βασίζεται η Ανοιχτή Επιστήμη. 
 
-2. Become familiar with the history of Open Science, and the disparity and diversity of views from different research communities, disciplines and cultures.
+2.Εξοικείωση με την ιστορία της Ανοιχτής Επιστήμης, καθώς και τις διαφορές και ποικιλομορφίες των σχετικών απόψεων στις διαφορετικές ερευνητικές κοινότητες, επιστημονικούς κλάδους και πολιτισμούς. 
 
-3. Gain insight into the developments around Open Science, and the personal impact these can have on researchers, research, and society more broadly.
+3.Ενημέρωση για τις εξελίξεις γύρω από την Ανοιχτή Επιστήμη και την προσωπική επιρροή που μπορεί αυτή να έχει για τους ερευνητές, την έρευνα και την κοινωνία γενικότερα.
 
-### Key components
+### Βασικά στοιχεία 
 ![](/Images/02 Open Science Basics/02_open_concepts_and_principles.png)
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge & Skills
-* Open Science is the movement to help make the results of scholarly research more accessible, including code, data, and research papers.
+#### Γνώσεις και δεξιότητες
+* Η Ανοιχτή Επιστήμη είναι το κίνημα που βοηθά τα αποτελέσματα της επιστημονικής έρευνας- μεταξύ αυτών οι κώδικες, τα δεδομένα και οι ερευνητικές εργασίες - να γίνουν πιο προσιτά.
 
-  * It encompasses many different but often related aspects impacting the entire research lifecycle, including open publishing, open data, open source software, open notebook science, open peer review, open dissemination, and open materials \(see glossary for definitions\).
+  * Περιλαμβάνει πολλές διαφορετικές αλλά συχνά συνδεδεμένες πτυχές που επηρεάζουν ολόκληρο τον κύκλο της έρευνας, μεταξύ των οποίων τις ανοιχτές εκδόσεις (open access publishing), τα ανοιχτά δεδομένα (open data), το λογισμικό ανοιχτού κώδικα (open source software), τις ανοιχτές σημειώσεις (open notebooks), την ανοιχτή ομότιμη κρίση (open peer review), την ανοιxτή διάδοση (open dissemination) και τα ανοιχτά υλικά (open materials) \(βλ. γλωσσάριο ορισμών\).
+  
+* Η ιστορία της Ανοιχτής Επιστήμης και τα κίνητρα πίσω από το κίνημα.
 
+  * Οι ρίζες των ακαδημαϊκών εκδόσεων τοποθετούνται στον 17ο αιώνα όταν ξεκίνησαν τα πρώτα ακαδημαϊκά περιοδικά.
 
-* History of Open Science, and the motivations behind the movement.
+  * Η αύξηση των κινήτρων για την ανταλλαγή πόρων μεταξύ των ερευνητικών κλάδων καθώς και αυξημένη διαφάνεια για μεγαλύτερη αποτελεσματικότητα, αυστηρότητα, λογοδοσία, βιωσιμότητα για τις μελλοντικές γενιές και αναπαραγωγιμότητα.
 
-  * The origins of academic publishing began in the 17th century with the first academic journals.
+  * Τα ζητήματα δεοντολογίας όπου η αυξημένη διαφάνεια μπορεί να μειώσει την απάτη, τη χειραγώγηση των δεδομένων και την επιλεκτική αναφορά των αποτελεσμάτων.
 
-  * Increasing motivation to share resources between research disciplines, as well as increased transparency for greater efficiency, rigour, accountability, sustainability for future generations, and reproducibility.
+* Η σημερινή κατάσταση προέκυψε από την πίεση των ερευνητικών ακαδημιών και των κυβερνήσεων για την ανοιχτή διάθεση της δημόσια χρηματοδοτούμενης έρευνας, συχνά με σκοπό την επιτάχυνση της κοινωνικής ή και οικονομικής ανάπτυξης και της καινοτομίας.
 
-  * Ethical cases whereby increased transparency can reduce fraud, data manipulation, and selective reporting of results.
+  * Τα αποτελέσματα από δημόσια χρηματοδοτούμενη έρευνα πρέπει να είναι δημόσια διαθέσιμα.
 
-* Present state arose from pressure from research academies and governments for publicly-funded research to be shared more openly, often for the purpose of accelerated societal or economic growth and innovation.
+  * Η αλλαγή κουλτούρας στην έρευνα και μεταξύ των ερευνητών είναι  αναγκαία.
 
-  * Publicly funded research outputs should be publicly available.
+  * Η υιοθέτηση διαδικτυακών εργαλείων και τεχνολογιών διευκολύνουν την επιστημονική συνεργασία.
+  
+* Διαφορές και ομοιότητες στις πρακτικές, στις αρχές και στις κοινότητες της Ανοιχτής Επιστήμης.
 
-  * Need to drive cultural change in research and amongst researchers.
+  * o	Είναι γενικά παραδεκτό ότι η Ανοιχτή Επιστήμη οδηγεί στην αύξηση της απήχησης, η οποία σχετίζεται με την ευρύτερα κοινή χρήση και επαναχρησιμοποίηση (π.χ. το λεγόμενο «πλεονέκτημα αναφοράς της ανοιχτής πρόσβασης» - «open access citation advantage»).(https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/)"\).
 
-  * Embracing of Web-based tools and technologies to facilitate scientific collaboration.
+  * Η Ανοιχτή Επιστήμη μπορεί να αυξήσει την εμπιστοσύνη στην επιστήμη και στην αξιοπιστία των επιστημονικών αποτελεσμάτων.
 
-* Differences and commonalities within Open Science practices, principles and communities.
+* Ανοιχτή Επιστήμη και σχέση με την άδεια χρήσης και τα ζητήματα πνευματικής ιδιοκτησίας.
 
-  * It is generally accepted that Open Science leads to increased impact associated with wider sharing and re-use \(e.g., the so-called "[open access citation advantage](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/)"\).
-
-  * Open Science could increase trust in science and in the reliability of scientific results.
-
-* Open Science and relations to licensing, copyright issues.
-
-  * Typically, open research outputs are openly licensed in order to maximize re-use while allowing the creator to retain ownership and receive credit for their work.
-
+  * Συνήθως, τα αποτελέσματα ανοιχτής έρευνας έχουν ανοιχτές άδειες προκειμένου αφενός να μεγιστοποιηθεί η επαναχρησιμοποίησή τους, και αφετέρου επιτρέποντας στον δημιουργό να διατηρήσει την ιδιοκτησία και να πάρει αναγνώριση για το έργο του.
+  
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Ερωτήσεις, εμπόδια, και συχνές παρανοήσεις
 
-Q: "What is the difference between Open Science and ‘science’?"
+Ε: Ποια είναι η διαφορά μεταξύ Ανοιχτής Επιστήμης  και  ‘επιστήμης’; 
 
-A: Open Science refers to doing traditional science with more transparency involved at various stages, for example by openly sharing code and data. Many researchers do this already, but don’t call it Open Science.
+Α: H Ανοιχτή Επιστήμη αφορά την πραγματοποίηση της παραδοσιακής επιστήμης με περισσότερη διαφάνεια σε διάφορα στάδια, για παράδειγμα με ανοιχτή ανταλλαγή κώδικα και δεδομένων. Πολλοί ερευνητές το κάνουν ήδη, αλλά δεν το αποκαλούν Ανοιχτή Επιστήμη.
 
-Q: "Does ‘Open Science’ exclude the Humanities and Social Sciences?"
+Ε: H Ανοιχτή Επιστήμη εξαιρεί τις Ανθρωπιστικές και τις Κοινωνικές Επιστήμες;"
 
-A: No, the term Open Science is inclusive. Indeed, the case is that sometimes Open Science is more broadly referred to as ‘Open Research’ or ‘Open Scholarship’ to be more inclusive of other disciplines, principles and practices. However, Open Science is a commonly used term at multiple levels and so it makes sense to adopt it for communication purposes, with the proviso that it includes all research disciplines.
+Α: Όχι, ο όρος Ανοιχτή Επιστήμη περιλαμβάνει όλες τις επιστήμες. Μάλιστα, συμβαίνει μερικές φορές η Ανοιχτή Επιστήμη να αναφέρεται ευρύτερα ως «Ανοιχτή Έρευνα» («Open Research») ή «Ανοιχτή Ακαδημαϊκή Γνώση» («Open Scholarship»)  ώστε να συμπεριλαμβάνει περισσότερους κλάδους, αρχές και πρακτικές. Ωστόσο, η Ανοιχτή Επιστήμη είναι ένας ευρέως χρησιμοποιούμενος όρος σε πολλαπλά επίπεδα, επομένως είναι λογικό να το υιοθετήσουμε για επικοινωνιακούς σκοπούς, με την προϋπόθεση ότι περιλαμβάνει όλους τους επιστημονικούς κλάδους.
 
-Q: "Does Open Science lead to misuse or misunderstanding of research?"
+Ε: "Η Ανοιχτή Επιστήμη οδηγεί σε κατάχρηση ή παρερμηνεία της έρευνας;"
 
-A: No, the application of Open Science principles is in fact a safeguard against misuse or misunderstanding. Transparency breeds trust, confidence and allows others to verify and validate the research process.
+Α: Όχι, η εφαρμογή των αρχών της Ανοιχτής Επιστήμης είναι στην πραγματικότητα μια εγγύηση κατά της κακής χρήσης ή παρερμηνείας. Η διαφάνεια καλλιεργεί πίστη και εμπιστοσύνη και επιτρέπει σε άλλους να ελέγχουν και να επικυρώνουν την ερευνητική διαδικασία.
 
-Q: "Will Open Science lead to too much information overload?"
+Ε: " Η Ανοιχτή Επιστήμη θα οδηγήσει σε υπερπληθώρα πληροφοριών;"
 
-A: It is better to have too much information and deal with it, than to have too little and live with the risk of missing the important parts. And there are technologies such as RSS feeds, machine learning and artificial intelligence that are making content aggregation easier.
+Α: Είναι προτιμότερο να έχουμε πάρα πολλές πληροφορίες και να τις διαχειριζόμαστε, παρά να έχουμε πολύ λίγες και να ζούμε με τον κίνδυνο να λείπουν σημαντικά στοιχεία. Άλλωστε, υπάρχουν τεχνολογίες όπως το RSS, η μηχανική μάθηση και η τεχνητή νοημοσύνη που διευκολύνουν τη συγκέντρωση περιεχομένου. 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Μαθησιακοί στόχοι
 
-1. Be able to explain the core underlying academic, economic, and societal principles and concepts supporting Open Science, and why this matters to you in terms of broader impacts.
+1. Δυνατότητα επεξήγησης του πυρήνα που διέπει τις ακαδημαϊκές, οικονομικές και κοινωνικές αρχές και έννοιες που υποστηρίζουν την Ανοιχτή Επιστήμη και γιατί είναι σημαντική στο επίπεδο των ευρύτερων επιπτώσεων.
 
-2. Develop an understanding of the numerous dimensions of Open Science, and some of the tools and practices involved in this.
+2. Ανάπτυξη της κατανόησης των πολυάριθμων διαστάσεων της Ανοιχτής Επιστήμης και μερικών εργαλείων και πρακτικών που σχετίζονται με αυτό.
 
-3. Be familiar with the present state of Open Science, and the diversity of perspectives that this encompasses.
+3. Εξοικείωση με την παρούσα κατάσταση στην Ανοιχτή Επιστήμη και την ποικιλομορφία των προοπτικών που περιλαμβάνει.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Περαιτέρω διάβασμα
 
 * [Open Science: one term, five schools of thought](https://doi.org/10.1007/978-3-319-00026-8_2) \(Fecher and Friesike, 2014\).
 
