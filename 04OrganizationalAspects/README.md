@@ -1,107 +1,72 @@
 ## <img src="/Images/Icons/timetable.png" width="200" height="200" />
-## Organizational aspects
+## Οργανωτικά ζητήματα
 
-This chapter will guide you through the main practical aspects of organising a training event. Of course, what you need and will use will depend on the type of event you’ll organise! The checklist should be adjusted accordingly. You will get information on preparation steps and necessary organizational tasks. This will provide you not only with valuable knowledge about event organization, but will reassure you while preparing your training. Note that most of the material in this chapter, and the whole handbook, is focused on training regarding practical workshops. Running a different type of event may require different decisions than the recommendations that follow.
+Σε αυτό το κεφάλαιο θα δεις τα βασικά πρακτικά ζητήματα της οργάνωσης μιας επιμορφωτικής εκδήλωσης. Βέβαια, αυτό που χρειάζεσαι και θα χρησιμοποιήσεις θα εξαρτηθεί από τον τύπο την εκδήλωσης που θα οργανώσεις! Ο κατάλογος των σημείων που πρέπει να ελεγχθούν  πρέπει να είναι κατάλληλα προσαρμοσμένος. Θα λάβεις πληροφορίες για τα βήματα προετοιμασίας και τις απαραίτητες εργασίες οργάνωσης. Αυτό θα σε εφοδιάσει όχι μόνο με πολύτιμη γνώση για την οργάνωση εκδηλώσεων, αλλά και θα σου δώσει σιγουριά καθώς θα ετοιμάζεις την επιμόρφωση. Λάβε υπόψη σου ότι το περισσότερο υλικό σε αυτό το κεφάλαιο, καθώς και όλο το εγχειρίδιο, επικεντρώνεται σε επιμόρφωση σχετικά με πρακτικά εργαστήρια. Η διεξαγωγή μιας διαφορετικού τύπου εκδήλωσης μπορεί να απαιτεί διαφορετικές αποφάσεις από τις υποδείξεις που ακολουθούν.
 
-## Training event basics
+## Τα βασικά της εκδήλωσης επιμόρφωσης
 
-### Format
+### Μορφή
 
-Deciding what type of event you want to coordinate is the first critical step in training exercises. Here are some points to consider:
+Το πρώτο σημαντικό βήμα σε ασκήσεις επιμόρφωσης είναι να αποφασίσεις τι τύπο εκδήλωσης θέλεις να συντονίσεις. Παραθέτουμε μερικά σημεία που πρέπει να λάβεις υπόψη σου:
 
-* Format of the training: live workshop, seminar, lecture, online training or mixture of online and in-person?
+* Η μορφή της επιμόρφωσης: ζωντανό εργαστήριο, σεμινάριο, διάλεξη, διαδικτυακή επιμόρφωση ή συνδυασμός διαδικτυακής και προσωπικής;
 
-* Will it be participatory, formal, self-contained?
+* Θα είναι συμμετοχική, επίσημη, αυτοτελής;
 
-* Can the event be integrated into existing curricula?
+* Μπορεί η εκδήλωση να ενσωματωθεί σε ένα υπάρχον εκπαιδευτικό πρόγραμμα;
 
-* Do you need to invite any other external experts? What are the requirements for that (e.g., funding)?
+* Πρέπει να καλέσεις άλλους εξωτερικούς ειδικούς; Τι απαιτείται γι’ αυτό (π.χ. χρηματοδότηση); 
 
-* Is the training a requirement, or something participants are choosing to attend?
+* Η επιμόρφωση είναι υποχρεωτική, ή κάτι που οι συμμετέχοντες μπορούν να επιλέξουν να παρακολουθήσουν;
 
-* Will attendees receive any form of accreditation for the training?
+* Θα λάβουν οι συμμετέχοντες κάποιο είδος πιστοποίησης για την επιμόρφωση;
 
-* What sort of venue type do you need for this format?
+* Τί είδους χώρο χρειάζεσαι για αυτή τη μορφή; 
 
-To provide you with initial guidance over possible types of training and their characteristics, see the table below for recommendations. 
+Για να σου δώσουμε μία αρχική καθοδήγηση σχετικά με πιθανές μορφές επιμόρφωσης και τα χαρακτηριστικά τους, βλέπε τον παρακάτω πίνακα για υποδείξεις.  
 
 <table>
   <tr>
     <td></td>
-    <td>TYPE OF TRAINING</td>
+    <td>ΤΥΠΟΣ ΕΚΠΑΙΔΕΥΣΗΣ</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>Live workshop</td>
-    <td>Course/ class</td>
-    <td>Lecture</td>
-    <td>Online Training</td>
+    <td>Ζωντανά εργαστήρια</td>
+    <td>Μάθημα/ class</td>
+    <td>Διάλεξη</td>
+    <td>Διαδικτυακή επιμόρφωση</td>
   </tr>
   <tr>
-    <td>Audience Size</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>less than 20</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>less than 40</td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>more than 40</td>
-    <td></td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td></td>
+    <td>Μέγεθος ακροατηρίου</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Funds</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>none</td>
-    <td></td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>little</td>
+    <td>λιγότερες από 20</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>loaded</td>
+    <td>λιγότερες από 40</td>
+    <td></td>
     <td>x</td>
     <td>x</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>περισσότερες από 40</td>
     <td></td>
     <td></td>
+    <td>x</td>
+    <td>x</td>
   </tr>
   <tr>
     <td></td>
@@ -111,39 +76,32 @@ To provide you with initial guidance over possible types of training and their c
     <td></td>
   </tr>
   <tr>
-    <td>Time</td>
+    <td>Χρηματοδότηση</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td> less than ½ day</td>
+    <td>καμία</td>
+    <td></td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>μικρή</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>½ - 1 day</td>
-    <td>x</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1- 4 days</td>
+    <td>μεγάληd</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td></td>
-  </tr>
-  <tr>
-    <td>more than 4 days</td>
-    <td></td>
-    <td></td>
-    <td>x (series)</td>
-    <td>x (series)</td>
   </tr>
   <tr>
     <td></td>
@@ -153,35 +111,77 @@ To provide you with initial guidance over possible types of training and their c
     <td></td>
   </tr>
   <tr>
-    <td>Training level</td>
+    <td>Χρόνος</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Introductory</td>
+    <td>λιγότερο από ½ ημέρα</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>½ - 1 ημέρα</td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1- 4 ημέρες</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>περισσότερο από 4 ημέρες</td>
+    <td></td>
+    <td></td>
+    <td>x (σειρά)</td>
+    <td>x (σειρά)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Επίπεδο επιμόρφωσης</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Εισαγωγικό</td>
     <td></td>
     <td></td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Aware of</td>
+    <td>Ενημερωτικό</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Intermediate</td>
+    <td>Ενδιάμεσο</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Advanced</td>
+    <td>Προχωρημένο</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
@@ -191,180 +191,180 @@ To provide you with initial guidance over possible types of training and their c
 
 
 
-### Audience, guest speakers, and partners
+### Ακροατήριο, προσκεκλημένες ομιλήτριες και συνεργάτριες
 
-Before committing to the event be sure you defined your target audience and that you are aware of their needs. Consider your audience, its size and the number or area of competence of (guest) trainers. [link to On learning and training chapter: Target audiences] <!--- The link seems to be missing here -->
+Πριν δεσμευτείς για μια εκδήλωση σιγουρέψου ότι έχεις προσδιορίσει το ακροατήριο στο οποίο απευθύνεσαι και ότι γνωρίζεις τις ανάγκες του. Σκέψου το ακροατήριο σου, το μέγεθός του και τον αριθμό ή τον τομέα ειδικότητας των (προσκεκλημένων) εκπαιδευτριών. [Βλέπε στο κεφάλαιο Για τη μάθηση και την επιμόρφωση: Στοχευμένα ακροατήρια] <!--- The link seems to be missing here -->
 
 ## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
-#### Cooperating with others
+#### Συνεργασία με άλλους
 
-Some forms of training require more than one instructor. Try to get support from colleagues or service units in your institution. Identify institutional support (e.g., funding, room(s), work time) and reach out to decision makers to ask for these things - for example, you could ask for help with registration, or contact the printing service or communication department regarding advertising. Make sure any volunteers are sufficiently briefed on all activities, and know what the aims and practicalities of the event are. Make them aware of the importance of encouraging participation from the attendees. You can also outsource some tasks, if the budget allows for this.
+Μερικοί τύποι επιμόρφωσης απαιτούν περισσότερες από μία εκπαιδεύτρια. Προσπάθησε να πάρεις υποστήριξη από συναδέλφους ή μονάδες υποστήριξης του φορέα.  Προσδιόρισε την υποστήριξη από τον φορέα (π.χ. χρηματοδότηση, αίθουσα(ες), χρόνο απασχόλησης) και απευθύνσου σε άτομα που λαμβάνουν αποφάσεις για να ζητήσεις αυτά τα πράγματα – για παράδειγμα, θα μπορούσες να ζητήσεις βοήθεια στις εγγραφές, ή να επικοινωνήσεις με την υπηρεσία εκτυπώσεων ή το τμήμα επικοινωνίας για την προώθηση. Βεβαιώσου ότι όλες οι εθελόντριες είναι ενημερωμένες επαρκώς για όλες τις δραστηριότητες και γνωρίζουν ποιοι είναι οι στόχοι και η πρακτικότητα της εκδήλωσης. Ενημέρωσε τες ότι είναι σημαντικό να ενθαρρύνουν την συμμετοχή. Μπορείς επίσης να αναθέσεις κάποιες εργασίες σε εξωτερικούς συνεργάτες, εάν ο προϋπολογισμός σου το επιτρέπει.
 
-Consider partnering with other departments at your institution or other local institutions to pool resources and increase impact/collaborating with other projects or programs. These are the key points to work out prior to committing to, or announcing any event. Resolving these will help the training run smoothly for yourself and your participants. Also consider integrating the training into a recognized conference or local/international event.
+Σκέψου τη συνεργασία με άλλα τμήματα στο ίδρυμά σου ή άλλους τοπικούς φορείς για να συγκεντρώσεις πόρους και να αυξήσεις τον αντίκτυπο/συνεργασία με άλλα έργα ή προγράμματα. Αυτά είναι τα βασικά σημεία για να επεξεργαστείς πριν δεσμευτείς ή ανακοινώσεις μία εκδήλωση. Λύνοντάς τα θα βοηθήσει την επιμόρφωση να κυλήσει ομαλά για εσένα και τους συμμετέχοντες σου. Σκέψου επίσης να ενσωματώσεις την επιμόρφωση σε ένα αναγνωρισμένο συνέδριο ή τοπική/διεθνή εκδήλωση.
 
-Identify other trainers or experts/guest speakers that could help with the event. Ideally these will be other Open Science advocates at the institution or otherwise local to the event, but you may need to find suitable non-local trainers (who may need financial support for travel). Work to have diverse representation (see Representation below). According to [The Carpentries](https://software-carpentry.org/workshops/operations/), a workshop with 40 people needs at least two trainers (and possibly a third) who alternate between talking and supporting learners, including also one helper per 5 participants that will continuously monitor for any issues.
+Προσδιόρισε άλλες εκπαιδεύτριες ή ειδικές/προσκεκλημένες ομιλήτριες που θα μπορούσαν να βοηθήσουν στην εκδήλωση. Ιδανικά θα είναι και αυτές συνήγοροι της Ανοικτής Επιστήμης στο ίδρυμα ή τοπικά στην εκδήλωση , αλλά μπορεί να χρειαστεί να εντοπίσεις κατάλληλες μη τοπικές εκπαιδεύτριες (οι οποίες μπορεί να χρειαστούν οικονομική υποστήριξη για να ταξιδέψουν). Δούλεψε ώστε να έχεις ποικιλία στην παρουσίαση (βλέπε παρακάτω Παρουσίαση). Σύμφωνα με το [The Carpentries](https://software-carpentry.org/workshops/operations/), ένα εργαστήριο με 40 άτομα χρειάζεται τουλάχιστον δύο εκπαιδεύτριες (και πιθανόν μία τρίτη) που θα εναλλάσσονται μεταξύ ομιλιών και υποστήριξης των μαθητευόμενων, συμπεριλαμβανομένης μίας βοηθού ανά 5 συμμετέχοντες που συνεχώς θα παρακολουθούν για κάθε ζήτημα. 
 
-#### Representation
+#### Παρουσίαση
 
-Maintaining an inclusive environment is important for any successful training event. Ensure that each component of your programme includes a range of backgrounds. Your organizing team, speakers, and trainers should include representation across gender identities, different disciplines, underrepresented groups, diverse racial backgrounds, and geographic regions (if you intend to open your event to non-local participants). 
+Είναι σημαντικό για κάθε επιτυχημένη εκδήλωση επιμόρφωσης να διατηρείς ένα περιεκτικό περιβάλλον. Βεβαιώσου ότι κάθε μέρος τους προγράμματός σου περιλαμβάνει ομάδες από διαφορετικό υπόβαθρο. Η οργανωτική σου ομάδα, οι ομιλήτριες και οι εκπαιδεύτριες θα πρέπει να αντιπροσωπεύουν διάφορες ταυτότητες φύλου, διαφορετικούς κλάδους, λιγότερο εκπροσωπούμενες ομάδες, ποικίλα φυλετικά υπόβαθρα και γεωγραφικές περιοχές (εάν σκοπεύεις να ανοίξεις την εκδήλωσή σου σε μη τοπικούς συμμετέχοντες).
 
-Actively invite trainers and speakers from underrepresented groups. Make sure to discuss with them their specific goals and needs, and include these in the planning of the event. To learn more about trainers see On learning and training chapter, Expectations about a trainer subchapter. Ensure that a proportion of participant spots are reserved for attendees across ethnic backgrounds, gender identities, disciplines and geographic regions [link to On learning and training chapter: Inclusive engagement]. To learn more about how to make your workshop inclusive and welcoming, see the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+Να προσκαλείς ενεργά εκπαιδεύτριες και ομιλήτριες από λιγότερο εκπροσωπούμενες ομάδες. Φρόντισε να συζητήσεις μαζί τους για τους ειδικούς στόχους τους και τις ανάγκες τους και να τα συμπεριλάβεις στον σχεδιασμό της εκδήλωσης. Για να μάθεις περισσότερα για τις εκπαιδεύτριες βλέπε στο κεφάλαιο Για την μάθηση και την εκπαίδευση, στο υποκεφάλαιο Προσδοκίες από μία εκπαιδεύτρια. Βεβαιώσου ότι κρατάς ένα ποσοστό θέσεων για ακροατές διαφορετικών εθνικοτήτων, ταυτοτήτων φύλου, κλάδων και γεωγραφικών περιοχών [βλέπε στο κεφάλαιο Για την μάθηση και την επιμόρφωση: συμμετοχή χωρίς αποκλεισμούς]. Για να μάθεις περισσότερα για το πως να κάνεις την εκδήλωσή σου χρίς αποκλειστμούς και φιλική, βλέπε στο [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
 ## <img src="/Images/Icons/home.png" width="150" height="150" />
-### Venue
+### Χώρος
 
-Before organizing a face to face training event consider few things related to a venue. It might help you to reduce several obstacles: 
+Πριν οργανώσεις μία πρόσωπο με πρόσωπο εκδήλωση επιμόρφωσης σκέψου μερικά πράγματα που αφορούν στον χώρο. Μπορεί να σε βοηθήσει αν ελαχιστοποιήσεις μερικά εμπόδια:
 
-The venue should be easily accessible for the participants. The venue should have elevator access, accessible entrances and ramps and clear legible signs. Check if the venue is easily accessible by public transport or car (parking spaces) and that it’s not too far away from rail stations or the airport. For a checklist of what makes a workshop accessible, see the [Accessible Meetings Toolkit from the American Bar Association](http://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf) and the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html). Locate a place to greet your attendees and a place for them to circulate and socialise. A separate area for catering should be available. Also check if the venue offers a maternity room, a prayer room and a gender neutral washroom. 
+Ο χώρος πρέπει να είναι εύκολα προσβάσιμος για τους συμμετέχοντες. Ο χώρος πρέπει να έχει πρόσβαση με ανελκυστήρα, προσβάσιμες εισόδους και ράμπες και ξεκάθαρη και ευανάγνωστη σήμανση. Έλεγξε αν ο χώρος είναι εύκολα προσβάσιμος με την δημόσια συγκοινωνία ή με αυτοκίνητο (χώροι στάθμευσης) και ότι δεν είναι πολύ μακριά από σταθμούς τρένων ή το αεροδρόμιο. Για έναν κατάλογο σημείων προς έλεγχο για το τι κάνει μία εκδήλωση προσβάσιμη, βλέπε στο [Accessible Meetings Toolkit from the American Bar Association](http://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf) και στο [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html). Εντόπισε ένα μέρος για να καλωσορίσεις το ακροατήριο και ένα μέρος για να κυκλοφορούν και να συναναστρέφονται. Μία ξεχωριστή περιοχή για εστίαση πρέπει να είναι διαθέσιμη. Έλεγξε επίσης αν ο χώρος προσφέρει αίθουσα για μητέρες, αίθουσα προσευχής και άφυλες τουαλέτες. 
 
-The training room should be sufficiently equipped (see equipment and media). The room should have sufficient WiFi and power access for every participant (possibly via power strips/extension cords). Check to see if furniture can be rearranged in order to suit your requirements. The presenter will need a high (or raisable) table for standing and a microphone (for recording and/or accessibility). An additional microphone for participant questions aids accessibility. 
+Η αίθουσα επιμόρφωσης πρέπει να είναι επαρκώς εξοπλισμένη (βλέπε εξοπλισμός και μέσα). Η αίθουσα πρέπει να έχει επαρκή ασύρματο δίκτυο και πρόσβαση σε ηλεκτρική πηγή για κάθε συμμετέχοντα (πιθανόν μέσω πολύπριζων/καλωδίων προέκτασης). Δες αν η επίπλωση μπορεί να αναδιαταχθεί για να εξυπηρετήσει τις απαιτήσεις σου. Η παρουσιάστρια θα χρειαστεί ένα ψηλό (ή ρυθμιζόμενο) τραπέζι και ένα μικρόφωνο (για ηχογράφηση ή/και προσβασιμότητα). Ένα επιπλέον μικρόφωνο για τις ερωτήσεις των συμμετεχόντων βοηθάει στην προσβασιμότητα.  
 
 ## <img src="/Images/Icons/break.png" width="150" height="150" />
-### Timing
+### Χρονοδιάγραμμα
 
-The length of the event depends on the content and depth of the training you intend to provide. You should have an estimate how much time each component will take. Make sure to define an agenda or time schedule, including any icebreakers and introductions. Allow enough time for lunch and coffee breaks. Be reasonable with your start and end times  [link to On learning and training chapter: Starting the training]. 
+Η διάρκεια της εκδήλωσης εξαρτάται από το περιεχόμενο και το βάθος της επιμόρφωσης που σκοπεύεις να παρέχεις. Θα πρέπει να έχεις μια εκτίμηση του πόσο χρόνο θα πάρει το κάθε μέρος. Βεβαιώσου να ορίσεις μία ημερήσια διάταξη ή ένα ωριαίο πρόγραμμα, συμπεριλαμβανομένων των αρχικών γνωριμιών και των εισαγωγών. Να δώσεις αρκετό χρόνο για το γεύμα και τα διαλείμματα για καφέ. Να είσαι συνετή με τις ώρες έναρξης και λήξης [βλέπε στο κεφάλαιο Για την μάθηση και την εκπαίδευση: Ξεκινώντας την επιμόρφωση].
 
-Before scheduling your event think about obstacles that might prevent or induce people to join and try to pick a suitable time and date of the event. Make sure to avoid conflict with any public holidays, religious holidays, or similar events. If your event is hosted at a university, keep class schedules in mind. Consider to place your training session along with a larger conference or meeting in order to bring more attention, increase the attendance and get the chance to bring any speaker attending the other event.  A family friendly workshop should avoid evenings and weekends, provide childcare or childcare sponsorships, and ensure areas for breastfeeding mothers. 
+Πριν προγραμματίσεις την εκδήλωσή σου σκέψου  τι θα μπορούσε να εμποδίσει ή αντιθέτως, να προτρέψει τη συμμετοχή και προσπάθησε να διαλέξεις μια κατάλληλη ώρα και μέρα για την εκδήλωση. Βεβαιώσου ότι δεν συμπίπτει με κάποια επίσημη ή θρησκευτική αργία ή παρόμοιες εκδηλώσεις. Εάν η εκδήλωσή σου φιλοξενείται σε ένα πανεπιστήμιο, να πάρεις υπόψη σου το πρόγραμμα των μαθημάτων. Σκέψου να εντάξεις την επιμόρφωσή σου σε ένα μεγαλύτερο συνέδριο ή συνάντηση για να τραβήξεις περισσότερη προσοχή, να αυξήσεις τη συμμετοχή και να έχεις την ευκαιρία να φέρεις οποιαδήποτε ομιλήτρια από την άλλη εκδήλωση. Ένα εργαστήριο φιλικό προς οικογένειες θα πρέπει να αποφύγει τα απογεύματα και τα σαββατοκύριακα, να παρέχει φύλαξη παιδιών ή χορηγούς για τη φύλαξη παιδιών και να διασφαλίσει περιοχές για μητέρες που θηλάζουν.
 
 ## <img src="/Images/Icons/budget.png" width="150" height="150" />
-### Budget
+### Προϋπολογισμός 
 
-You may need financial support to help run your event, to pay for things like the venue (if the host institution cannot or will not provide this for free), travel support for non-local trainers/experts, refreshments, materials (e.g., name badges, USB drives) and swag. Most types of training will need at least a little money for material and equipment. Also keep in mind that the costs associated with human resource are often the largest costs associated with running an event. It is good to identify time needed for staff to prepare materials and content which is often not budgeted for. These costs may be covered through as a core aspect of the job, but if not it might be wise to ensure funding to cover this aspect is sourced.
+Μπορεί να χρειαστείς οικονομική υποστήριξη για να μπορέσεις να πραγματοποιήσεις την εκδήλωσή σου, να πληρώσεις για πράγματα όπως ο χώρος (εάν το ίδρυμα υποδοχής δεν μπορεί ή δεν τον παρέχει δωρεάν), για υποστήριξη ταξιδιού για μη τοπικές εκπαιδεύτριες/εμπειρογνώμονες, αναψυκτικά, υλικά (π.χ. ταμπελίτσες αναγραφής ονόματος, USB) και δωράκια. Οι περισσότεροι τύποι εκδηλώσεων θα χρειαστούν τουλάχιστον ένα μικρό ποσό χρημάτων για υλικό και εξοπλισμό. Να έχεις επίσης υπόψη σου ότι το κόστος που σχετίζεται με τους ανθρώπινους πόρους είναι συνήθως το μεγαλύτερο στην πραγματοποίηση μιας εκδήλωσης. Είναι καλό να προσδιορίσεις τον χρόνο που απαιτείται από το προσωπικό για να προετοιμάσει τα υλικά και το περιεχόμενο τα οποία συνήθως δεν χρηματοδοτούνται. Αυτό το κόστος μπορεί να καλυφθεί ως βασικό κομμάτι της εργασίας, αλλά εάν όχι, θα ήταν σκόπιμο να εξασφαλίσεις χρηματοδότηση για να καλύψεις αυτό το κομμάτι.
 
-Consider different ways of creating a budget for your training. If possible request funds from your institution. Otherwise you might have to charge a fee from participants or look for scholarships and other ways of funding. 
+Σκέψου διαφορετικούς τρόπους για να δημιουργήσεις έναν προϋπολογισμό για την επιμόρφωσή σου. Εάν είναι δυνατόν, αιτήσου χρηματοδότηση από τον φορέα σου. Διαφορετικά μπορεί να πρέπει να χρεώσεις ένα αντίτιμο συμμετοχής ή να ψάξεις για υποτροφίες και άλλους τρόπους χρηματοδότησης.  
 
-#### Fee
+#### Αντίτιμο συμμετοχής
 
-Collecting and managing funds or fees can be tricky. If you plan to do this, you should consider using an existing online registration service (e.g., Eventbrite, Event Smart) or your institution’s conference/event services. Although any cost impacts accessibility of the event, charging a nominal registration fee (e.g., $20–40 or €15–30) encourages those who register to actually attend—Software Carpentry found this reduced no-shows from almost a third to about 5% (Wilson 2016). 
+Η συλλογή και η διαχείριση της χρηματοδότησης και των αντιτίμων συμμετοχής μπορεί να είναι περίπλοκη. Εάν σχεδιάζεις να το κάνεις, θα πρέπει να σκεφτείς να χρησιμοποιήσεις μία υπάρχουσα διαδικτυακή υπηρεσίας εγγραφών (π.χ. Eventbrite, Event Smart) ή τις υπηρεσίες συνεδρίων/εκδηλώσεων του ιδρύματός σου. Παρόλο που η ύπαρξη αντιτίμου συμμετοχής έχει αντίκτυπο στην προσβασιμότητα της εκδήλωσης, η χρέωση ενός αντιτίμου εγγραφής (π.χ. 15–30€) προτρέπει τα άτομα που δήλωσαν συμμετοχή να συμμετάσχουν – Η Software Carpentry βρήκε πως αυτό μείωσε τη μη προσέλευση από σχεδόν το ένα τρίτο σε περίπου 5% (Wilson 2016).
 
-If planning to charge a fee of any sort, it is good to clarify with your institution's finance team how best to handle this. In some cases, the amount of time/effort required to set such things up can outweigh the value of charging - particularly if it is only a nominal fee being charged. Your institution will likely have specific financial processes and budget codes that need to be used so speak to them early on to see what is the best approach. This is true even when using external services such as Eventbrite (you'll need an institutional budget centre to allow the income to come into your institution).
+Εάν σχεδιάζεις να χρεώσεις ένα αντίτιμο συμμετοχής οποιουδήποτε είδους, είναι καλό να ζητήσεις διευκρινίσεις από την οικονομική ομάδα του ιδρύματός σου για το πως να το διαχειριστείς. Σε μερικές περιπτώσεις, ο χρόνος και η προσπάθεια που απαιτούνται για να ετοιμάσεις τέτοιου είδους πράγματα μπορεί να υπερβούν την αξία της χρέωσης – ειδικά όταν πρόκειται για χρέωση ενός ασήμαντου ποσού. Το ίδρυμά σου πιθανόν να έχει συγκεκριμένες οικονομικές διαδικασίες και κωδικούς προϋπολογισμού που απαιτούνται να χρησιμοποιηθούν, για αυτό μίλα με αυτές νωρίς ώστε να δεις ποια είναι η καλύτερη προσέγγιση. Αυτό ισχύει ακόμα και όταν χρησιμοποιείς εξωτερικές υπηρεσίες όπως το Eventbrite (θα χρειαστείς ένα κεντρικό προϋπολογισμό ιδρύματος για να μπορεί το εισόδημα να πιστωθεί στο ίδρυμά σου).
 
-If you do charge a fee, consider making a waiver available upon request for those unable to pay or creating scholarships. Scholarship allocation should be prioritized for groups that face the most barriers for self-funding.
+Εάν χρεώσεις ένα αντίτιμο, σκέψου να κάνεις διαθέσιμη μια αίτηση για απαλλαγή για τα άτομα που δεν είναι σε θέση να πληρώσουν ή να δημιουργήσεις υποτροφίες. Προτεραιότητα για τις υποτροφίες θα πρέπει να έχουν οι ομάδες που αντιμετωπίζουν να περισσότερα εμπόδια για αυτό-χρηματοδότηση.
 
-#### Funding
+#### Χρηματοδότηση
 
-You can get funding from a few difference sources: the host institution, external sponsors like companies, budgeted funds on faculty/principal investigator’s grants, or through registration fees. Check if there are any internal sources for funding, or relevant local organizations who can sponsor your event. If you have found a potential partner, check the funding conditions. This could include advertising on your event website or at the event itself.
+Μπορείς να πάρεις χρηματοδότηση από διάφορες πηγές: το ίδρυμα υποδοχής, εξωτερικούς χορηγούς όπως εταιρείες, κονδύλια από τον προϋπολογισμό ενός τμήματος ή της επικεφαλής ερευνήτριας ή μέσω αντιτίμων εγγραφής. Έλεγξε αν υπάρχουν εσωτερικές πηγές χρηματοδότησης, ή σχετικοί τοπικοί οργανισμοί που μπορεί να επιχορηγήσουν την εκδήλωσή σου.  Ένα έχεις βρει μια πιθανή συνεργάτιδα, έλεγξε τις προϋποθέσεις χρηματοδότησης. Αυτό μπορεί να περιλαμβάνει τη διαφήμιση στην ιστοσελίδα της εκδήλωσής σου ή στην ίδια την εκδήλωση. 
 
-Consider different levels of sponsorship (bronze, silver, gold) in case of bigger events. You might also want to look at other projects or programs to co-organize and  share costs with. 
+Σκέψου διαφορετικά επίπεδα επιχορήγησης (αργυρό, ασημένιο, χρυσό) σε περίπτωση μεγαλύτερων εκδηλώσεων. Μπορεί επίσης να θέλεις να δεις άλλα έργα ή προγράμματα για να συνδιοργανώσεις και να μοιραστείς το κόστος μαζί τους.
 
-## Organizational tasks 
+## Οργανωτικές υποχρεώσεις 
 ## <img src="/Images/Icons/laptop.png" width="150" height="150" /> <img src="/Images/Icons/wifi.png" width="150" height="150" />
-### Equipment & Media 
+### Εξοπλισμός& Μέσα
 
-#### Long-term preparation
+#### Μακροπρόθεσμη προετοιμασία
 
-Here are some things to consider:
+Παραθέτουμε μερικά πράγματα που θα πρέπει να σκεφτείς:
 
-Will participants need access to WIFI? Make sure that any requirements for access are dealt with ahead of time (e.g., by providing guest account details). Check if the venue has enough power outlets. Make sure to check with the venue owner in advance for availability of technical support. If you are planning on recording the event make sure you have the correct equipment, and that attendees are aware (and have consented) to being recorded. Think about how you are going to license any outcomes: will you apply a CC license to pictures, videos, and training materials? Are the authors ok with that? 
+Θα χρειαστούν οι συμμετέχουσες πρόσβαση σε ασύρματο δίκτυο; Βεβαιώσου ότι οι απαιτήσεις για πρόσβαση έχουν αντιμετωπιστεί εγκαίρως (π.χ. παρέχοντας λεπτομέρειες για λογαριασμούς προσκεκλημένων). Έλεγξε εάν ο χώρος έχει αρκετές πρίζες. Βεβαιώσου να ελέγξεις εκ των προτέρων με τον ιδιοκτήτη του χώρου για την διαθεσιμότητα τεχνικής υποστήριξης. Εάν σκοπεύεις να ηχογραφήσεις την εκδήλωση βεβαιώσου ότι έχεις τον κατάλληλο εξοπλισμό και ότι οι συμμετέχουσες είναι ενήμερες (και έχουν συναινέσει) στο να ηχογραφηθούν. Σκέψου πως θα αδειοδοτήσεις τα συμπεράσματα: θα δώσεις μία άδεια CC για τις φωτογραφίες, τα βίντεο και το υλικό επιμόρφωσης; Είναι σύμφωνες οι συγγραφείς με αυτό;
 
-#### Shortly before event
+#### Λίγο πριν την εκδήλωση
 
-Making sure that all of your equipment, media, and materials are in fully functioning order can help to avoid any embarrassing hiccups during your training. Make sure that your laptop, or the device which is hosting your material, is compatible with the media technology in the venue. Ask guest lectures for their presentations in advance and store them all on the same laptop. This will make it easier to switch from one speaker to the other. Make sure to bring any relevant adaptors or extensions. Check WiFi strength and power outlets, as well as, if the speaker and projectors work in advance, and that your file formats are supported. Make sure there is an emergency contact for technical issues.
+Βεβαιώσου ότι όλος ο εξοπλισμός, τα μέσα και το υλικό λειτουργούν πλήρως για να σε βοηθήσει να αποφύγεις αναποδιές κατά τη διάρκεια της επιμόρφωσης. Βεβαιώσου ότι ο φορητός υπολογιστής ή η συσκευή στην οποία είναι αποθηκευμένο το υλικό σου είναι συμβατή με τα τεχνολογικά μέσα στο χώρο. Ζήτα από πριν από τους προσκεκλημένους ομιλητές τις παρουσιάσεις τους και αποθήκευσέ τις όλες στον ίδιο φορητό υπολογιστή. Αυτό θα κάνει πιο εύκολη την μετάβαση από την μία ομιλήτρια στην άλλη. Βεβαιώσου ότι έχεις φέρει κάθε σχετικό μετασχηματιστή ή προέκταση. Έλεγξε εκ των προτέρων την ισχύ του ασύρματου δικτύου και τις πρίζες, καθώς επίσης και αν τα μικρόφωνα και ο προβολέας λειτουργούν και ότι υποστηρίζονται οι τύποι των αρχείων σου. Βεβαιώσου ότι υπάρχει τεχνική υποστήριξη για έκτακτη ανάγκη.
 
-Make sure to print out any paper handouts in advance, and to have enough of them to go around. If you plan to hand out a lot of material, consider providing folders or binders to help with organization. Or, consider just making all your material available digitally via your event website.
+Βεβαιώσου να τυπώσεις εκ των προτέρων οποιοδήποτε διανεμόμενα έντυπα και να έχεις αρκετά από αυτά για να μοιράσεις. Εάν σκοπεύεις να μοιράσεις πολύ υλικό, σκέψου να προμηθευτείς φακέλους ή ντοσιέ για να σε βοηθήσουν στην οργάνωση. Ή, σκέψου απλά να κάνεις όλο το υλικό σου διαθέσιμο ψηφιακά μέσω της ιστοσελίδας της εκδήλωσης.
 
-Preparing a variety of media can help engage an audience with diverse learning styles. You should prepare any teaching aids in advance (e.g, flipcharts, practical exercises, games). Bring notepads, post-it notes, pens, thumbtacks. If participants need any other computer-based materials make sure these are well-organized and available in advance.
+Προετοιμάζοντας μια ποικιλία μέσων μπορεί να βοηθήσει το ακροατήριο να γνωρίσει διαφορετικά στυλ μάθησης. Θα πρέπει να προετοιμάσεις τα εκπαιδευτικά βοηθήματα εξ αρχής (π.χ. διαγράμματα παρουσίασης, πρακτικές ασκήσεις, παιχνίδια). Προμηθεύσου με σημειωματάρια, αυτοκόλλητα σημειωματάρια, στυλό, πινέζες. Εάν οι συμμετέχουσες χρειαστούν οποιοδήποτε άλλο υπολογιστικό υλικό, φρόντισε να είναι καλά οργανωμένο και διαθέσιμο εκ των προτέρων.
 
-#### During the event
+#### Κατά τη διάρκεια της εκδήλωσης
 
-If your equipment fails, do not panic. Call the IT support and explain the problem to the attendees. Most people understand that. What might feel like hours to you are just a few minutes of lost time. If the equipment still not works try to work offline with flip charts for example. If you are relying heavily on media equipment and it is just a small group of participants suggest to reschedule the training.
+Εάν ο εξοπλισμός σου αποτύχει, μην πανικοβληθείς. Ειδοποίησε την υποστήριξη πληροφορικής και εξήγησε το πρόβλημα στις συμμετέχουσες. Οι περισσότεροι άνθρωποι το κατανοούν. Αυτό που μπορεί να μοιάζει ατελείωτο για σένα είναι μόνο μερικά λεπτά χαμένου χρόνου. Εάν ο εξοπλισμός συνεχίζει να μη λειτουργεί προσπάθησε να δουλέψεις σε περιβάλλον εκτός σύνδεσης, για παράδειγμα,  με διαγράμματα παρουσίασης. Εάν βασίζεσαι κυρίως στον εξοπλισμό μέσων και υπάρχει μικρός αριθμός συμμετεχόντων πρότεινε να προγραμματίσεις για άλλη στιγμή την επιμόρφωση.
 
 ## <img src="/Images/Icons/shout.png" width="150" height="150" />
-### Marketing & Advertising Strategy
+### Στρατηγική Προώθησης & Διαφήμισης
 
-#### Long before the event
+#### Πολύ πριν την εκδήλωση
 
-Developing a strong marketing and communication strategy is fundamental to driving participation, as well as teaching you how to develop and refine your messaging.
+Είναι βασικό να αναπτύξεις μια ισχυρή στρατηγική προώθησης και επικοινωνίας για να προσελκύσεις την συμμετοχή, και επίσης για να μάθεις πως να αναπτύξεις και να βελτιώσεις το μήνυμά σου.
 
-Consider which kind of name your training will have. Think about your framing and messaging. What are the common values that you can appeal to? For example, will you run an "Open Access workshop", or a workshop on “How to get published”? How are you going to get people in the room? Remember, training is not unidirectional, and can be incentivized by framing it as a networking opportunity. For example, find some partners in Graduate Schools, Master Schools, Support Staff trainings, Valorisation Center etc.
+Σκέψου τι όνομα θα έχει η επιμόρφωσή σου. Σκέψου για το πλαίσιο και το μήνυμα. Ποιες είναι οι κοινές αξίες που επικαλείσαι; Για παράδειγμα, θα πραγματοποιήσεις ένα «εργαστήριο Ανοικτής Πρόσβασης», ή ένα εργαστήριο «Πώς να πετύχετε τη δημοσίευση»; Πως θα κάνεις τους ανθρώπους να έρθουν στην αίθουσα; Θυμήσου, η επιμόρφωση δεν είναι μιας κατεύθυνσης και μπορεί να δώσει κίνητρα αν το οριοθετήσεις ως μια ευκαιρία δικτύωσης. Για παράδειγμα, βρες μερικές συνεργάτιδες σε πανεπιστημιακά Τμήματα Πτυχιακών ή Μεταπτυχιακών Σπουδών, στο Προσωπικό Υποστήριξης επιμορφώσεων, Κέντρα Αξιοποίησης, κτλ. 
 
-Consider both digital and non-digital media. Use institutional mailing lists and social media (e.g., Twitter, Facebook, blog). Will you have dedicated social media profiles? What sort of content will you share on them? Think about relevant images and logos. This is more important if you want to run more than one event. If the event is being run with the sponsorship of, or in coordination with, an institutional organization (e.g., the library, a particular college/department), then you may want or need to use the profiles of the organization. This might require someone else to post the material, so keep that in mind. Several of these recommendations might require organizational sign off or additional budget support - start investigating these options as soon as possible. 
+Σκέψου ψηφιακά και μη ψηφιακά μέσα. Χρησιμοποίησε τις λίστες ηλεκτρονικής αλληλογραφίας του ιδρύματος και τα μέσα κοινωνικής δικτύωσης (π.χ. Twitter, Facebook, ιστολόγια). Θα έχεις αποκλειστικά προφίλ σε μέσα κοινωνικής δικτύωσης; Τι είδους περιεχόμενο θα μοιράζεσαι σε αυτά; Σκέψου για σχετικές εικόνες και λογότυπα. Αυτό είναι πιο σημαντικό αν θέλεις να πραγματοποιήσεις περισσότερες από μία εκδηλώσεις. Εάν η εκδήλωση πραγματοποιείται με χορηγία, ή με τον συντονισμό ενός ιδρυματικού φορέα (π.χ. την βιβλιοθήκη, ένα συγκεκριμένο κολλέγιο/τμήμα), τότε μπορεί να θέλεις ή να απαιτείται να χρησιμοποιήσεις το προφίλ του οργανισμού. Αυτό μπορεί να απαιτεί από κάποιον τρίτο να ανεβάσει το υλικό, οπότε έχε το υπόψη. Πολλές από αυτές τις υποδείξεις μπορεί να απαιτούν οργανωτική έγκριση ή επιπλέον χρηματική υποστήριξη – ξεκίνα να διερευνάς αυτές τις επιλογές όσο πιο νωρίς γίνεται. 
 
-Find out if you can post flyers or posters at your institution. Are you going to design a poster? What sort of logos, images, text, and information do you need to include? Make sure to clearly communicate the pre-defined objectives (skills and knowledge). Ask relevant organisations to help with advertising. Connect with relevant media, create a press release. Use existing communication channels, e.g. at the university library you might ask subject librarians to promote the event to their academic communities.
+Μάθε αν μπορείς να αναρτήσεις φυλλάδια ή αφίσες στο ίδρυμά σου. Πρόκειται να  σχεδιάσεις μία αφίσα; Τι είδους λογότυπο, εικόνες, κείμενο και πληροφορίες χρειάζεται να συμπεριλάβεις; Βεβαιώσου να κάνεις σαφείς τους προκαθορισμένους στόχους (δεξιότητες και γνώση). Ζήτα από σχετικούς οργανισμούς να σε βοηθήσουν με την διαφήμιση. Κάνε επαφές με σχετικά μέσα, φτιάξε ένα δελτίο τύπου. Χρησιμοποίησε υπάρχοντες διαύλους επικοινωνίας, π.χ. στην πανεπιστημιακή βιβλιοθήκη, μπορείς να ζητήσεις από ειδικές βιβλιοθηκονόμους να προωθήσουν την εκδήλωση στην ακαδημαϊκή τους κοινότητα).
 
-#### Shortly before the event
+#### Λίγο πριν την εκδήλωση
 
-Send a reminder on social media and mailing lists. Put up signs so your attendees find the room.
+Στείλε μια υπενθύμιση στα μέσα κοινωνικής δικτύωσης και στις λίστες ηλεκτρονικής αλληλογραφίας. Τοποθέτησε σήμανση ώστε οι συμμετέχουσες να βρουν την αίθουσα.
 
-#### During the event
+#### Κατά τη διάρκεια της εκδήλωσης
 
-Publish pictures and short videos from the event on the website and social media. Tell participants the hashtag for the training and ask them to send at least one tweet/message during the event. Collect reasons for attendance for advertising of future events.
+Δημοσίευσε φωτογραφίες και μικρά βίντεο από την εκδήλωση στην ιστοσελίδα και στα μέσα κοινωνικής δικτύωσης. Πες στις συμμετέχουσες την ετικέτα (#hashtag) για το Twitter της εκδήλωσης και ζήτησέ τους να στείλουν τουλάχιστον ένα tweet/μήνυμα κατά τη διάρκεια της εκδήλωσης. Συγκέντρωσε τους λόγους συμμετοχής για να διαφημίσεις μελλοντικές εκδηλώσεις.
 
 ## <img src="/Images/Icons/check.png" width="150" height="150" />
-### Registration
+### Εγγραφές
 
-#### Long before the event
+#### Πολύ πριν την εκδήλωση
 
-Set up an event registration using a service like [Eventbrite](https://www.eventbrite.com) or [Event Smart](https://eventsmart.com) (which are free for free events, but may include fees if your event has a registration cost), or something like Google Forms to capture basic information. For smaller events you can also use registration via email. But don’t forget to send them a confirmation, when they register and before the event to send a reminder. 
+Ετοίμασε τις εγγραφές χρησιμοποιώντας μια υπηρεσία όπως το  [Eventbrite](https://www.eventbrite.com) ή το [Event Smart](https://eventsmart.com) (που είναι ελεύθερα διαθέσιμα για ανοικτές εκδηλώσεις, αλλά μπορεί να έχουν ένα αντίτιμο αν η εκδήλωσή σου έχει ένα κόστος εγγραφής), ή κάτι όπως το  Google Forms για να συλλέξεις βασικές πληροφορίες. Για μικρότερες εκδηλώσεις μπορεί επίσης να χρησιμοποιήσεις εγγραφή μέσω ηλεκτρονικού ταχυδρομείο. Αλλά μην παραλείψεις να τους στείλεις μια επιβεβαίωση, όταν εγγραφούν και πριν την εκδήλωση να στείλεις μια υπενθύμιση.  
 
-Think about the fee you want/need to charge (see budget). Think about the credits students can get. Is a certificate needed (see certification of attendance)?
+Σκέψου για το αντίτιμο συμμετοχής που θέλεις/πρέπει να χρεώσεις (βλέπε προϋπολογισμό). Σκέψου για την πίστωση που μπορεί να έχουν οι φοιτητές. Απαιτείται πιστοποιητικό (βλέπε πιστοποιητικό συμμετοχής); 
 
-Be sensible and transparent about the information you collect. If you need to ask information like gender, age or nationality, keep into account that this is not always as straightforward as you might think - always offer the option of a blank field. Please do not use the distinction between Mrs and Ms.
+Να είσαι συνετή και διαφανής με τις πληροφορίες που συλλέγεις. Εάν απαιτείται να ζητήσεις πληροφορίες όπως το φύλο, η ηλικία ή η εθνικότητα, έχε κατά νου ότι αυτό δεν είναι πάντα τόσο απλό όσο φαντάζεσαι – πάντα να δίνεις την επιλογή ενός κενού πεδίου. Παρακαλώ μην χρησιμοποιείς τη διάκριση μεταξύ Κα και Δίδα.
 
-You can make a short poll to measure what do participants already know about the topic (their pre-knowledge). It can help you to prepare training material. Make clear what data is going to be shared/retained and why. Always offer people the option of opting out, and keep any information you do archive safely stored. Consider creating a list of interested participants for a newsletter or for keeping in touch, but be aware of data protection (like the EU General Data Protection Regulation (Regulation (EU) 2016/679)). 
+Μπορείς να κάνεις μια μικρή δημοσκόπηση για να δεις τι γνωρίζουν ήδη οι συμμετέχοντες για το θέμα (την προϋπάρχουσα γνώση τους). Μπορεί να σε βοηθήσει να προετοιμάσεις το υλικό επιμόρφωσης. Κάνε σαφές ποια δεδομένα πρόκειται να μοιραστούν/διατηρηθούν και γιατί. Πάντα να δίνεις στους ανθρώπους την ευκαιρία της εξαίρεσης, και να κρατάς τις πληροφορίες που αρχειοθετείς ασφαλώς αποθηκευμένες. Σκέψου να δημιουργήσεις μία λίστα από συμμετέχουσες που ενδιαφέρονται για ένα ενημερωτικό δελτίο ή για να κρατήσεις επαφή, αλλά πρέπει να προσέξεις για την προστασία των δεδομένων (όπως ο Γενικός Κανονισμός για την Προστασία των Δεδομένων της ΕΕ (Κανονισμός (ΕΕ)2016/679)).
 
-#### Shortly before the event
+#### Λίγο πριν την εκδήλωση
 
-Depending on the size of the audience, provide a separate staffed registration desk. Make sure staff has all information including a participants list, and let them take care of badges and attendance sheets/certificates. 
+Διέθεσε ανάλογα με  το μέγεθος του ακροατηρίου, στελεχωμένα γραφεία για τις εγγραφές. Βεβαιώσου ότι το προσωπικό έχει όλες τις πληροφορίες, συμπεριλαμβανομένης μία λίστας με τις συμμετέχουσες, και άφησέ τους να φροντίσουν για τις ταμπελίτσες αναγραφής ονόματος και τα έγγραφα/πιστοποιητικά των συμμετεχόντων. 
 
-If there is no separate registration desk, prepare a cheat sheet with information to keep at hand (think: public transportation, emergency numbers, requests for certificates, safety during the event  etc.). 
+Εάν δεν υπάρχει ένα ξεχωριστό γραφείο για εγγραφές, γράψε σε ένα χαρτί  πληροφορίες (σκέψου: δημόσια συγκοινωνία, αριθμούς έκτακτης ανάγκης, αιτήσεις για πιστοποιητικά, ασφάλεια κατά τη διάρκεια της εκδήλωσης, κτλ.).
 
-#### During the event
+#### Κατά τη διάρκεια της εκδήλωσης
 
-Do you have consent from participants to re-use or share their contact information or to take pictures and publish them? Did all participants sign the participants list?
+Έχεις την σύμφωνη γνώμη των συμμετεχόντων για να επαναχρησιμοποιήσεις ή να μοιραστείς τα στοιχεία επικοινωνίας τους ή να τραβήξεις φωτογραφίες και να τις δημοσιεύσεις; Υπέγραψαν όλες οι συμμετέχουσες τη λίστα των συμμετεχόντων;
 
 ## <img src="/Images/Icons/email.png" width="150" height="150" />
-### Communication
+### Επικοινωνία
 
-#### Long before the event
+#### Πολύ πριν την εκδήλωση
 
-Prepare and send formal invitations to participants, guest and keynote speakers. 
+Ετοίμασε και στείλει επίσημες προσκλήσεις σε συμμετέχουσες, προσκεκλημένους και κεντρικές ομιλήτριες. 
 
-Create a website for the training event, such as using GitHub Pages or on an institutional website. [link to examples/template]
+Δημιούργησε μια ιστοσελίδα για την εκδήλωση επιμόρφωσης, όπως με το να χρησιμοποιείς τις σελίδες του GitHub ή την ιστοσελίδα ενός ιδρύματος. [βλέπε στα παραδείγματα/πρότυπο]
 
-Make sure any key resources are visible and accessible if needed. If you want the participants to come with research outputs (e.g., papers, code, data) for exercises, let them know with plenty of time to prepare (and consider making this optional).
+Βεβαιώσου ότι όλες οι βασικές πηγές είναι εμφανείς και προσβάσιμες αν απαιτείται. Εάν θέλεις οι συμμετέχουσες να προσέλθουν με συμπεράσματα έρευνας (π.χ. πρακτικά συνεδρίων, κώδικα, δεδομένα) για ασκήσεις, ενημέρωσέ τους εγκαίρως ώστε να έχουν το χρόνο να προετοιμαστούν (και σκέψου αν θα το κάνεις προαιρετικό). 
 
-#### Shortly before the event
+#### Λίγο πριν την εκδήλωση
 
-Communicate requirements to your audience in advance.
+Ενημέρωσε εκ των προτέρων το ακροατήριο σου για τα εξής:
 
-* Let them know if they need to bring laptops or other work materials.
+* Αν απαιτείται να φέρουν υπολογιστές ή άλλο υλικό εργασίας.
 
-* Make sure any prerequisites for software or programming abilities are communicated in advance.
+* Βεβαιώσου ότι έχουν ενημερωθεί εξ αρχής για τυχόν προαπαιτούμενα σε λογισμικό ή δυνατότητες προγραμματισμού.
 
-* Provide basic contextual reading materials, so you don’t have to start at the beginning point.
+* Προμήθευσέ τους με σχετικό ενημερωτικό υλικό, ώστε να μη χρειαστεί να ξεκινήσεις από την αρχή.
 
-Send a reminder email to your attendees a day or two in advance of the event, if possible (this may not be necessary if you are relying on a registration service). 
+Εάν είναι δυνατόν, στείλε ένα ηλεκτρονικό μήνυμα υπενθύμισης στις συμμετέχουσες μία ή δύο ημέρες πριν την εκδήλωση (αυτό μπορεί να μην είναι απαραίτητο εάν βασίζεσαι σε μια υπηρεσία για εγγραφές).
 
-Remind people about reachability and accessibility of the venue. Send detailed instructions for parking and public transport options.
+Υπενθύμισε στους ανθρώπους για τον τρόπο προσέγγισης και προσβασιμότητας του χώρου. Στείλε λεπτομερείς οδηγίες για θέσεις στάθμευσης και επιλογές δημόσιας συγκοινωνίας.
 
-#### During the event
+#### Κατά τη διάρκεια της εκδήλωσης
 
-Dedicate some time to housekeeping at the start of your event. Write down hashtags and WIFI passwords.
+Αφιέρωσε λίγο χρόνο στην αρχή της εκδήλωσή σου για τακτοποίηση. Κατέγραψε ετικέτες για το Tweeter (#) και κωδικούς για το ασύρματο δίκτυο.
 
 ## <img src="/Images/Icons/lunch_break.png" width="150" height="150" />
-### Catering
+### Εστίαση
 
-#### Long before the event
+#### Πολύ πριν την εκδήλωση
 
-What refreshments will you either need to provide, or will people need to bring their own? If you provide refreshments, you may need to obtain funding or charge for registration. 
+Τι αναψυκτικά θα χρειαστεί να προσφέρεις εσύ ή να φέρουν οι ίδιοι; Εάν τα προσφέρεις εσύ θα πρέπει να έχεις χρηματοδότηση ή να χρεώσεις για την εγγραφή.
 
-If relevant, you can ask during registration in advance for dietary requirements - but keep in mind this might make it very complicated for you. Sometimes it’s better to ask the caterer to provide sufficient varieties (vegetarian, vegan, gluten free, etc.) and add one free field on your submission forms so that participants can fill in specific requests if necessary (e.g. intolerances and allergies). 
+Εάν είναι σημαντικό, μπορείς να ρωτήσεις κατά τη διάρκεια των εγγραφών για διατροφικές απαιτήσεις – αλλά έχε κατά νου ότι αυτό μπορεί να είναι πολύ περίπλοκο για σένα. Μερικές φορές είναι καλύτερο να ζητήσεις από τον εστιάτορα να έχει επαρκή ποικιλία (για χορτοφάγους, χωρίς γλουτένη, κτλ.) και πρόσθεσε ένα κενό πεδίο στην αίτηση συμμετοχής ώστε οι συμμετέχουσες να μπορούν να συμπληρώσουν συγκεκριμένες απαιτήσεις εάν χρειαστεί (π.χ. δυσανεξίες, αλλεργίες, θρησκευτικούς διατροφικούς περιορισμούς). 
 
-#### Shortly before the event
+#### Λίγο πριν την εκδήλωση
 
-Check the venue and inform the caterer where and when to deliver the refreshments. 
+Έλεγξε το χώρο και ενημέρωσε τον εστιάτορα πού και πότε να  παραδώσει τα αναψυκτικά
 
-#### During the event
+#### Κατά τη διάρκεια της εκδήλωσης
 
-Be sure you have the contact information of the caterer if the catering is not showing up, delivering the wrong lunch or forgot something.
+Βεβαιώσου ότι έχεις τα στοιχεία επικοινωνίας του εστιάτορα σε περίπτωση που δεν εμφανιστεί, παραδώσει λανθασμένο γεύμα ή ξεχάσει κάτι. 
 
 ## <img src="/Images/Icons/write.png" width="150" height="150" />
-### Code of Conduct
+### Κώδικας Δεοντολογίας
 
-#### Long before the event
+#### Πολύ πριν την εκδήλωση
 
-To help ensure your workshop is a friendly, inclusive, and respectful environment for trainers and participants, identify or create a robust Code of Conduct (CoC) for your event. Make sure the Code of Conduct is communicated in advance—we recommend prominent placement on your event website (see task 2) and onsite. Participants should be asked to review and acknowledge the Code of Conduct while registering for the workshop. Included in your Code of Conduct should be clear consequences of violation (for example, removal from the workshop). Ensure the reporting process for violations is communicated clearly before and during the event and that at least one designated organizer is identified as the point of contact, who is easily accessible to receive reports of code of conduct violations. Examples you can borrow or adapt from include: 
+Για να είναι βέβαιο ότι το εργαστήριο σου είναι ένα φιλικό, περιεκτικό και ευγενικό περιβάλλον για τις εκπαιδεύτριες και τις συμμετέχουσες, προσδιόρισε ή δημιούργησε έναν ισχυρό κώδικα δεοντολογίας (ΚΔ) για την εκδήλωσή του. Φρόντισε να έχει γίνει γνωστός εξ αρχής – προτείνουμε σε μία εμφανή θέση στην ιστοσελίδα της εκδήλωσή σου (βλέπε την εργασία 2) και στην ίδια την εκδήλωση.  Πρέπει να ζητηθεί από τις συμμετέχουσες να εξετάσουν και να αποδεχτούν τον Κώδικα Δεοντολογίας όταν θα εγγράφονται για το εργαστήριο. Στο Κώδικα Δεοντολογίας θα πρέπει να συμπεριληφθούν σαφώς οι συνέπειες παράβασης του (για παράδειγμα, διαγραφή από το εργαστήριο). Βεβαιώσου ότι η διαδικασία αναφοράς της παράβασης έχει γνωστοποιηθεί πριν και κατά τη διάρκεια της εκδήλωσης και ότι τουλάχιστον μία καθορισμένη οργανώτρια έχει οριστεί ως το σημείο επαφής, που είναι και εύκολα προσβάσιμη για να δεχτεί αναφορές παράβασης του κώδικα δεοντολογίας. Παραδείγματα που μπορείς να δανειστείς ή να υιοθετήσεις περιλαμβάνονται: 
 
 * [The Mozilla Science Lab Code of Conduct](https://science.mozilla.org/code-of-conduct)
 
@@ -376,314 +376,314 @@ To help ensure your workshop is a friendly, inclusive, and respectful environmen
 
 * [Mozilla Science Lab: Getting Started with Codes of Conduct](http://mozillascience.github.io/working-open-workshop/code_of_conduct/)
 
-#### Shortly before the event
+#### Λίγο πριν την εκδήλωσηnt
 
-Make sure the Code of Conduct is clearly visible/accessible from the event website (if one exists); if your event does not have or need a website, print out the CoC and give it to participants.
+Βεβαιώσου ότι ο Κώδικας Δεοντολογίας είναι σε εμφανές μέρος/προσβάσιμος από την ιστοσελίδα της εκδήλωσης (εάν υπάρχει). Εάν η εκδήλωσή σου δεν έχει ή δεν απαιτεί μία ιστοσελίδα, τύπωσε τον ΚΔ και μοίρασέ τον στους συμμετέχοντες. 
 
-#### During the event
+#### Κατά τη διάρκεια της εκδήλωσης
 
-Make sure there is a safe space for participants to report any breaches of the Code of Conduct. Communicate sanctions, and follow through if any breaches occur.
+Βεβαιώσου ότι υπάρχει ένα ασφαλές μέρος για τους συμμετέχοντες να αναφέρουν κάθε παράβαση του Κώδικα Δεοντολογίας. Ενημέρωσε για τις κυρώσεις και εφάρμοσέ τις αν υπάρχει παράβαση.
 
 ## <img src="/Images/Icons/badge.png" width="150" height="150" />
-### Certification of attendance
+### Πιστοποιητικό συμμετοχής
 
-#### Long before the event
+#### Πολύ πριν την εκδήλωση
 
-Prepare a template and assign who will keep records or monitor registration process. 
+Προετοίμασε ένα πρότυπο και ανάθεσε σε κάποιαν να κρατάει τα αρχεία ή να επιβλέπει την διαδικασία των εγγραφών.
 
-#### Shortly before the event
+#### Λίγο πριν την εκδήλωση
 
-Prepare a generic certificate of attendance with event or organiser’s logos and event information that can be distributed digitally when requested.  
+Προετοίμασε ένα γενικό πιστοποιητικό συμμετοχής με το λογότυπο της εκδήλωσης ή του διοργανωτή και τις πληροφορίες για την εκδήλωση το οποίο να μπορεί να διανεμηθεί ψηφιακά αν απαιτηθεί.
 
-#### During the event
+#### Κατά τη διάρκεια της εκδήλωσης
 
-Ask participants if a certificate of attendance is needed.
+Ζήτα από τις συμμετέχουσες εάν χρειάζονται ένα πιστοποιητικό συμμετοχής.
 
-If a signature sheet is required, make sure you do a check during the day or ask to complete it at registration. 
+Εάν απαιτείται παρουσιολόγιο, φρόντισε να το κάνεις κατά τη διάρκεια της ημέρας ή ζήτα να συμπληρωθεί κατά την εγγραφή.
 
 ## <img src="/Images/Icons/sign_left.png" width="150" height="150" /> <img src="/Images/Icons/sign_right.png" width="150" height="150" />
-### Signs
+### Σήμανση
 
-#### Long before the event
+#### Πολύ πριν την εκδήλωση
 
-Check the venue and define spots to be marked by signs to help participants to easily find a room. 
+Έλεγξε το χώρο και προσδιόρισε ευκρινή σημεία για τη σήμανση για να βοηθήσεις τους συμμετέχοντες να βρουν την αίθουσα.
 
-#### Immediately before the event
+#### Ακριβώς πριν την εκδήλωση
 
-Design, print and place the signs and leave useful information at the reception desk. 
+Σχεδίασε, τύπωσε και τοποθέτησε τη σήμανση και άφησε σημαντικές πληροφορίες στο γραφείο υποδοχής.
 
-#### During the event
+#### Κατά τη διάρκεια της εκδήλωσης
 
-Remove the signs after the event.
+Αφαίρεσε τη σήμανση μετά το τέλος της εκδήλωσης.
 
 ## <img src="/Images/Icons/social_facebook.png" width="150" height="150" /> <img src="/Images/Icons/social_twitter.png" width="150" height="150" />
-### Social media and notes 
+### Μέσα κοινωνικής δικτύωσης και σημειώσεις
 
-#### Long before the event
+#### Πολύ πριν την εκδήλωση
 
-Plan your social media activities, ask colleagues from other departments and/or partner organization to help you in sharing information. 
+Σχεδίασε τις δράσεις στα μέσα κοινωνικής δικτύωσης, ζήτα από συναδέλφισσες από άλλα τμήμα ή/και συνεργαζόμενους οργανισμούς να σε βοηθήσουν να κάνεις γνωστές τις πληροφορίες. 
 
-#### Immediately before the event
+#### Ακριβώς πριν την εκδήλωση
 
-Prepare note documents (e.g. public Google Docs or etherpads). Make announcements on social media.
+Προετοίμασε έγγραφα σημειώσεων (π.χ. δημόσια Google Docs ή etherpads). Κάνε ανακοινώσεις στα μέσα κοινωνικής δικτύωσης. 
 
-#### During the event
+#### Κατά τη διάρκεια της εκδήλωσης
 
-Ask your audience whether they are ok with being filmed, photographed and featured on social media. If it's a big audience, you might consider handing out stickers to those who do not want to be featured.
+Ζήτα από το ακροατήριό σου αν συμφωνούν να μαγνητοσκοπηθούν, φωτογραφηθούν και να προβληθούν στα μέσα κοινωνικής δικτύωσης. Εάν πρόκειται για μεγάλο ακροατήριο, σκέψου μήπως μοιράσεις αυτοκόλλητα σε όσες δεν θέλουν να προβληθούν. 
 
-Assign note takers and people responsible for social media. Ideally, rotate heavily to avoiding slacking and loss of attention. 
+Ανάθεσε σε κάποιους να κρατάνε σημειώσεις και σε άλλες να είναι υπεύθυνες για τα μέσα κοινωνικής δικτύωσης. Ιδανικά, να εναλλάσσονται αρκετά για να αποφύγεις την χαλαρότητα και την απόσπαση προσοχής.  
 
 ## <img src="/Images/Icons/key.png" width="150" height="150" />
-## Event closure
+## Κλείσιμο της εκδήλωσης
 
-### Venue
+### Χώρος
 
-Make sure you leave the venue neat and clean, unless your agreement for using it doesn’t require this.
+Φρόντισε να αφήσεις το χώρο τακτοποιημένο και καθαρό, εκτός και αν η συμφωνία για τη χρήση του δεν το απαιτεί.
 
-### Debrief
+### Ανασκόπηση
 
-Debrief with the other trainers/speakers to self-assess how the event went.
+Κάνε ανασκόπηση με άλλες εκπαιδεύτριες/ομιλήτριες για να αυτοαξιολογήσεις την εκδήλωση.
 
-### Evaluation
+### Αξιολόγηση
 
-Send post-training assessment survey to participants [link to evaluation/assessment chapter] or distribute an evaluation form during the event and make sure people hand it in at the end.
+Μετά την επιμόρφωση στείλε ερωτηματολόγια στις συμμετέχουσες [βλέπε στο κεφάλαιο αξιολόγηση/αποτίμηση] ή μοίρασε μία φόρμα αξιολόγησης κατά τη διάρκεια της εκδήλωσης και φρόντισε ότι όλοι θα την παραδώσουν στο τέλος.
 
-Read and count the questions in the evaluation form. Make your self-evaluation.
+Διάβασε και απάντησε τις ερωτήσεις στην φόρμα αξιολόγησης. Κάνε την αυτοαξιολόγησή σου.
 
-### Dissemination
+### Διάδοση
 
-Upload all the material used during the event (presentations, documents) if they were not available beforehand. Make sure to provide open licenses if possible, and make sure participants are not identifiable (e.g., within a notes document). 
+Ανέβασε όλο το υλικό που χρησιμοποιήθηκε κατά τη διάρκεια της εκδήλωσης (παρουσιάσεις, έγγραφα) εάν δεν ήταν διαθέσιμα από πριν. Εάν είναι δυνατόν, φρόντισε να παρέχεις άδειες ανοικτής πρόσβασης  και βεβαιώσου ότι οι συμμετέχοντες δεν μπορούν να ταυτοποιηθούν (π.χ. μέσα σε ένα έγγραφο σημείωσης). 
 
-Prepare a report for your funder or institution and if needed make it public (e.g. blog, twitter, website). 
+Προετοίμασε μια αναφορά για την χρηματοδότριά σου ή το ίδρυμα και αν απαιτείται δημοσιοποίησέ την (π.χ. ιστολόγιο, twitter, ιστοσελίδα).
 
 ## <img src="/Images/Icons/coffee_break.png" width="150" height="150" /> <img src="/Images/Icons/toilets.png" width="150" height="150" />
-## Checklist
+## Λίστα ελέγχου
 
 <table>
   <tr>
-    <td>What</td>
-    <td>When and who?</td>
-    <td>Done?</td>
+    <td>Τι</td>
+    <td>Πότε και ποια;</td>
+    <td>Ολοκληρώθηκε;</td>
   </tr>
   <tr>
-    <td>Equipment/media</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Determine what technical equipment is needed</td>
+    <td>Εξοπλισμός/μέσα</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check if enough power outlets are available</td>
+    <td>Καθόρισε τι τεχνικός εξοπλισμός απαιτείται</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Order wifi for participants</td>
+    <td>Έλεγξε αν υπάρχουν αρκετές πρίζες</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Organize video recording and taking pictures</td>
+    <td>Ζήτησε ασύρματο δίκρυο για τις συμμετέχουσες</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Test equipment a few days before the training</td>
+    <td>Οργάνωσε τη βιντεοσκόπηση και τη φωτογράφηση</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Print out handouts, feedback forms and material for exercises or publish them online</td>
+    <td>Έλεγξε τον εξοπλισμό λίγες ημέρες πριν την επιμόρφωση</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Prepare flip charts and pinboards</td>
+    <td>Τύπωσε φυλλάδια, φόρμες για σχόλια και υλικό για ασκήσεις ή δημοσίευσέ τα διαδικτυακά</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Venue</td>
+    <td>Προετοίμασε διαγράμματα παρουσίασης και πίνακες ανακοινώσεων</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check elevator access, accessible entrances, ramps</td>
+    <td>Χώρος</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check public transport and parking availability</td>
+    <td>Έλεγξε την πρόσβαση με ανελκυστήρες, τις προσβάσιμες εισόδους και τις ράμπες</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Locate maternity room, prayer room and gender neutral washrooms</td>
+    <td>Έλεγξε τη δημόσια συγκοινωνία και τη διαθεσιμότητα χωρου στάθμευσης</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Clear, legible signs</td>
+    <td>Χωροθέτησε αίθουσες για μητέρες, αίθουσα προσευχής και ουδέτρες τουαλέτες</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Brief your helpers before the event</td>
+    <td>Ξεκάθαρη, ευανάγνωστη σήμανση</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Marketing/advertising</td>
+    <td>Ενημέρωσε τους βοηθούς σου πριν την εκδήλωση</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Identify communication channels</td>
+    <td>Προώθηση/διαφήμιση</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Set up online presence</td>
+    <td>Προσδιόρισε τους δίαυλους επικοινωνίας</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Send event information to mailing lists</td>
+    <td>Στήσε διαδικτυακή παρουσία</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Inform about your event in social media</td>
+    <td>Στείλε τις πρληροφορίες για την εκδήλωση σε λίστες ηλεκτρονικού ταχυδρομείου</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Registration</td>
+    <td>Ενημέρωσε τα μέσα κοινωνικής δικτύωσης για την εκδήλωσή σου</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Set up registration module</td>
+    <td>Εγγραφές</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Collect information on dietary needs and allergies</td>
+    <td>Διαφόρφωσε ένα πρότυπο για τις εγγραφές</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Ask for childcare needs</td>
+    <td>Συγκέντρωσε πληροφορίες για διατροφικές συνήθειες και αλλεργίες</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Provide hotel information for events over several days</td>
+    <td>Ρώτα για την ανάγκη φύλαξης παιδιών</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Send confirmations/invitations to attendees and provide clear text and image instructions to the venue</td>
+    <td>Προμηθεύσου με πληροφορίες για ξενοδοχεία που φιλοξενούν εκδηλώσεις αρκετές ημέρες πριν</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Send a reminder 1 or 2 days before the event</td>
+    <td>Στείλε επιβεβαιώσεις/προσκλήσεις στις συμμετέχουσες και δώσε σαφείς οδηγίες κειμένου και εικόνας στον χώρο</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Prepare name tags and print participants list</td>
+    <td>Στείλε μια υπενθύμιση 1 ή 2 ημέρες πριν την εκδήλωση</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Prepare a registration desk</td>
+    <td>Προετοίμασε ταμπελίτσες αναγραφής ονόματος και τύπωσε τις λίστες με τους συμμετέχοντες</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Organise a wardrobe checkroom for larger events</td>
+    <td>Προετοίμασε ένα γραφείο εγγραφών</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Catering</td>
+    <td>Οργάνωσε μια γκαρνταρόμπα για μεγαλύτερες εκδηλώσεις</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Identify catering options and needs</td>
+    <td>Εστίαση</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Order catering </td>
+    <td>Προσδιόρισε επιλογές εστίασης και ανάγκες</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check if meals are clearly labeled (especially regarding dietary needs and allergies)</td>
+    <td>Παράγγειλε την εστίαση </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Communication during event</td>
+    <td>Έλεγξε εάν τα γεύματα κατανομάζονται σαφώς (ειδικά όσον αφορά τις διατροφικές ανάγκες και τις αλλεργίες)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Inform the participants where to find emergency exits, food/beverages and restrooms etc.</td>
+    <td>Επικοινωνία κατά τη διάρκεια της εκδήλωσης</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Hand out consent forms for video recordings, live streaming and/or photos</td>
+    <td>Ενημέρωσε τους συμμετέχοντες για τις εξόδου κινδύνου, για το φαγητό/τα πτά και τις αίθουσες αναμονής, κτλ.</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Post event dissemination</td>
+    <td>Μοίρασε φόρμες συναίνεσης για την βιντεοσκόπηση, την ζωντανή αναμετάδοση ή και τις φωτογραφίες</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Make photos of flip charts and other non-digital material or results</td>
+    <td>Ανάρτησε για την διάδοση της εκδήλωσης</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Hand out or send certificates of attendance</td>
+    <td>Φωτογράφησε τα διαγράμματα παρουσίασης και άλλο μη ψηφιακό υλικό ή αποτελέσματα</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Provide or send training material (slides, notes, video recordings) to the attendees</td>
+    <td>Μοίρασε ή στείλε τα πιστοποιητικά συμμετοχής</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Provide a report for your funder or institution</td>
+    <td>Δώσε ή στείλε το υλικό της επιμόρφωσης (διαφάνειες, σημειώσεις, μαγνητοσκοπημένα βίντεο) στις συμμετέχουσες</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Evaluation</td>
+    <td>Δώσε μια αναφορά στην χρηματοδότριά σου ή στο φορέα σου</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Hand out or provide an online or printed form for feedback</td>
+    <td>Αξιολόγηση</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Μοίρασε ή δώσε μια διαδικτυακή ή έντυπη φόρμα για σχόλια</td>
     <td></td>
     <td></td>
   </tr>
 </table>
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-## References
+## Βιβλιογραφία
 
 Wilson G. Software Carpentry: lessons learned [version 2; referees: 3 approved]. F1000Research. 2016;3:62: [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 
 
