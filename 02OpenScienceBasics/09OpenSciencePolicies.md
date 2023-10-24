@@ -1,74 +1,74 @@
 ## <img src="/Images/Icons/open_government.png" width="200" height="200" />
-## 9. Open Science Policies
+## 9. Πολιτικές για την Ανοικτή Επιστήμη
 
-### What is it?
+###  Τι είναι;
 
-We could define Open Science policies as those strategies and actions aimed at promoting Open Science principles and at acknowledging Open Science practices. Those policies are usually established by research performing institutions, research funders, governments or publishers. The initial policies were aimed at requiring an open dissemination of the research results based on the idea that results achieved from publicly funded research should be available to the public without any restriction. However, now the scope of the policies has grown and we may find national policies fostering Open Science practices at any point of the research level. Moreover, we might find specific provisions in new and existing laws, regulations or directives.
+Οι πολιτικές για την Ανοικτή Επιστήμη θα μπορούσαν να οριστούν ως οι στρατηγικές και οι δράσεις που έχουν στόχο την προώθηση των αρχών της Ανοικτής Επιστήμης καθώς και την αναγνώριση των πρακτικών της. Αυτές οι πολιτικές συνήθως καθιερώνονται από ερευνητικούς φορείς, χρηματοδότες έρευνας, κυβερνήσεις ή εκδότες. Αρχικά οι πολιτικές στόχευαν στην ανοικτή διάχυση των αποτελεσμάτων της έρευνας και βασιζόταν στην ιδέα ότι η δημόσια χρηματοδοτούμενη έρευνα πρέπει να είναι διαθέσιμη στο κοινό χωρίς κανένα περιορισμό. Ωστόσο, σήμερα το πεδίο των πολιτικών έχει διευρυνθεί και ενδέχεται να συναντήσουμε εθνικές πολιτικές που υιοθετούν τις πρακτικές της ανοικτής επιστήμης σε ποικίλα σημεία του επιπέδου της έρευνας. Επιπλέον, ενδέχεται να βρούμε ειδικές διατάξεις σε νέους και υφιστάμενους νόμους, κανονισμούς ή οδηγίες.
 
 ## <img src="/Images/02 Open Science Basics/02_open_policies.png" />
 
-### Rationale
+### Σκεπτικό / Προσέγγιση
 
-Since one of the main drivers to Open Science are the current policies established by institutions, funders, governments and publishers, it is important to know how they affect any researcher. If you are planning to design a policy aimed at the adoption and acknowledgement of Open Science practices is important to know the existing policies in order to avoid any overlapping or contradiction. Therefore researchers and policy makers should have a knowledge of the current policies and should be able to understand how they affect them.
+Εφόσον μια από τις βασικές κινητήριες δυνάμεις της Ανοικτής Επιστήμης είναι οι τρέχουσες πολιτικές που θεσπίζονται από θεσμικά όργανα, χρηματοδότες, κυβερνήσεις και εκδότες, είναι σημαντικό να γνωρίζουμε πώς αυτές επηρεάζουν τους ερευνητές. Εάν σκοπεύετε να σχεδιάσετε μια πολιτική που να στοχεύει στην υιοθέτηση και αναγνώριση των πρακτικών της Ανοιχτής Επιστήμης, είναι σημαντικό να γνωρίζετε τις υπάρχουσες πολιτικές προκειμένου να αποφύγετε τυχόν αλληλοεπικαλύψεις ή ακόμα και αντιφάσεις. Κατά συνέπεια, οι ερευνητές και οι υπεύθυνοι για τη χάραξη πολιτικής πρέπει να γνωρίζουν τις τρέχουσες πολιτικές και να είναι σε θέση να κατανοήσουν τον τρόπο με τον οποίο τους επηρεάζουν.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Μαθησιακοί στόχοι
 
-1. Depending on your audience the objectives of the training session would be different. We can make a broad division between researchers \(in a broad sense\) and policy makers \(within an institution or funders - in a broad sense\).
+1. Ανάλογα με το κοινό σας, οι στόχοι του εκπαιδευτικού προγράμματος θα διαφέρουν. Μπορούμε να κάνουμε μια γενική διάκριση μεταξύ των ερευνητών με την ευρεία έννοια και των υπευθύνων χάραξης πολιτικής σε ένα ίδρυμα ή χρηματοδοτών με την ευρεία έννοια.
 
-2. If your training program is addressed mainly to researchers, including all "levels", then the main objective is to review how Open Science policies affect them.
+2. Εάν το εκπαιδευτικό σας πρόγραμμα απευθύνεται κυρίως σε ερευνητές, συμπεριλαμβανομένων όλων των "επιπέδων", τότε ο κύριος στόχος είναι να κάνετε μια επισκόπηση των τρόπων με τους οποίους αυτοί επηρεάζονται από τις πολιτικές της Ανοικτής Επιστήμης.
 
-3. If your training program is addressed to policy makers, you might focus in designing and implement a policy to foster Open Science.
+3. Εάν το εκπαιδευτικό σας πρόγραμμα απευθύνεται σε υπεύθυνους χάραξης πολιτικής, μπορείτε να εστιάσετε στο σχεδιασμό και στην εφαρμογή μιας πολιτικής για την υιοθέτηση της Ανοικτής Επιστήμης.
 
-4. If we want to train funders or policy makers within an institution then it should be important to show how to design, develop, implement and monitor a policy
+4. Εάν θέλουμε να προσφέρουμε εκπαίδευση σε χρηματοδότες ή υπευθύνους χάραξης πολιτικής σε ένα ίδρυμα, τότε είναι σημαντικό να παρουσιάσουμε τον τρόπο σχεδιασμού, ανάπτυξης, εφαρμογής και παρακολούθησης μιας πολιτικής. 
 
-### Key components
+### Βασικά σημεία
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Γνώση
 
-You must review all the policies that affect your training audience. First of all check all the institutional policies at institutional level, for instance; copyright, intellectual property, open access, research data.
+Πρέπει να προχωρήσετε στην επισκόπηση κάθε πολιτικής που επηρεάζει το κοινό που πρόκειται να εκπαιδεύσετε. Καταρχήν ελέγξτε όλες τις πολιτικές σε θεσμικό επίπεδο, για παράδειγμα σχετικά με το copyright, την πνευματική ιδιοκτησία, την ανοικτή πρόσβαση, τα ερευνητικά δεδομένα.
 
-Secondly you may review any national policy or law that can affect researchers when performing Open Science, for instance laws with open access provisions or decrees affecting PhD dissertations , Call for projects.
+Δεύτερον, μπορείτε να προχωρήσετε στην επισκόπηση κάθε εθνικής πολιτικής ή νόμου που ενδέχεται να επηρεάζει τους ερευνητές κατά την εφαρμογή της Ανοικτής Επιστήμης, όπως για παράδειγμα νόμους με διατάξεις ανοικτής πρόσβασης ή διατάγματα που αφορούν τις διδακτορικές διατριβές, προσκλήσεις υποβολής προτάσεων.
 
-At the national level there could be some laws or decrees that directly or indirectly could influence a policy or pose some requirements. For instance you could review the national open access policies in Europe available at [OpenAIRE](https://www.openaire.eu/member-states-overview).
+Σε εθνικό επίπεδο μπορεί να υπάρχουν ορισμένοι νόμοι ή διατάγματα που ενδεχομένως άμεσα ή έμμεσα επηρεάζουν μια πολιτική ή θέτουν ορισμένες απαιτήσεις. Για παράδειγμα, μπορείτε να προχωρήσετε  στην επισκόπηση των εθνικών πολιτικών ανοικτής πρόσβασης στην Ευρώπη, που είναι διαθέσιμες στο  [OpenAIRE](https://www.openaire.eu/member-states-overview).
 
-Since science is international, then we should review any international policy that could affect your audience, mainly coming from international funders. At the European level we have the policies coming from the [H2020 research Framework](https://www.google.com/url?q=https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf&sa=D&ust=1521447690441000&usg=AFQjCNHsEo1FZkHkLDRxIUQr7BpfirASbQ) regarding the dissemination of research outputs but we could have other policies affecting other parts of the research cycle.
+Αφού η επιστήμη είναι παγκόσμια, πρέπει να γίνει επισκόπηση της διεθνούς πολιτικής που μπορεί να επηρεάζει το κοινό σας, ιδιαίτερα εκείνη που προέρχεται από  διεθνείς χρηματοδότες. Σε Ευρωπαϊκό επίπεδο έχουμε τις πολιτικές από το [Η2020 πρόγραμμα πλαίσιο για την έρευνα](https://www.google.com/url?q=https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf&sa=D&ust=1521447690441000&usg=AFQjCNHsEo1FZkHkLDRxIUQr7BpfirASbQ) σχετικά με τη διάχυση των ερευνητικών αποτελεσμάτων, αλλά μπορεί να έχουμε και άλλες πολιτικές που επηρεάζουν άλλες πλευρές του κύκλου της έρευνας. 
 
-Also at the international level, some publishers have introduced new policies, especially regarding the publication of research data when submitting a paper.
+Εξάλλου σε διεθνές επίπεδο, κάποιοι εκδότες έχουν ξεκινήσει να εφαρμόζουν νέες πολιτικές, κυρίως σχετικά με τη δημοσίευση των ερευνητικών αποτελεσμάτων κατά την υποβολή μιας δημοσίευσης. 
 
-If your training audience is willing to develop a roadmap or agenda to implement a national Open Science policy it could be advisable to benchmark what has been done in other parts. It As a starting point, the 2016 Amsterdam Call for Action could show some of the issues that must be taken into account and to whom are addressed. Examples of the \([Netherlands](https://www.openscience.nl/)\), \([Portugal](http://www.ciencia-aberta.pt)\), or \([Finland](https://openscience.fi/)\) can help to plan national policies, outline some actions and find how to measure their implementation.
+Εάν το κοινό που εκπαιδεύετε είναι πρόθυμο να αναπτύξει έναν οδικό χάρτη ή μια ατζέντα για την εφαρμογή μιας εθνικής πολιτικής Ανοιχτής Επιστήμης, προτείνεται να αποτελέσει σημείο αναφοράς ό,τι έχει γίνει σε άλλα μέρη. Ως σημείο εκκίνησης, η Πρόσκληση για Δράση του Άμστερνταμ του 2016 θα μπορούσε να δείξει ορισμένα από τα ζητήματα που πρέπει να ληφθούν υπόψη και εκείνους στους οποίους απευθύνεται. Τα παραδείγματα της \ ([Ολλανδίας] (https://www.openscience.nl/) \), \ ([της Πορτογαλίας] (http://www.ciencia-aberta.pt) \), ή (([της Φινλανδίας] (https://openscience.fi/)) μπορούν να βοηθήσουν στον σχεδιασμό των εθνικών πολιτικών, να περιγραφούν ορισμένες ενέργειες και να βρεθούν τρόποι μέτρησης της εφαρμογής τους.
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Skills
+#### Δεξιότητες
 
-Trainees would need to identify the main features of each policy mainly: to whom is addressed, what are the requirements, how they overlap with each other.
+Οι εκπαιδευόμενοι θα πρέπει να αναγνωρίζουν τα κύρια χαρακτηριστικά κάθε πολιτικής: σε ποιους απευθύνεται, ποιες είναι οι απαιτήσεις, πώς αλληλεπικαλύπτονται.
 
-You might show how researchers can fulfil with the different policies: where are the services, the tools that the institution can provide but also where they can find alternatives. For instance, an institution might not provide an infrastructure for depositing and publishing research data; but it can point out external solutions that fulfil policy requirements. It is also useful to compare those solutions with other external options with not desired features.
+Μπορείτε να παρουσιάσετε πώς οι ερευνητές μπορούν να εκπληρώσουν τις διάφορες πολιτικές: που είναι οι υπηρεσίες, ποια είναι τα εργαλεία που μπορεί να παρέχει το ίδρυμα και επίσης που μπορούν να βρουν εναλλακτικές λύσεις. Για παράδειγμα, ένα ίδρυμα ενδέχεται να μην παρέχει υποδομή για την κατάθεση και τη δημοσίευση δεδομένων έρευνας, αλλά να προτείνονται εξωτερικές λύσεις που πληρούν τις απαιτήσεις αυτής της πολιτικής. Είναι εξάλλου χρήσιμο να συγκρίνετε αυτές τις λύσεις με άλλες εξωτερικές επιλογές χωρίς τα επιθυμητά χαρακτηριστικά.
 
-When designing an Open Science policy, trainees would need to be able to define the main purposes of having such a policy and to establish the goals or changes they are pursuing. Once defined, they must be able to find key performance indicators to measure if the policy have achieved its goals and they must be able to review and update the policy if the goals are not achieved.
+Κατά το σχεδιασμό μιας πολιτικής Ανοικτής Επιστήμης, οι εκπαιδευόμενοι πρέπει να είναι σε θέση να καθορίζουν τους κύριους σκοπούς μιας τέτοιας πολιτικής και να αποσαφηνίζουν τους στόχους ή τις αλλαγές που επιδιώκουν. Αφού αυτά καθοριστούν, πρέπει να είναι σε θέση να εντοπίζουν βασικούς δείκτες απόδοσης για να μετρούν κατά πόσο η πολιτική έχει πετύχει τους στόχους της και να είναι σε θέση να αναθεωρήσουν και να επικαιροποιήσουν την πολιτική, εάν οι στόχοι δεν επιτευχθούν.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Ερωτήσεις, εμπόδια και συχνές παρερμηνείες 
 
-The main question coming from researchers in training sessions on policies is how they can fulfill the requirements without losing any freedom on deciding where to publish, for instance. You as a trainer, may describe all the available options researchers have because in general, Open Science policies provide a range of options.
+Το κύριο ερώτημα των ερευνητών στα εκπαιδευτικά προγράμματα για τις πολιτικές, αφορά τον τρόπο με τον οποίο μπορούν να εκπληρώνουν τις απαιτήσεις χωρίς να χάνουν την ελευθερία τους, διατηρώντας για παράδειγμα τη δυνατότητα να αποφασίζουν πού να δημοσιεύουν. Εσείς ως εκπαιδευτής, μπορείτε να περιγράψετε όλες τις διαθέσιμες επιλογές που έχουν οι ερευνητές, αφού γενικά οι πολιτικές της Ανοικτής Επιστήμης παρέχουν μια σειρά από επιλογές.
 
-Another question often raised is what happens if researchers don’t fulfil the requirements. In this case you may give examples of projects monitored by funders or warnings received by researchers.
+Ένα άλλο ερώτημα που τίθεται συχνά είναι τι συμβαίνει όταν οι ερευνητές δεν πληρούν τις απαιτήσεις. Σ’ αυτήν την περίπτωση μπορείτε να δώσετε παραδείγματα έργων που παρακολουθούνται από τους χρηματοδότες ή προειδοποιήσεις που έλαβαν ερευνητές.
 
-A common misconception regarding research data policy is that researchers should share all data openly. To overcome it, you must highlight the different excerpts in the text of a policy where there are explanations about which is the data affected by the policy and when it must be shared. We might also remark all the opt-out choices that policies include. A good resource to clarify those issues can be an infographic like the [one available from Horizon 2020](https://www.google.com/url?q=https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf&sa=D&ust=1521447690670000&usg=AFQjCNG6Qegy5MwM3bjNJ1ovWp1YlQSswQ).
+Μια συχνή παρανόηση σχετικά με την πολιτική για τα ερευνητικά δεδομένα, είναι ότι οι ερευνητές πρέπει να μοιράζονται όλα τα δεδομένα ως ανοιχτά. Για να την αποφύγετε, θα χρειαστεί να επισημάνετε διάφορα αποσπάσματα στο κείμενο μιας πολιτικής, με επεξηγήσεις σχετικά με το ποια δεδομένα επηρεάζονται από την πολιτική αυτή και πότε αυτά πρέπει να γίνονται διαθέσιμα σε όλους. Μπορούμε επίσης να τονίσουμε όλες τις επιλογές εξαίρεσης (opt-out) που περιλαμβάνουν οι πολιτικές. Μια καλή πηγή για την αποσαφήνιση αυτών των ζητημάτων μπορεί να είναι μια γραφική αναπαράσταση όπως αυτή που είναι [διαθέσιμη από το Horizon 2020](https://www.google.com/url?q=https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf&sa=D&ust=1521447690670000&usg=AFQjCNG6Qegy5MwM3bjNJ1ovWp1YlQSswQ). 
 
-When planning a policy is important to know what do you intend to achieve or solve. Sometimes policies are created following other initiatives without thinking if there is a need for another one and if your new policy will overlap other existing ones. The main challenge when creating a policy is to align it with other initiatives and to avoid contradictions with laws or regulations.
+Κατά τον σχεδιασμό μιας πολιτικής είναι σημαντικό να γνωρίζει κανείς τι σκοπεύει να πετύχει ή να λύσει. Μερικές φορές, οι πολιτικές δημιουργούνται μέσα από άλλες πρωτοβουλίες, χωρίς να έχει προηγηθεί απαραίτητα η σκέψη ότι υπάρχει ανάγκη για μια νέα πολιτική ή κατά πόσο αυτή η νέα πολιτική θα έχει αλληλοεπικάλυψη με τις ήδη υπάρχουσες. Η κύρια πρόκληση κατά τη δημιουργία μιας πολιτικής είναι η ευθυγράμμισή της με άλλες πρωτοβουλίες και η αποφυγή αντιφάσεων με τους νόμους και τους κανονισμούς. 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Μαθησιακοί Στόχοι
 
-1. Trainees would be able to identify the requirements of any policy that could affect them when performing Open Science.
-2. They would be able to distinguish among general policies like copyright or data protection and specific policies related to Open Science, for instance regarding how to disseminate research outputs. 
-3. They would be able to outline the steps to fulfill a certain policy.
-4. Trainees attending a session aimed at policy making would be able to plan an Open Science policy, establishing objectives and indicators to measure its implementation.
+1. Οι εκπαιδευόμενοι θα είναι σε θέση να αναγνωρίσουν τις απαιτήσεις κάθε πολιτικής που μπορεί να τους επηρεάζει όταν εφαρμόζουν την Ανοικτή Επιστήμη. 
+2. Θα μπορούν να διακρίνουν μεταξύ των γενικών πολιτικών όπως το copyright ή η προστασία των δεδομένων και των συγκεκριμένων πολιτικών που σχετίζονται με την Ανοικτή Επιστήμη, όπως π.χ. για τον τρόπο διάδοσης των αποτελεσμάτων της έρευνας. 
+3. Θα είναι σε θέση να περιγράψουν τα βήματα για την εκπλήρωση μιας συγκεκριμένης πολιτικής.
+4. Οι εκπαιδευόμενοι που συμμετέχουν σε ένα πρόγραμμα επειδή έχουν στόχο τη χάραξη πολιτικής, θα είναι σε θέση να σχεδιάσουν μια πολιτική Ανοιχτής Επιστήμης, καθορίζοντας τους στόχους και τους δείκτες για τη μέτρηση της εφαρμογής της.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further Reading
+### Περαιτέρω Διάβασμα
 
 * Providing researchers with the skills and competencies they need to practise Open Science. [Report of the Working Group on Education and Skills under Open Science](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg).
 
